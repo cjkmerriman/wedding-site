@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="224px" height="224px" viewBox="0 0 224 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>story-title</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="49.6296671%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FDF3E9" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-2" cx="110" cy="110" r="70"></circle>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="93.6474358%" gradientTransform="translate(0.500000,0.500000),rotate(54.912601),scale(1.000000,0.947304),translate(-0.500000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-4" cx="110" cy="110" r="70"></circle>
+        <filter x="-4.3%" y="-4.3%" width="108.6%" height="108.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="story-title">
+            <g id="Group-3" transform="translate(2.000000, 2.000000)">
+                <g id="Oval-12">
+                    <use fill="url(#radialGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <circle stroke="#000000" stroke-width="2" cx="110" cy="110" r="71"></circle>
+                </g>
+                <g id="Oval-12" opacity="0.21654212">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#radialGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <rect id="Rectangle-21" fill="#111111" x="109" y="0" width="2" height="30"></rect>
+                <rect id="Rectangle-21" fill="#111111" x="110" y="190" width="2" height="30"></rect>
+                <rect id="Rectangle-21" fill="#111111" transform="translate(205.000000, 105.000000) rotate(90.000000) translate(-205.000000, -105.000000) " x="204" y="90" width="2" height="30"></rect>
+                <rect id="Rectangle-21" fill="#111111" transform="translate(15.000000, 105.000000) rotate(90.000000) translate(-15.000000, -105.000000) " x="14" y="90" width="2" height="30"></rect>
+                <g id="Group-2" transform="translate(3.000000, 3.000000)" fill="#111111">
+                    <g id="Group">
+                        <rect id="Rectangle-21" transform="translate(26.820508, 56.866025) rotate(-60.000000) translate(-26.820508, -56.866025) " x="25.8205081" y="41.8660254" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(15.577336, 81.142307) rotate(-75.000000) translate(-15.577336, -81.142307) " x="14.5773356" y="66.1423067" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(81.142307, 15.577336) rotate(-15.000000) translate(-81.142307, -15.577336) " x="80.1423067" y="0.577335571" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(59.866025, 24.820508) rotate(-30.000000) translate(-59.866025, -24.820508) " x="58.8660254" y="9.82050808" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(41.849242, 37.849242) rotate(-45.000000) translate(-41.849242, -37.849242) " x="40.8492424" y="22.8492424" width="2" height="30"></rect>
+                    </g>
+                    <g id="Group" transform="translate(171.000000, 170.500000) scale(-1, -1) translate(-171.000000, -170.500000) translate(128.000000, 127.000000)">
+                        <rect id="Rectangle-21" transform="translate(24.820508, 58.866025) rotate(-60.000000) translate(-24.820508, -58.866025) " x="23.8205081" y="43.8660254" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(15.577336, 82.142307) rotate(-75.000000) translate(-15.577336, -82.142307) " x="14.5773356" y="67.1423067" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(81.142307, 15.577336) rotate(-15.000000) translate(-81.142307, -15.577336) " x="80.1423067" y="0.577335571" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(57.866025, 25.820508) rotate(-30.000000) translate(-57.866025, -25.820508) " x="56.8660254" y="10.8205081" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(39.849242, 39.849242) rotate(-45.000000) translate(-39.849242, -39.849242) " x="38.8492424" y="24.8492424" width="2" height="30"></rect>
+                    </g>
+                    <g id="Group" transform="translate(133.000000, 15.500000) scale(-1, 1) translate(-133.000000, -15.500000) translate(128.000000, 0.000000)">
+                        <rect id="Rectangle-21" transform="translate(5.142307, 15.577336) rotate(-15.000000) translate(-5.142307, -15.577336) " x="4.14230673" y="0.577335571" width="2" height="30"></rect>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(73.000000, 198.500000) scale(1, -1) translate(-73.000000, -198.500000) translate(55.000000, 179.000000)" fill="#111111">
+                    <g id="Group">
+                        <rect id="Rectangle-21" transform="translate(31.142307, 15.577336) rotate(-15.000000) translate(-31.142307, -15.577336) " x="30.1423067" y="0.577335571" width="2" height="30"></rect>
+                        <rect id="Rectangle-21" transform="translate(8.866025, 24.820508) rotate(-30.000000) translate(-8.866025, -24.820508) " x="7.8660254" y="9.82050808" width="2" height="30"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

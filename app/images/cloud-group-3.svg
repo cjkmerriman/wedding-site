@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="71px" viewBox="0 0 89 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud-group-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.7752932%" y1="93.756666%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M31.6965092,12.590268 C31.8330395,12.1403385 31.9082863,11.6613188 31.9082863,11.1648449 C31.9082863,8.70768688 30.1041079,6.67718618 27.7495416,6.31258815 C27.3828103,2.76551481 24.3859309,0 20.7424718,0 C17.9575635,0 15.5506347,1.6174189 14.4069993,3.9620945 C14.0705219,3.89227786 13.7224083,3.85543018 13.3651798,3.85543018 C10.5387694,3.85543018 8.24761989,6.14580395 8.24761989,8.97143865 C8.24761989,9.18670663 8.26507405,9.39615656 8.29028561,9.60366714 C8.09072638,9.58233427 7.88825811,9.57069817 7.68268688,9.57069817 C4.54442877,9.57069817 2,12.1151269 2,15.2529972 C2,18.3908674 4.54442877,20.9352962 7.68268688,20.9352962 C8.96653738,20.9352962 10.1466326,20.5047602 11.0982722,19.7872003 C12.0722144,21.0128702 13.5726904,21.8002468 15.2593441,21.8002468 C16.3467384,21.8002468 17.3567525,21.4724965 18.1990127,20.912024 C19.124665,21.4744358 20.2112835,21.8002468 21.3739245,21.8002468 C22.5274506,21.8002468 23.6059238,21.4802539 24.5265339,20.9255994 C25.4405501,21.596615 26.5657616,22 27.7875529,22 C30.8340797,22 33.3038434,19.5292666 33.3038434,16.4825458 C33.3038434,14.9640339 32.6896509,13.5890339 31.6965092,12.590268" id="path-2"></path>
+        <filter x="-22.4%" y="-31.8%" width="144.7%" height="163.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M29.6661919,49.0228636 C29.6661919,49.0166792 29.6670165,49.0104948 29.6670165,49.0063718 C29.6670165,46.5367316 27.6651237,44.535045 25.1958958,44.535045 C24.49747,44.535045 23.8392429,44.6999625 23.2504873,44.9844453 C22.9402361,41.6283733 20.1174663,39 16.6797601,39 C13.3956334,39 10.673051,41.3995502 10.1657234,44.5391679 C10.1368628,44.5391679 10.1088268,44.535045 10.0797601,44.535045 C7.56456147,44.535045 5.42846702,46.1326837 4.61583583,48.3673163 C1.97612444,48.9507121 0,51.3007871 0,54.1146927 C0,57.3676912 2.63723763,60.0063718 5.89044228,60.0063718 C6.8987069,60.0063718 7.84739505,59.7528111 8.67713643,59.3054723 C9.64850075,60.3444528 11.0282421,61 12.5636244,61 C13.5910607,61 14.5471702,60.7031484 15.3608321,60.2001499 C16.0759558,60.701087 16.9456897,61 17.8863381,61 C18.9570652,61 19.9379123,60.6165667 20.7006559,59.9795727 C21.6810907,60.6248126 22.8528298,61 24.113006,61 C25.4966642,61 26.774569,60.5485382 27.8083958,59.7837331 C28.2965517,59.9259745 28.8113006,60.0063718 29.3454273,60.0063718 C32.3827961,60.0063718 34.8454273,57.542916 34.8454273,54.5063718 C34.8454273,51.577024 32.5534858,49.1898426 29.6661919,49.0228636" id="path-4"></path>
+        <filter x="-20.1%" y="-31.8%" width="140.2%" height="163.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M75.5098268,30.7290914 C75.553839,30.454015 75.5829768,30.1728258 75.5829768,29.8855238 C75.5829768,26.9473002 73.2024451,24.5673798 70.2656479,24.5673798 C68.5391868,24.5673798 67.0093545,25.3926091 66.0380291,26.6681486 C65.2115773,23.9662869 62.6983977,22 59.7257386,22 C56.080263,22 53.1251274,24.956562 53.1251274,28.6018338 C53.1251274,28.9258127 53.1497823,29.2457164 53.1950171,29.5574697 C50.795332,30.0913217 49,32.2287673 49,34.7900343 C49,37.3716773 50.824266,39.5254237 53.2537001,40.0368621 C53.7653422,42.3047143 55.7888858,44 58.2117996,44 C59.4800037,44 60.6371585,43.5333889 61.5279985,42.7652126 C62.2356581,43.5232009 63.2410114,44 64.3598592,44 C65.2401037,44 66.0494397,43.70251 66.7004538,43.20941 C67.4366398,43.7086228 68.324831,44 69.2812818,44 C71.5680837,44 73.4602019,42.3312031 73.8202464,40.1468927 C73.8548856,40.1468927 73.8889136,40.1530055 73.9239604,40.1530055 C76.6009632,40.1530055 78.7710105,37.9829582 78.7710105,35.3055478 C78.7710105,33.1844031 77.4066315,31.3851996 75.5098268,30.7290914" id="path-6"></path>
+        <filter x="-23.5%" y="-31.8%" width="147.0%" height="163.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-229.000000, -431.000000)">
+            <g id="cloud-group-3" transform="translate(234.000000, 436.000000)">
+                <g id="cloud-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="cloud-9">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="cloud-10">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="63px" viewBox="0 0 86 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud-group-5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.7752932%" y1="93.756666%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M76.3015481,36.6144743 C76.3015481,33.8841865 74.0880805,31.670719 71.3577928,31.670719 C71.1757432,31.670719 70.996125,31.6812043 70.8190901,31.7005034 C70.0012347,30.098072 68.3364992,29 66.4140374,29 C64.9631114,29 63.6582202,29.6250166 62.7537468,30.6206667 C61.9302688,29.8585811 60.8291576,29.3923639 59.6189382,29.3923639 C57.5992212,29.3923639 55.8835787,30.6893532 55.2565866,32.4954127 C52.8516478,32.8301833 51,34.8936651 51,37.3906924 C51,40.035426 53.0768544,42.1952512 55.6887644,42.3280653 C56.592022,43.5103239 58.0158989,44.2737772 59.6189382,44.2737772 C60.4366417,44.2737772 61.2073891,44.0739481 61.8869598,43.7223098 C62.5179029,44.5015671 63.4819451,45 64.5625416,45 C65.66654,45 66.6483617,44.4796847 67.2780891,43.6715548 C67.8635958,43.9159084 68.5060879,44.0513059 69.18034,44.0513059 C71.2685915,44.0513059 73.0530725,42.7556843 73.7776237,40.9251591 C75.2837117,40.0778232 76.3015481,38.4655143 76.3015481,36.6144743" id="path-2"></path>
+        <filter x="-27.7%" y="-43.8%" width="155.3%" height="187.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M45.3333854,5.33338543 C45.3333854,2.38779378 42.9454354,0 40,0 C37.9205658,0 36.1237033,1.19264657 35.2441049,2.92886866 C34.6914646,2.73506945 34.1000645,2.62441636 33.4813136,2.62441636 C31.4801805,2.62441636 29.7386446,3.72829039 28.8260691,5.35901694 C26.1188192,5.61455057 24,7.8924727 24,10.6666146 C24,13.6122062 26.3879501,16 29.3332291,16 C30.5052455,16 31.5855198,15.6174029 32.4654307,14.9767714 C33.3458105,15.6174029 34.4260847,16 35.5979448,16 C36.383613,16 37.1272393,15.825737 37.7988161,15.5206595 C38.4707055,15.825737 39.2143318,16 40,16 C40.9725907,16 41.8814152,15.7355579 42.6666146,15.2805986 C43.4519702,15.7355579 44.3607947,16 45.3333854,16 C48.2788208,16 50.6667709,13.6122062 50.6667709,10.6666146 C50.6667709,7.72117921 48.2788208,5.33338543 45.3333854,5.33338543" id="path-4"></path>
+        <filter x="-26.2%" y="-43.8%" width="152.5%" height="187.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M19.2173501,43.7131142 C19.1830566,43.7131142 19.1498475,43.7173162 19.1160962,43.7181294 C18.6168756,41.5622501 16.6858692,39.9549305 14.3781769,39.9549305 C13.8762453,39.9549305 13.3923416,40.0311081 12.9366317,40.1720773 C12.5915283,38.3660454 11.0056252,37 9.09874619,37 C6.9393426,37 5.18902067,38.750593 5.18902067,40.9098611 C2.3231447,40.9098611 0,43.2331413 0,46.0990173 C0,48.9648933 2.3231447,51.2881735 5.18902067,51.2881735 C5.72538123,51.2881735 6.24262962,51.2068451 6.72924432,51.0555744 C7.60677736,52.2353778 9.01118265,53 10.5943748,53 C12.1196882,53 13.4784141,52.2894612 14.3605557,51.1823111 C14.6937309,51.2774653 15.0441206,51.3318197 15.4080651,51.3318197 C16.1028804,51.3318197 16.7520163,51.1427313 17.3126398,50.8178245 C17.8733988,51.1427313 18.5226703,51.3318197 19.2173501,51.3318197 C21.3209082,51.3318197 23.026635,49.6262284 23.026635,47.5223992 C23.026635,45.41857 21.3209082,43.7131142 19.2173501,43.7131142" id="path-6"></path>
+        <filter x="-30.4%" y="-43.8%" width="160.8%" height="187.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-811.000000, -105.000000)">
+            <g id="cloud-group-5" transform="translate(816.000000, 110.000000)">
+                <g id="cloud-11">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="cloud-14">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="cloud-15">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

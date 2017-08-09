@@ -1,0 +1,1194 @@
+// bower:scss
+@import "bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+
+/* general styles */
+html, body {
+  padding: 0;
+  margin: 0;
+  width:100%;
+  height:100%;
+  font-size: 1em;
+}
+
+body {
+  font-family: Montserrat;
+  font-weight: 400;
+  color: #111;
+  font-size: 1.1em;
+  overflow-x: hidden;
+}
+
+.outer {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+section, footer {
+  padding: 30px 0 12px;
+  text-align: center;
+  width: 100%;
+}
+
+h1, h2, h3, h4 {
+  font-family: Merriweather, Serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.1em;
+  margin-bottom: 28px;
+  margin-top:0;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+h4 {
+  font-size: 1.1em;
+}
+
+p, .block {
+  line-height: 1.8em;
+  margin-bottom: 28px;
+  padding: 0 8px;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-skip: ink;
+  font-weight: 500;
+  display: inline-block;
+  color: darken(#E2A767, 8%);
+  filter: drop-shadow(0px 0px 0px rgba(0,0,0,.05));
+  cursor: pointer;
+
+  &:hover {
+    color:darken(#E2A767, 16%);
+  }
+}
+
+strong {
+  font-weight: 500;
+}
+
+em {
+  text-decoration-skip: ink;
+  text-decoration: underline;
+  font-style: normal;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+/* header styles */
+
+header {
+  
+  padding:20px 20px 300px 20px;
+  text-align: left;
+  position: absolute;
+  width: 100%;
+  color: #333;
+  background-image: url(../images/confetti-gold.svg), linear-gradient(-186deg, rgba(255,255,255,1) 0, rgba(255,255,255,.9) 80px, rgba(255,255,255,.6) 172px, rgba(255,255,255,0) 260px);
+  background-position: 0px 0px, top center;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 186px 124px, auto;
+  position: absolute;
+  z-index: 10;
+;
+
+  .profile {
+    background: url(../images/profile-border.svg) center center no-repeat;
+    background-size: 82px 82px;
+    width: 82px;
+    height: 82px;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+
+    h2 {
+      border:0;
+      padding: 0;
+      margin: 0;
+      transform: rotate(0);
+      font-weight: 900;
+      filter:none;
+      font-size: .9em;
+      filter: drop-shadow(0px 0px 0px rgba(0,0,0,.1));
+      background-image: linear-gradient(170deg, darken(#F7DDAB, 10%) 4%, #E2A767 82%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      display: none;
+    }
+  }
+  
+  .picture {
+    height: 72px;
+    width: 72px;
+    border-radius: 50px;
+    text-align: center;
+    filter: drop-shadow(0px 0px 4px rgba(0,0,0,.1));
+    margin-bottom: 16px;
+  }
+
+  .profile-alt {
+    display: none;
+
+    .picture-alt {
+      filter: none;
+    }
+  }
+
+  h1 {
+    color: #333;
+    font-weight: 900;
+    padding: 10px 20px;
+    margin: 0;
+    font-size: 1.2em;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 1em;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(170deg, #444 4%, #333 82%);
+
+    span {
+      font-weight:900;
+      background-image: linear-gradient(170deg, darken(#F7DDAB, 16%) 4%, darken(#E2A767, 1%) 82%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .strap {
+      font-size: .8em;
+      line-height: 1em;
+      margin-top:-2px;
+      position: relative;
+    }
+
+    .date {
+      font-size: .6em;
+      margin-top:-4px;
+      margin-left:1px;
+      position: relative;
+    }
+  }
+
+  .registry {
+    position: absolute;
+    right:12px;
+    top:24px;
+    font-family: Merriweather;
+    font-weight: 700;
+    font-size: 0.7em;
+    text-decoration: none;
+    border: 2px solid lighten(#E2A767, 0%);
+    padding: 4px 8px 3px;
+    border-radius: 24px;
+    z-index: 10;
+    display: none;
+
+    span {
+
+      background-image: linear-gradient(-170deg, darken(#F7DDAB, 20%) 2%, darken(#E2A767, 12%) 82%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+
+    }
+
+    &:hover {
+      border-color: #444;
+
+      span {
+        -webkit-text-fill-color: #444;
+      }
+    }
+
+  }
+}
+
+/* hero styles */
+
+.hero {
+  height: 100%;
+  width: 100%;
+  background: url('../images/hero-final.webp') center center no-repeat #f4f4f4;
+  background-size: cover;
+  overflow:hidden;
+  
+  video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -100;
+    right: 0;
+    bottom: 0;
+    background: url(../images/hero-open.webp) no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+  }
+}
+
+/* Story Styles */
+
+.story {
+  background-image: url('../images/our-story-landscape-small.svg'), linear-gradient(0deg, rgba(225, 238, 247, .1) 0%, rgba(225, 238, 247, .6) 25%, rgba(225, 238, 247, .2) 40%, rgba(225, 238, 247, .2) 60%, rgba(225, 238, 247, .6) 100%);
+  background-position: bottom center, top center;
+  background-repeat: repeat-x, no-repeat;
+  background-size: 600px 200px, auto;
+  border-top: 1px solid #000;
+  z-index: 1;
+  padding-bottom: 120px;
+  padding-top: 0;
+  box-shadow: inset 0 8px 12px rgba(0,0,0,.15);
+
+
+  .cloud-title {
+
+    background: url(../images/story-title.svg) center center no-repeat;
+    background-size: 184px 184px;
+    width: 184px;
+    height: 184px;
+    padding:80px 0 0;
+    display: inline-block;
+    margin:32px 0;
+    z-index: 10;
+
+    h2 {
+      transform: rotate(0);
+      background: transparent;
+      margin-left:1px;
+      line-height: 20px;
+      border:0;
+      margin:0;
+      padding: 0;
+    }
+  }
+
+  .cloud {
+    position: absolute;
+    z-index: 10;
+  }
+
+  .cloud-1 {
+    left:50%;
+    margin-left:8px;
+    top:56px;
+    z-index: 11;
+    transform: rotate(2deg);
+    width: 80px;
+  }
+
+  .cloud-2 {
+    left:50%;
+    top:128px;
+    margin-left:-112px;
+    transform: rotate(-2deg);
+    z-index: 11;
+    width: 88px;
+  }
+
+  .cloud-group-1 {
+    left:50%;
+    top:148px;
+    margin-left:-592px;
+  }
+
+  .cloud-group-2 {
+    left:50%;
+    top:102px;
+    margin-left:-352px;
+  }
+
+  .cloud-group-3 {
+    left:50%;
+    top:101px;
+    margin-left:272px;
+  }
+
+  .cloud-group-4 {
+    left:50%;
+    top:136px;
+    margin-left:492px;
+  }
+
+  .plane {
+    left:50%;
+    bottom:186px;
+    margin-left:402px;
+    transform: rotate(0deg) scaleX(-1);  
+  }
+
+  .balloon {
+    left:50%;
+    bottom:346px;
+    margin-left:-462px;
+    transform: rotate(-2deg);
+  }
+}
+
+/* Wedding Styles */
+
+.wedding {
+
+  margin-top:-2px;
+  z-index: 2;
+  border-top:2px solid;
+  background: url(../images/meadowland-farm-small.webp) center center no-repeat #F9FAFD;
+  background-position: center 136px;
+  background-size: 160%;
+  padding-bottom: 260px;
+  box-shadow: inset 0 12px 12px rgba(0,0,0,.05);
+
+  .hanger {
+    background: url(../images/hanger.svg) top center no-repeat;
+    z-index: 1;
+    height: 26px;
+    margin-top:12px;
+  }
+
+  .when {
+
+    border: 2px solid #111;
+    display: inline-block;
+    padding: 6px 32px 12px;
+    margin-bottom: 4px;
+    transform: rotate(-2deg);
+    background: #fff;
+    filter: drop-shadow(0px 0px 4px rgba(0,0,0,.1));
+    margin-top:-2px;
+
+    span {
+      display: block;
+      line-height: 1em;
+      padding-bottom: 5px;
+    }
+
+    .day {
+      font-size: 1em;
+      font-weight: 400;
+    }
+
+    .date {
+      font-size: 1.4em;
+      font-family: Merriweather, Serif;
+      font-weight: 700;
+    }
+  }
+
+  .time {
+    font-size: 0.8em;
+    transform: rotate(-1deg);
+  }
+
+  address {
+
+    margin: 32px 0 24px;
+
+    .location {
+      font-size: 1.2em;
+      font-family: Merriweather, Serif;
+      font-weight: 700;
+      padding-bottom: 0px;
+      margin-bottom: 4px;
+    }
+
+    .address {
+      font-size: 0.7em;
+      line-height: 1.2em;
+      font-weight: 400;
+      font-family: Montserrat, sans-serif;
+
+      span {
+        display: inline;
+        font-weight: 400;
+
+      }
+    }
+  }
+}
+
+.to-know {
+  /**background: linear-gradient(darken(#23314C, 4%), darken(#23314C, 6%));
+  background-size: auto; **/
+
+  background: url(../images/detail-wood.webp) top center repeat;
+  background-size: 1000px 277px;
+  transform: rotate(-4deg);
+  border-top: 1px solid #222;
+  border-bottom: 2px solid #111;
+  margin-top:-84px;
+  z-index: 12;
+  position: relative;
+  width: 120%;
+  margin-left: -10%;  
+  padding: 0;
+  color:#fff;
+  box-shadow: 0 0 8px rgba(0,0,0,.8);
+
+  /*hr {
+    margin:12px 0;
+    height: 12px;
+    border-top: 2px lighten(#E2A767, 4%) solid;
+    border-bottom: 2px lighten(#E2A767, 4%) solid;
+    background: transparent;
+    filter: drop-shadow(0px 0px 2px rgba(0,0,0,.1));
+    display: none;
+  }*/
+
+  h2 {
+    font-size: 1.2em;
+    padding: 12px 52px 11px;
+    margin-bottom:32px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,.4);
+    background: url(../images/detail-title.webp) no-repeat center center;
+    background-size: 280px 60px;
+    border: 1px solid #111;
+    transform: rotate(-1deg);
+    color: rgba(0,0,0,.9);
+    position: relative;
+    -webkit-background-clip:padding-box;
+    
+
+    &:before {
+      content: '';
+      height: 8px;
+      width: 8px;
+      border-radius: 4px;
+      background: silver;
+      position: absolute;
+      top:50%;
+      margin-top:-4px;
+      left: 15px;
+      z-index: 12px;
+      border: 1px solid #111;
+      background-image: linear-gradient(-148deg, #F3CA7C 50%, #E2A767 100%);
+      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+    }
+    &:after {
+      content: '';
+      height: 8px;
+      width: 8px;
+      border-radius: 4px;
+      background: silver;
+      position: absolute;
+      top:50%;
+      margin-top:-4px;
+      right: 15px;
+      z-index: 12px;
+      border: 1px solid #111;
+      background-image: linear-gradient(-148deg, #F3CA7C 50%, #E2A767 100%);
+      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+    }
+  }
+
+  p {
+    font-size: 0.8em !important;
+    font-family: Finger Paint;
+    transform: rotate(1deg);
+    padding: 10px 40px 9px;
+    margin-bottom:16px;
+    box-shadow: 0px 2px 6px rgba(0,0,0,.4);
+    background: url(../images/detail-p.webp) repeat center center;
+    background-size: 600px 200px;
+    border: 1px solid #111;
+    color: rgba(0,0,0,.9);
+    display: inline-block;
+    line-height: 1.4em;
+    position: relative;
+    -webkit-background-clip:padding-box;
+
+
+    &:before {
+      content: '';
+      height: 8px;
+      width: 8px;
+      border-radius: 4px;
+      background: silver;
+      position: absolute;
+      top: 50%;
+      margin-top:-4px;
+      left: 14px;
+      z-index: 12px;
+      border: 1px solid #111;
+      background-image: linear-gradient(-148deg, #D6D6D6 50%, #999999 100%);
+      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+    }
+
+    &:after {
+      content: '';
+      height: 8px;
+      width: 8px;
+      border-radius: 4px;
+      background: silver;
+      position: absolute;
+      top: 50%;
+      margin-top:-4px;
+      right: 14px;
+      z-index: 12px;
+      border: 1px solid #111;
+      background-image: linear-gradient(-148deg, #D6D6D6 50%, #999999 100%);
+      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
+    }
+
+  }
+
+  p.more {
+    transform: rotate(-1deg);
+    background-image: url(../images/detail-p-3.webp);
+    background-size: 600px 200px;
+  }
+
+
+  .know-container {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    flex-flow: center;
+    justify-content: center;
+    align-items: stretch;
+
+    .pattern {
+      flex-grow: 0;
+      margin: 6px 0;
+      width: 16px;
+      display: none !important;
+    }
+
+    .pattern-left {
+      border-left:2px lighten(#E2A767, 4%) solid;
+      transform: rotate(4deg);
+
+    }
+
+    .pattern-right {
+      border-right:2px lighten(#E2A767, 4%) solid;
+      transform: rotate(4deg);
+    }
+
+    .content {
+      max-width: 720px;
+      padding: 16px 60px 42px;
+      background-size: 32px 32px;
+      margin: 40px 0 0;
+      transform: rotate(4deg);
+      filter: drop-shadow(0 0 0 rgba(0,0,0,.1));
+    }
+
+  }
+}
+
+/* Where To Stay Styles */
+
+.stay {
+
+  background: linear-gradient(0deg, rgba(220,220,220,.6), rgba(255,255,255,0) 10%), url('../images/stay-map-small.webp') top center repeat #fff;
+  background-size: 800px 1210px;
+  text-shadow: 1px 1px 1px #fff;
+  margin-top:-40px;
+  padding-top: 90px;
+  padding-bottom: 140px;
+  position: relative;
+
+  a{
+    color: darken(#EBB972, 8%);
+
+    &:hover {
+      color: darken(#EBB972, 12%);
+    }
+
+    &:visited {
+      color: darken(#EBB972, 8%);
+    }
+  }
+
+  .hanger {
+    background: url(../images/hanger.svg) top center no-repeat;
+    z-index: 1;
+    height: 26px;
+    margin-top:0px;
+  }
+
+  h2 {
+    padding: 40px 40px;
+    margin-top:-6px;
+    background: url(../images/to-stay.svg) center center no-repeat transparent;
+    background-size: 260px 112px;
+    margin-bottom: 40px;
+    width: 260px;
+  }
+
+  .deck {
+    margin-top:20px;
+    margin: 20px auto 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 1120px;
+
+    .card {
+      display: block;
+      background: white;
+      flex-grow: 1;
+      min-width: 300px;
+      max-width: 460px;
+      text-align: left;
+      filter: drop-shadow(0px 2px 2px rgba(50,50,50,.2));
+      border: 2px solid #333;
+      margin: 0 12px 32px;
+      border-radius: 6px;
+
+
+      .card-block {
+        padding: 20px 0 0;
+        line-height: 1.4em;
+        color: #333;
+
+        strong {
+          font-weight: 500;
+        }
+      }
+
+
+      .card-title {
+        padding: 0 16px;
+      }
+
+      .location {
+        margin-top:4px;
+        padding: 0 16px;
+      }
+
+      .people {
+        padding: 0 16px;
+      }
+
+      .category {
+        position: absolute;
+        right:16px;
+        top:18px;
+        font-size: 0.8em;
+      }
+
+      .price {
+        color: darken(#E2A767, 2%);
+        letter-spacing: 1px;
+        margin: 2px 16px 0;
+        padding-bottom: 16px;
+        border-bottom:2px solid #444;
+
+        span {
+          color: #aaa;
+        }
+      }
+
+      .links {
+        padding: 12px 0;
+        text-align: center;
+        text-decoration: none;
+        font-weight: 500;
+        display: block;
+        border-radius: 6px;
+        background-image: linear-gradient(0deg, lighten(#EBB972, 30%) 0%, #FFFFFF 70%);
+          
+          &:hover{
+            background-image: linear-gradient(0deg, #F4F4F4 0%, #FFFFFF 70%);
+          }
+      }
+
+    }
+  }
+
+  .logo {
+    position: absolute;
+    left:50%;
+    bottom: -73px;
+    margin-left: -100px;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    filter: drop-shadow(0px 0px 4px rgba(0,0,0,.2));
+    z-index: 11;
+  }
+}
+
+
+footer {
+  background: url(../images/confetti.svg) top center repeat-x #fff;
+  background-position: center -32px;
+  background-size: 140px 140px;
+  border-top:2px solid #111;
+  position: relative;
+  padding: 28px 0 24px;
+  font-family: Merriweather;
+  font-weight: 700;
+  font-size: .8em;
+  text-shadow: 0 0 4px white;
+  overflow: hidden;
+
+
+  .party {
+    position: absolute;
+    z-index: 9;
+    width: 100%;
+    height: 95px;
+    top:0px;
+    left:50%;
+    margin-left: -50%;
+    background: #fff;
+  }
+
+  ul {
+      position: relative;
+      text-align: center;
+      padding:0;
+      z-index: 10;
+      font-size: .8em;
+      margin: 0;
+
+    li {
+      display: inline-block;
+      list-style: none;
+      text-align: center;
+      margin:0; 
+      padding: 0 12px;
+    }
+
+    .left {
+      text-align: left;
+      float: left;
+      width: 120px;
+    }
+
+    .spacer {
+      display: none;
+    }
+
+    .right {
+      text-align: right;
+      float: right;
+      width: 120px;
+    }
+  }
+}
+
+
+@include media-breakpoint-up(sm) {
+  body {
+  }
+  section, footer {
+    padding: 36px 0 8px;
+  }
+  
+  p, .block {
+    line-height: 1.8em;
+    margin-bottom: 28px;
+    padding:0;
+  }
+
+
+  header {
+    padding: 20px 16px 360px 16px;
+    background-position: -7px -7px, top center;
+    background-size: 240px 160px, auto;
+
+    .profile {
+      width: 106px;
+      height: 106px;
+      padding: 7px;
+      background-size: 106px 106px;
+
+       h2 {
+        display: none;
+      }
+    }
+
+    .picture {
+      height: 92px;
+      width: 92px;
+    }
+
+    h1 {
+      padding: 18px 12px 18px 14px;
+      font-size: 1.6em;
+      line-height: 20px;
+      z-index: 10;
+
+      .strap {
+        font-size: .8em;
+        line-height: 1.6em;
+        top:1px;
+      }
+
+      .date {
+        font-size: .6em;
+        position: relative;
+        top:-4px;
+        left:1px;
+      }
+    }
+
+    .registry {
+      display: block;
+      right:24px;
+      top:24px;
+      font-size: 0.8em;
+      border: 3px solid lighten(#E2A767, 4%);
+      padding: 6px 12px 5px;
+      border-radius: 24px;
+      background: rgba(255,255,255,.4);
+
+      span {
+
+      }
+    }
+  }
+
+  .story {
+    background-image: url('../images/our-story-landscape.svg'), linear-gradient(0deg, rgba(225, 238, 247, .1) 0%, rgba(225, 238, 247, .6) 25%, rgba(225, 238, 247, .2) 40%, rgba(225, 238, 247, .2) 60%, rgba(225, 238, 247, .6) 100%);
+    background-size: 1600px 300px, auto;
+    padding-bottom: 140px;
+
+    .cloud-title {
+      width: 224px;
+      height: 224px;
+      background-size: 224px 224px;
+      padding:100px 0 0;
+      margin:32px 0;
+    }
+
+    .cloud-1 {
+      margin-left:12px;
+      top:56px;
+      width: auto;
+      height: auto;
+    }
+
+    .cloud-2 {
+      margin-left:-132px;
+      top:148px;
+      width: auto;
+      height: auto;
+    }
+  }
+
+  .to-know {
+    .know-container {
+      .pattern {
+         display: block;
+
+      }
+
+      p {
+        font-size: 0.9em;
+      }
+    }
+  }
+
+  .wedding {
+
+    background-position: center 160px;
+    background-size: 140%;
+    padding-bottom: 540px;
+
+    .when {
+
+      padding: 8px 32px;
+      margin-bottom: 4px;
+
+      .day {
+        font-size: 1em;
+      }
+
+      .date {
+        font-size: 1.6em;
+      }
+    }
+
+    .time {
+      font-size: 0.8em;
+    }
+
+    address {
+
+      .location {
+        font-size: 1.6em;
+        margin-bottom: 12px;
+      }
+
+      .address {
+        font-size: .9em;
+        line-height: 1.2em;
+      }
+    }
+  }
+
+  footer {
+    padding: 40px 0 32px;
+    font-size: 1em;
+
+    ul {
+        display: block;
+        margin:0;
+
+
+      .left {
+        text-align: right;
+        width: 220px;
+        display: inline-block;
+      }
+
+      .spacer {
+        width: 120px;
+        display: inline-block;
+      }
+
+      .left {
+        float: none;
+        text-align: right;
+      }
+
+      .right {
+        float: none;
+        text-align: left;
+        width: 220px;
+        display: inline-block;
+      }
+    }
+  }
+
+  .stay {
+
+    .deck {
+      
+      .card {
+        margin: 0 20px 36px;
+
+        .card-block {
+          padding: 28px 0 0;
+          line-height: 1.5em;
+        }
+
+
+        .card-title {
+          padding: 0 20px;
+        }
+
+        .location {
+          margin-top:16px;
+          padding: 0 20px;
+        }
+
+        .people {
+          padding: 0 20px;
+        }
+
+        .category {
+          right:20px;
+          top:28px;
+          font-size: 0.8em;
+        }
+
+        .price {
+          margin: 0 20px;
+          padding-bottom: 18px;
+        }
+
+        .links {
+          padding: 16px 0;
+        }
+
+      }
+    }
+  }
+}
+
+@include media-breakpoint-up(md) {
+  body {
+  }
+
+  header {
+    position: absolute;
+    background-position: left top, top center;
+    padding-bottom: 400px;
+
+    .profile {
+      width: 124px;
+      height: 124px;
+      padding: 16px 0;
+      background-size: 106px 106px;
+      position: fixed;
+      z-index: 8;
+      will-change: transform;
+
+      h2 {
+        display: block;
+        margin-bottom:4px;
+        opacity: 0;
+        font-size: 1em;
+      }
+
+      .date {
+        font-size: .8em;
+      }
+    }
+
+    .profile-alt {
+      display: inline-block;
+      width: 124px;
+      height: 124px;
+      padding: 16px 0;
+      background-size: 106px 106px;
+      position: static;
+    }
+
+    h1 {
+      padding: 27px 14px;
+    }
+  }
+  section {
+    padding: 48px 0 20px;
+  }
+
+  .story {
+    padding-bottom: 120px;
+
+    .cloud-title {
+      margin-bottom: 40px;
+    }
+  }
+
+  .wedding {
+    background-image: url(../images/meadowland-farm.webp);
+    background-position: center 60px;
+    background-size: 140%;
+    padding-bottom: 540px;
+
+      .when {
+
+      padding: 10px 40px 16px;
+      margin-bottom: 4px;
+
+      .day {
+        font-size: 1em;
+      }
+
+      .date {
+        font-size: 1.6em;
+      }
+    }
+
+    .time {
+      padding-top:6px;
+      font-size: 0.8em;
+    }
+
+    address {
+
+      .location {
+        font-size: 1.6em;
+      }
+
+      .address {
+        font-size: .8em;
+        line-height: 1.2em;
+      }
+    }
+  }
+
+  .stay {
+    
+    background-image: url('../images/stay-map.webp');
+
+    .deck {
+
+      padding: 0 100px;
+    }
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  body {
+  }
+  .story p {
+    max-width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .wedding {
+    background-position: center -1px;
+    background-size: 120%;
+
+    address {
+
+      .address {
+        font-size: 1em;
+      }
+    }
+  }
+}
+
+
+.no-webp .hero {
+  background-image: url('../images/hero-final.jpg') !important;
+}
+
+.no-webp video {
+  background-image: url('../images/hero-open.jpg') !important;
+}
+
+.no-webp .wedding {
+  background-image: url('../images/meadowland-farm-small.jpg') !important;
+}
+
+.no-webp .stay {
+  background-image: url('../images/stay-map-small.jpg') !important;
+}
+
+.no-webp .to-know {
+  background-image: url('../images/detail-wood.jpg') !important;
+}
+
+.no-webp .to-know h2 {
+  background-image: url('../images/detail-title.jpg') !important;
+}
+
+.no-webp .to-know p {
+  background-image: url('../images/detail-p.jpg') !important;
+}
+
+.no-webp .to-know p.more {
+  background-image: url('../images/detail-p-3.jpg') !important;
+}
+
+
+
+@include media-breakpoint-up(md) {
+
+  .no-webp .hero {
+    background-image: url('../images/hero-final.jpg') !important;
+  }
+
+  .no-webp video {
+    background-image: url('../images/hero-open.jpg') !important;
+  }
+
+  .no-webp .wedding {
+    background-image: url('../images/meadowland-farm.jpg') !important;
+  }
+
+  .no-webp .stay {
+    background-image: url('../images/stay-map.jpg') !important;
+  }
+}

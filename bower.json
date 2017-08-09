@@ -1,0 +1,12 @@
+{
+  "name": "callumlianawedding",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~4.0.0-alpha.6",
+    "modernizr": "https://modernizr.com/download?webp-setclasses.zip"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}

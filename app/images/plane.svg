@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="146px" height="59px" viewBox="0 0 146 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>plane</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.7752932%" y1="93.756666%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M29.9251944,20.326905 C29.1665737,20.326905 28.4500647,20.5018618 27.8059797,20.8029502 C27.8202203,20.6463029 27.8299854,20.4876211 27.8299854,20.326905 C27.8299854,17.4785682 25.5209629,15.1695457 22.6722191,15.1695457 C21.3958485,15.1695457 20.2307584,15.6352155 19.330138,16.4027875 C18.7806516,13.6767169 16.3729617,11.6236195 13.4849543,11.6236195 C10.1914949,11.6236195 7.52136977,14.2933378 7.52136977,17.5870007 C7.52136977,17.6189404 7.52584541,17.6496596 7.52625228,17.6811925 C7.1830522,17.6242298 6.8333421,17.5870007 6.47386697,17.5870007 C2.95784622,17.5870007 0.10727151,20.4367616 0.10727151,23.9542064 C0.10727151,27.4696169 2.95784622,30.3197847 6.47386697,30.3197847 C7.01562264,30.3197847 7.53845857,30.2445126 8.04054381,30.118381 C8.96578031,32.1832777 11.0353561,33.6236195 13.4446736,33.6236195 C15.0331183,33.6236195 16.4726463,32.9949958 17.5358139,31.9778053 C18.7049727,32.9990645 20.2311653,33.6236195 21.9066815,33.6236195 C24.5357122,33.6236195 26.8018092,32.093765 27.8802346,29.8803584 C28.5047896,30.161103 29.1958688,30.3197847 29.9251944,30.3197847 C32.6848323,30.3197847 34.9216342,28.084 34.9216342,25.3233449 C34.9216342,22.5647242 32.6848323,20.326905 29.9251944,20.326905" id="path-2"></path>
+        <filter x="-20.1%" y="-31.8%" width="140.2%" height="163.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="66.3339951%" y1="-42.6466673%" x2="31.196802%" y2="67.2716784%" id="linearGradient-4">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0456095%" y1="100%" x2="50.0456095%" y2="59.1107537%" id="linearGradient-5">
+            <stop stop-color="#FFDFE8" offset="0%"></stop>
+            <stop stop-color="#F4F4F4" offset="38.3389083%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="19.967067%" y1="50%" x2="100%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#BADDE7" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.553481%" y1="52.6148491%" x2="21.5816666%" y2="57.1584702%" id="linearGradient-7">
+            <stop stop-color="#FDE5EC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FDE5EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.6187201%" y1="52.5423472%" x2="56.9452751%" y2="31.4201452%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E5EEFD" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1,0 L7,1 C9.13802083,3.30989583 13.1380208,8.30989583 19,16 C24.456543,16 99.0693359,13.1108398 105,16 C110.409668,18.4990234 108.990497,19.9215008 112,21 C116.840724,22.7347439 117.074707,23.6699219 118,27 C118.128906,29.6988932 114.128906,32.0322266 106,34 C47.546224,34 17.546224,34 16,34 C10.1586914,33.0361328 6.75830078,31.7070313 5.16846082,26.3473754 C2.69287236,11.0194376 1.30338542,2.23697917 1,0 Z" id="path-9"></path>
+        <filter x="-6.0%" y="-20.6%" width="112.0%" height="141.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="68.1815681%" y1="-58.1152344%" x2="31.196802%" y2="67.2716784%" id="linearGradient-11">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M131.86377,40.7645372 C131.86377,40.7583528 131.864594,40.7521684 131.864594,40.7480455 C131.864594,38.2784053 129.862702,36.2767186 127.393474,36.2767186 C126.695048,36.2767186 126.036821,36.4416362 125.448065,36.7261189 C125.137814,33.370047 122.315044,30.7416737 118.877338,30.7416737 C115.593211,30.7416737 112.870629,33.1412239 112.363301,36.2808416 C112.334441,36.2808416 112.306405,36.2767186 112.277338,36.2767186 C109.762139,36.2767186 107.626045,37.8743573 106.813414,40.10899 C104.173702,40.6923858 102.197578,43.0424608 102.197578,45.8563663 C102.197578,49.1093648 104.834816,51.7480455 108.08802,51.7480455 C109.096285,51.7480455 110.044973,51.4944848 110.874714,51.0471459 C111.846079,52.0861264 113.22582,52.7416737 114.761202,52.7416737 C115.788639,52.7416737 116.744748,52.4448221 117.55841,51.9418236 C118.273534,52.4427606 119.143268,52.7416737 120.083916,52.7416737 C121.154643,52.7416737 122.13549,52.3582404 122.898234,51.7212464 C123.878669,52.3664863 125.050408,52.7416737 126.310584,52.7416737 C127.694242,52.7416737 128.972147,52.2902119 130.005974,51.5254068 C130.49413,51.6676482 131.008879,51.7480455 131.543005,51.7480455 C134.580374,51.7480455 137.043005,49.2845897 137.043005,46.2480455 C137.043005,43.3186976 134.751064,40.9315162 131.86377,40.7645372" id="path-12"></path>
+        <filter x="-20.1%" y="-31.8%" width="140.2%" height="163.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clouds" transform="translate(-197.000000, -315.000000)">
+            <g id="plane" transform="translate(201.215316, 308.031026)">
+                <g id="cloud-6" stroke-linecap="round" stroke-linejoin="round">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="aeroplane" transform="translate(76.000000, 36.500000) rotate(-10.000000) translate(-76.000000, -36.500000) translate(16.000000, 11.000000)">
+                    <polyline id="Path-28" stroke="#111111" stroke-width="2" fill="url(#linearGradient-4)" stroke-linejoin="round" transform="translate(61.146973, 17.425781) scale(1, -1) translate(-61.146973, -17.425781) " points="57.3417969 6.42285156 45.1914062 28.4287109 55.5615234 28.4287109 77.1025391 6.42285156"></polyline>
+                    <path d="M1,0 L7,1 C8.15690104,2.85742188 11.4902344,7.85742188 17,16 C22.456543,16 99.0693359,13.1108398 105,16 C110.409668,18.4990234 108.990497,19.9215008 112,21 C116.840724,22.7347439 118.830967,26.0113901 119,29 C117.43099,32.3333333 113.097656,34 106,34 C47.546224,34 17.546224,34 16,34 C10.1586914,33.0361328 6.75830078,31.7070313 5.16846082,26.3473754 C2.69287236,11.0194376 1.30338542,2.23697917 1,0 Z" id="Path-27" fill="url(#linearGradient-5)"></path>
+                    <polygon id="Path-30" fill="url(#linearGradient-6)" points="101.198975 15.989502 102.765381 21.7949219 110.79834 20.7949219 106.885254 16.7062988"></polygon>
+                    <polygon id="Path-31" fill="url(#linearGradient-7)" points="1.97851562 0.264648438 5.20117188 0.264648438 19.8984375 34.2128906 8.46191406 31.5761719 5.20117188 24.1494141 0.807617188 2.67089844"></polygon>
+                    <polygon id="Path-32" fill="url(#linearGradient-8)" points="4.87988281 1.57910156 11.9755859 17.7216797 17.9423828 15.9726563 6.71972656 1.57910156"></polygon>
+                    <g id="Group-2" transform="translate(1.000000, 5.000000)" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square">
+                        <path d="M0.5,1 L5.5,1" id="Line-34"></path>
+                        <path d="M2.5,6 L7.5,6" id="Line-34"></path>
+                        <path d="M4.5,11 L9.5,11" id="Line-34"></path>
+                        <path d="M5.5,16 L12.5,16" id="Line-34"></path>
+                    </g>
+                    <g id="Path-27" stroke-linecap="round" stroke-linejoin="round">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use stroke="#000000" stroke-width="2" xlink:href="#path-9"></use>
+                    </g>
+                    <polyline id="Path-28" stroke="#111111" stroke-width="2" fill="url(#linearGradient-4)" stroke-linejoin="round" points="50.3417969 28.4228516 38.1914062 50.4287109 48.5615234 50.4287109 70.1025391 28.4228516"></polyline>
+                    <polyline id="Path-28" stroke="#111111" stroke-width="2" fill="url(#linearGradient-11)" stroke-linejoin="round" points="11.2723693 28 5.92871094 38 12.3870875 38 23.6777344 28"></polyline>
+                    <g id="Group-32" transform="translate(25.000000, 22.000000)" fill="#111111">
+                        <rect id="Rectangle-27" x="0" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="6" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="12" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="18" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="24" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="30" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="36" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="42" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="48" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="54" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="60" y="0" width="3" height="4" rx="1.5"></rect>
+                        <rect id="Rectangle-27" x="66" y="0" width="3" height="4" rx="1.5"></rect>
+                    </g>
+                    <polyline id="Path-29" stroke="#111111" stroke-width="2" points="99.8891602 14.9785156 102.875 22.0029297 112.310547 21.0029297"></polyline>
+                </g>
+                <g id="cloud-9" stroke-linecap="round" stroke-linejoin="round">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-12"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

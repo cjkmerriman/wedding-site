@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="160px" viewBox="0 0 240 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>confetti-gold</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.9269276%" y1="8.51520041%" x2="76.0264521%" y2="92.9655656%" id="linearGradient-1">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="confetti-gold" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="confetti" transform="translate(31.097753, 19.163995) scale(-1, 1) rotate(37.000000) translate(-31.097753, -19.163995) translate(-173.902247, -133.336005)">
+                <rect id="Rectangle-path" transform="translate(210.503418, 147.015747) rotate(-52.980000) translate(-210.503418, -147.015747) " x="206.993418" y="145.335747" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(84.762190, 239.320974) rotate(-52.980000) translate(-84.762190, -239.320974) " x="81.2521902" y="237.640974" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(158.022980, 191.383343) rotate(-9.980000) translate(-158.022980, -191.383343) " x="154.51298" y="189.703343" width="7.02" height="3.36"></rect>
+                <path d="M216.81,121.77 L214.785,119.115 C217.194762,118.614637 219.247234,117.047696 220.365,114.855 L222.405,117.54 C221.277126,119.724799 219.219514,121.28042 216.81,121.77 L216.81,121.77 Z" id="Shape"></path>
+                <path d="M216.81,121.77 L214.785,119.115 C217.194762,118.614637 219.247234,117.047696 220.365,114.855 L222.405,117.54 C221.277126,119.724799 219.219514,121.28042 216.81,121.77 L216.81,121.77 Z" id="Shape"></path>
+                <path d="M216.81,121.77 L214.785,119.115 C217.194762,118.614637 219.247234,117.047696 220.365,114.855 L222.405,117.54 C221.277126,119.724799 219.219514,121.28042 216.81,121.77 L216.81,121.77 Z" id="Shape"></path>
+                <rect id="Rectangle-path" transform="translate(251.490011, 186.058315) rotate(-0.170000) translate(-251.490011, -186.058315) " x="249.810011" y="182.548315" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(65.298687, 245.734321) rotate(-152.789993) translate(-65.298687, -245.734321) " x="61.7886872" y="244.054321" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(199.928682, 132.445234) rotate(-22.030000) translate(-199.928682, -132.445234) " x="198.248682" y="128.935234" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(207.910237, 164.455747) rotate(-22.030000) translate(-207.910237, -164.455747) " x="206.230237" y="160.945747" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(76.741260, 223.354902) rotate(-22.030000) translate(-76.741260, -223.354902) " x="75.0612605" y="219.844902" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(150.625069, 181.093633) rotate(-83.840000) translate(-150.625069, -181.093633) " x="147.115069" y="179.413633" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(106.808441, 208.705117) rotate(-83.840000) translate(-106.808441, -208.705117) " x="103.298441" y="207.025117" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(56.156093, 239.144513) rotate(-83.840000) translate(-56.156093, -239.144513) " x="52.6460935" y="237.464513" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(123.533704, 229.131603) rotate(-60.840000) translate(-123.533704, -229.131603) " x="120.023704" y="227.451603" width="7.02" height="3.36"></rect>
+                <path d="M250.605,165.54 L248.505,162.9 C250.9081,162.359264 252.937414,160.760077 254.025,158.55 L256.095,161.16 C255.020783,163.374504 253.002787,164.98449 250.605,165.54 L250.605,165.54 Z" id="Shape"></path>
+                <path d="M250.605,165.54 L248.505,162.9 C250.9081,162.359264 252.937414,160.760077 254.025,158.55 L256.095,161.16 C255.020783,163.374504 253.002787,164.98449 250.605,165.54 L250.605,165.54 Z" id="Shape"></path>
+                <path d="M250.605,165.54 L248.505,162.9 C250.9081,162.359264 252.937414,160.760077 254.025,158.55 L256.095,161.16 C255.020783,163.374504 253.002787,164.98449 250.605,165.54 L250.605,165.54 Z" id="Shape"></path>
+                <rect id="Rectangle-path" transform="translate(192.488635, 166.611823) rotate(10.940000) translate(-192.488635, -166.611823) " x="190.808635" y="163.101823" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(231.751221, 144.109638) rotate(-52.980000) translate(-231.751221, -144.109638) " x="228.241221" y="142.429638" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(135.684141, 188.649102) rotate(-52.980000) translate(-135.684141, -188.649102) " x="132.174141" y="186.969102" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(241.974295, 173.776151) rotate(-52.980000) translate(-241.974295, -173.776151) " x="238.464295" y="172.096151" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(160.036599, 165.816387) rotate(-44.610000) translate(-160.036599, -165.816387) " x="158.356599" y="162.306387" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(128.197275, 205.431357) rotate(-44.620000) translate(-128.197275, -205.431357) " x="126.517275" y="201.921357" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(42.619591, 251.284732) rotate(-85.620003) translate(-42.619591, -251.284732) " x="40.9395915" y="247.774732" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(192.655870, 150.547718) rotate(-72.050000) translate(-192.655870, -150.547718) " x="189.14587" y="148.867718" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(91.467804, 221.918826) rotate(-72.050000) translate(-91.467804, -221.918826) " x="87.9578037" y="220.238826" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(172.484400, 149.587500) rotate(-57.264774) translate(-172.484400, -149.587500) " x="168.979317" y="147.909854" width="7.01016511" height="3.3552927"></rect>
+                <rect id="Rectangle-path" transform="translate(140.921583, 225.919900) rotate(-62.169998) translate(-140.921583, -225.919900) " x="139.241583" y="222.4099" width="3.36" height="7.02"></rect>
+                <path d="M263.222969,182.009097 L266.222969,180.389097 C268.229062,181.817218 269.476556,184.080371 269.612969,186.539097 L266.612969,188.159097 C266.478724,185.699749 265.230745,183.435717 263.222969,182.009097 Z" id="Shape"></path>
+                <path d="M224.58,159.12 L227.58,157.5 C229.586094,158.928121 230.833588,161.191274 230.97,163.65 L227.97,165.27 C227.835755,162.810652 226.587777,160.54662 224.58,159.12 Z" id="Shape"></path>
+                <path d="M141.562064,205.300827 L144.562064,203.680827 C146.568158,205.108948 147.815652,207.372101 147.952064,209.830827 L144.952064,211.450827 C144.817819,208.991479 143.569841,206.727447 141.562064,205.300827 Z" id="Shape"></path>
+                <path d="M104.40354,221.711402 L107.40354,220.091402 C109.409634,221.519523 110.657128,223.782676 110.79354,226.241402 L107.79354,227.861402 C107.659295,225.402054 106.411317,223.138022 104.40354,221.711402 Z" id="Shape"></path>
+                <rect id="Rectangle-path" transform="translate(218.091047, 133.222215) rotate(65.589996) translate(-218.091047, -133.222215) " x="216.411047" y="129.712215" width="3.36" height="7.02"></rect>
+                <rect id="Rectangle-path" transform="translate(171.073634, 179.835125) rotate(-30.920000) translate(-171.073634, -179.835125) " x="167.563634" y="178.155125" width="7.02" height="3.36"></rect>
+                <rect id="Rectangle-path" transform="translate(176.356936, 157.501309) rotate(-15.410000) translate(-176.356936, -157.501309) " x="174.676936" y="153.991309" width="3.36" height="7.02"></rect>
+                <circle id="Oval" cx="119.632734" cy="214.139104" r="1.635"></circle>
+                <circle id="Oval" cx="100.635" cy="234.765868" r="1.635"></circle>
+                <circle id="Oval" cx="69.8364418" cy="235.435804" r="1.635"></circle>
+                <circle id="Oval" cx="120.33" cy="192.285" r="1.635"></circle>
+                <circle id="Oval" cx="226.443646" cy="173.785013" r="1.875"></circle>
+                <circle id="Oval" cx="180.474549" cy="170.67818" r="1.875"></circle>
+                <circle id="Oval" cx="144.472284" cy="194.682724" r="1.875"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>profile-border</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="38.3382161%" x2="100%" y2="64.7641782%" id="linearGradient-1">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.9269276%" y1="8.51520041%" x2="76.0264521%" y2="92.9655656%" id="linearGradient-2">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="profile-border" stroke-width="2">
+            <g id="Group" transform="translate(2.000000, 2.000000)">
+                <circle id="Oval-11" stroke="url(#linearGradient-1)" cx="51" cy="51" r="52"></circle>
+                <circle id="Oval-11" stroke="url(#linearGradient-2)" cx="51" cy="51" r="50"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

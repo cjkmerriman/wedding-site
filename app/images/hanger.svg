@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="28px" viewBox="0 0 80 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>hanger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="5" r="5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hanger">
+            <g id="Group" transform="translate(12.000000, 2.000000)">
+                <polyline id="Path-2" stroke="#111111" stroke-width="2" points="0.0673828125 26 27.9569787 3 57.7636719 26"></polyline>
+                <g id="Oval">
+                    <use fill="#F9D49F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <circle stroke="#111111" stroke-width="2" cx="28" cy="5" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600px" height="300px" viewBox="0 0 1600 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>our-story-landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="94.1835487%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="18.3092886%"></stop>
+            <stop stop-color="#EBE1F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="89.6702007%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="26.8811204%"></stop>
+            <stop stop-color="#EBE1F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="94.1835487%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="34.6846809%"></stop>
+            <stop stop-color="#EBE1F6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="33.8348389%" id="linearGradient-5">
+            <stop stop-color="#E5EEFC" offset="0%"></stop>
+            <stop stop-color="#D5E3FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.933537%" y1="0%" x2="53.933537%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#F4F8FF" offset="0%"></stop>
+            <stop stop-color="#E5EEFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.2632296%" y1="17.8834968%" x2="19.8299139%" y2="55.0438306%" id="linearGradient-7">
+            <stop stop-color="#FFFAEF" offset="0%"></stop>
+            <stop stop-color="#FEECD9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="75.3951188%" y1="15.2151198%" x2="50%" y2="89.2052505%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAE5CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.7217948%" y1="14.0590564%" x2="71.8355635%" y2="83.4262579%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAE5CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.203947%" y1="36.0350278%" x2="61.6659741%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FAF1F3" offset="0%"></stop>
+            <stop stop-color="#FFC7D7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.665976%" y1="23.6178308%" x2="25.3084%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#FAF1F3" offset="0%"></stop>
+            <stop stop-color="#FFC7D7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-12" points="2 0 15 0 13 12 2 12"></polygon>
+        <polygon id="path-13" points="2 23 15 23 13 35 2 35"></polygon>
+        <polygon id="path-14" points="2 46 15 46 13 58 2 58"></polygon>
+        <polygon id="path-15" points="0 67 13 67 13 91 0 89"></polygon>
+        <linearGradient x1="50%" y1="1.71875004%" x2="50%" y2="95.515408%" id="linearGradient-16">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F9F9F9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-17" x="0" y="0" width="58" height="100"></rect>
+        <rect id="path-18" x="0" y="0" width="13" height="20"></rect>
+        <rect id="path-19" x="20" y="0" width="18" height="13"></rect>
+        <rect id="path-20" x="0" y="6" width="38" height="13"></rect>
+        <rect id="path-21" x="3" y="0" width="32" height="8"></rect>
+        <rect id="path-22" x="0" y="6" width="38" height="13"></rect>
+        <rect id="path-23" x="0" y="6" width="38" height="13"></rect>
+        <rect id="path-24" x="3" y="0" width="32" height="8"></rect>
+        <rect id="path-25" x="7" y="0" width="58" height="45"></rect>
+        <linearGradient x1="10.5078125%" y1="100%" x2="100%" y2="4.75260417%" id="linearGradient-26">
+            <stop stop-color="#FFECA5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="20.1013514%" x2="50%" y2="52.4057749%" id="linearGradient-27">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAE5CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="91.755792%" y1="50%" x2="9.61139547%" y2="6.53262571%" id="linearGradient-28">
+            <stop stop-color="#FEFAF3" offset="0%"></stop>
+            <stop stop-color="#FAF1E9" offset="43.3425161%"></stop>
+            <stop stop-color="#FEF6ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5665045%" y1="55.5473523%" x2="77.2849453%" y2="15.12958%" id="linearGradient-29">
+            <stop stop-color="#E1FAE3" offset="0%"></stop>
+            <stop stop-color="#F1FAF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.2632296%" y1="17.8834968%" x2="19.8299139%" y2="55.0438306%" id="linearGradient-30">
+            <stop stop-color="#FFFAEF" offset="0%"></stop>
+            <stop stop-color="#FBF2E9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-22.560307%" y1="36.9440794%" x2="100%" y2="36.9440789%" id="linearGradient-31">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E2E2E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="59.2836112%" y1="61.9939631%" x2="20.4530448%" y2="50%" id="linearGradient-32">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-33">
+            <stop stop-color="#E2E2E2" offset="0%"></stop>
+            <stop stop-color="#DDDDDD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.3666236%" y1="16.4490312%" x2="58.6989164%" y2="92.7015709%" id="linearGradient-34">
+            <stop stop-color="#E2E2E2" offset="0%"></stop>
+            <stop stop-color="#F4F4F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.728887%" y1="114.777344%" x2="44.7288876%" y2="0%" id="linearGradient-35">
+            <stop stop-color="#EBEBEB" offset="0%"></stop>
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="6.90406977%" id="linearGradient-36">
+            <stop stop-color="#E2E2E2" offset="0%"></stop>
+            <stop stop-color="#F4F4F4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.5049716%" y1="100%" x2="50%" y2="6.47615132%" id="linearGradient-37">
+            <stop stop-color="#E1FAE3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.6332742%" id="linearGradient-38">
+            <stop stop-color="#FFFBF8" offset="0%"></stop>
+            <stop stop-color="#FFF6EE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-39" x="2" y="2.97460938" width="44" height="78.0253906"></rect>
+        <polygon id="path-40" points="2 0 46 0 48 7 0 7"></polygon>
+        <polygon id="path-41" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-42" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-43" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-44" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-45" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-46" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-47" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-48" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-49" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-50" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-51" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-52" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-53" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <rect id="path-54" x="2" y="3.97460938" width="44" height="76"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="96.6332742%" id="linearGradient-55">
+            <stop stop-color="#FBF5F0" offset="0%"></stop>
+            <stop stop-color="#FCEFE4" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-56" points="2 0 46 0 48 7 0 7"></polygon>
+        <polygon id="path-57" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-58" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-59" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-60" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-61" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-62" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-63" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-64" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-65" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-66" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-67" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-68" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-69" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <rect id="path-70" x="2" y="2.97460938" width="44" height="76"></rect>
+        <polygon id="path-71" points="2 8.52651283e-14 46 8.52651283e-14 48 7 0 7"></polygon>
+        <polygon id="path-72" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-73" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-74" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-75" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-76" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-77" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-78" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-79" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-80" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-81" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-82" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-83" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-84" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <linearGradient x1="24.0559891%" y1="22.3335598%" x2="24.0559891%" y2="100%" id="linearGradient-85">
+            <stop stop-color="#E1FAE3" offset="0%"></stop>
+            <stop stop-color="#F5FDF5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-86" points="0 67 156 90 1.35308431e-16 90"></polygon>
+        <rect id="path-87" x="7" y="0" width="76" height="51"></rect>
+        <linearGradient x1="50%" y1="17.5911458%" x2="43.1814236%" y2="50%" id="linearGradient-88">
+            <stop stop-color="#FAE2B4" offset="0%"></stop>
+            <stop stop-color="#FAD8B2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-89" x="0" y="8" width="90" height="15"></rect>
+        <polygon id="path-90" points="14 29 34 29 34 51 14 51"></polygon>
+        <polygon id="path-91" points="39 29 76 29 76 44 39 44"></polygon>
+        <linearGradient x1="74.2582142%" y1="-24.3963068%" x2="74.2582124%" y2="100%" id="linearGradient-92">
+            <stop stop-color="#FAF1F3" offset="0%"></stop>
+            <stop stop-color="#FFC7D7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="63.6035144%" y1="97.436756%" x2="63.6035156%" y2="1.24720982%" id="linearGradient-93">
+            <stop stop-color="#FAFAFA" offset="0%"></stop>
+            <stop stop-color="#EDF0F6" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-94" points="0 63.46875 60 63.46875 56.5714286 273.46875 3.42857143 273.46875"></polygon>
+        <linearGradient x1="44.5561428%" y1="50%" x2="67.6796109%" y2="100%" id="linearGradient-95">
+            <stop stop-color="#DEE7EA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M57,235 C39.0739911,117 30.1109867,58 30.1109867,58 C30.1109867,58 21.0739911,117 3,235 L57,235 Z" id="path-96"></path>
+        <polygon id="path-97" points="0 2 24 2 24 27 0 27"></polygon>
+        <linearGradient x1="50%" y1="92.9655671%" x2="50%" y2="0%" id="linearGradient-98">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-99" points="0 0 24 0 24 6 0 6"></polygon>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-100">
+            <stop stop-color="#DDDDDD" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-34.7689354%" id="linearGradient-101">
+            <stop stop-color="#DDDDDD" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="71.4681075%" id="linearGradient-102">
+            <stop stop-color="#ECF2FB" offset="0%"></stop>
+            <stop stop-color="#BED0EC" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-103" points="3 89 180 89 180 95 55.0239258 95 3 95"></polygon>
+        <polygon id="path-104" points="0 18.9354839 2.98657227 11 6 18.9354839 6 93 0 93"></polygon>
+        <polygon id="path-105" points="14 18.9354839 16.9865723 11 20 18.9354839 20 93 14 93"></polygon>
+        <polygon id="path-106" points="4 18.5193933 9.97314453 0 16 18.5193933 16 93 4 93"></polygon>
+        <rect id="path-107" x="7" y="89" width="30" height="20"></rect>
+        <polygon id="path-108" points="0 18.9354839 2.98657227 11 6 18.9354839 6 93 0 93"></polygon>
+        <polygon id="path-109" points="14 18.9354839 16.9865723 11 20 18.9354839 20 93 14 93"></polygon>
+        <polygon id="path-110" points="4 18.5193933 9.97314453 0 16 18.5193933 16 93 4 93"></polygon>
+        <rect id="path-111" x="7" y="89" width="30" height="20"></rect>
+        <rect id="path-112" x="0" y="2" width="68" height="6"></rect>
+        <rect id="path-113" x="0" y="0" width="10" height="10"></rect>
+        <linearGradient x1="50%" y1="95.915671%" x2="50%" y2="0%" id="linearGradient-114">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-115" x="0" y="4.00292969" width="58" height="153"></rect>
+        <rect id="path-116" x="0" y="0.103515625" width="58" height="6"></rect>
+        <polygon id="path-117" points="4 6.43359375 26 6.43359375 26 24.4335937 4 24.4335937"></polygon>
+        <polygon id="path-118" points="0 0.43359375 30 0.43359375 25.7692308 8.43359375 4.23076923 8.43359375"></polygon>
+        <rect id="path-119" x="20" y="64" width="6" height="78"></rect>
+        <rect id="path-120" x="4" y="64" width="6" height="78"></rect>
+        <rect id="path-121" x="8" y="64" width="14" height="78"></rect>
+        <rect id="path-122" x="4" y="40" width="22" height="22"></rect>
+        <rect id="path-123" x="24" y="36" width="6" height="30"></rect>
+        <rect id="path-124" x="0" y="36" width="6" height="30"></rect>
+        <polygon id="path-125" points="8 0 22 0 22 8 15 24 8 8"></polygon>
+        <polygon id="path-126" points="7 17 15 17 23 23 23 37 15 43 7 43"></polygon>
+        <circle id="path-127" cx="15" cy="51" r="9"></circle>
+        <linearGradient x1="58.5049716%" y1="100%" x2="50%" y2="6.47615132%" id="linearGradient-128">
+            <stop stop-color="#DCF9D5" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="52.4057749%" id="linearGradient-129">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FAE5CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-130">
+            <stop stop-color="#E5EEFC" offset="0%"></stop>
+            <stop stop-color="#F9FCFF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-131" points="3 70 35 70 38 82 0 82"></polygon>
+        <rect id="path-132" x="9" y="16" width="20" height="6"></rect>
+        <linearGradient x1="-25.6774902%" y1="38.1103516%" x2="115.353394%" y2="38.1103516%" id="linearGradient-133">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="54.0075303%"></stop>
+            <stop stop-color="#F3CA7C" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-134" x="11" y="6" width="16" height="12"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="our-story-landscape">
+            <g id="Cityscaper" transform="translate(0.000000, 8.000000)">
+                <g id="Montains" transform="translate(1064.000000, 124.000000)" stroke="#111111" stroke-width="2">
+                    <g id="Big" transform="translate(33.000000, 0.000000)">
+                        <path d="M122.503208,0.894086187 L240.271801,167.175438 L240.271801,167.175438 C241.54862,168.978221 241.122242,171.474732 239.319459,172.751552 C238.643587,173.230238 237.83579,173.487324 237.007573,173.487324 L4.73461445,173.487324 L4.73461445,173.487324 C2.52547545,173.487324 0.734614448,171.696463 0.734614448,169.487324 C0.734614448,168.659107 0.991700701,167.85131 1.47038661,167.175438 L119.23898,0.894086187 L119.23898,0.894086187 C119.87739,-0.00730544056 121.125645,-0.220494434 122.027037,0.417915241 C122.211533,0.548584525 122.372538,0.709589925 122.503208,0.894086187 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
+                        <polyline id="Path-3" transform="translate(120.500000, 26.000000) scale(-1, 1) translate(-120.500000, -26.000000) " points="101 26.3134328 106.647634 23.3628223 109.499526 28.3959294 115.183117 23 120.137233 29 125.675027 23 130.418823 29 133.584826 23.1310646 140 26.5660787"></polyline>
+                    </g>
+                    <g id="Medium" transform="translate(0.000000, 76.000000)">
+                        <path d="M14.9920792,81.7740623 L71.7689372,1.45048966 C72.4065074,0.548504019 73.6545639,0.334152895 74.5565496,0.971723028 C74.7421885,1.10294223 74.904097,1.26485074 75.0353162,1.45048966 L145.574544,101.244015 C146.212114,102.146 145.997763,103.394057 145.095777,104.031627 C144.758138,104.270288 144.354828,104.398438 143.941355,104.398438 L2.8628988,104.398438 C1.7583293,104.398438 0.862898798,103.503007 0.862898798,102.398438 C0.862898798,101.984965 0.991048021,101.581654 1.22970931,101.244015" id="Triangle" fill="url(#linearGradient-2)"></path>
+                        <polyline id="Path-3" points="54.2880859 26.2768555 59.8867188 23.6223145 62.7138672 28.1503906 68.3481445 23.2958984 73.2592773 28.6938477 78.7490234 23.2958984 83.4516602 28.6938477 86.5901938 23.4138118 92.949707 26.5041504"></polyline>
+                    </g>
+                    <g id="Small" transform="translate(79.000000, 108.000000)">
+                        <path d="M60.4408595,1.01981747 L117.609115,72.8898371 L117.609115,72.8898371 C118.296728,73.7542807 118.153378,75.0124708 117.288934,75.7000834 C116.935015,75.9816048 116.496133,76.1348699 116.043902,76.1348699 L1.70739025,76.1348699 L1.70739025,76.1348699 C0.602820752,76.1348699 -0.292609748,75.2394394 -0.292609748,74.1348699 C-0.292609748,73.6826385 -0.139344721,73.2437564 0.142176705,72.8898371 L57.3104324,1.01981747 L57.3104324,1.01981747 C57.998045,0.155373899 59.2562351,0.0120240741 60.1206787,0.699636676 C60.2391821,0.793898936 60.3465972,0.901314109 60.4408595,1.01981747 Z" id="Triangle" fill="url(#linearGradient-3)"></path>
+                        <polyline id="Path-3" points="37.5 25.6444499 44.6912921 22.5474854 47.7335546 27.8302409 53.7965367 22.1666667 59.0813512 28.4642741 64.9888048 22.1666667 70.049259 28.4642741 73.4265996 22.3042323 80.2699998 25.9096273"></polyline>
+                    </g>
+                </g>
+                <g id="Diamond" transform="translate(1190.000000, 68.000000)" stroke="#111111">
+                    <g transform="translate(10.000000, 21.160999)" id="Polygon" stroke-width="2" fill="url(#linearGradient-4)" stroke-linecap="square">
+                        <polygon transform="translate(18.418254, 14.422298) rotate(-180.000000) translate(-18.418254, -14.422298) " points="18.6776658 0.932872596 36.8365076 17.5352422 29.0541469 27.9117233 8.82000887 27.9117233 -1.13686838e-13 17.5352422"></polygon>
+                    </g>
+                    <path d="M11.7307692,32.5 L45.3779114,32.5" id="Line-7" stroke-linecap="square"></path>
+                    <polyline id="Path-10" points="26.5247333 22.4329928 20.5230056 32.0496806 26.5247333 47.4329928"></polyline>
+                    <polyline id="Path-10" transform="translate(32.806566, 34.932993) scale(-1, 1) translate(-32.806566, -34.932993) " points="35.8074294 22.4329928 29.8057016 32.0496806 35.8074294 47.4329928"></polyline>
+                </g>
+                <g id="Clouds" transform="translate(1145.000000, 152.000000)" stroke="#111111" stroke-width="2" fill="#FFFFFF">
+                    <path d="M46.5806876,14.3346072 C45.2968647,15.2402735 43.7305375,15.7722356 42.0399639,15.7722356 C40.4466452,15.7722356 38.9636889,15.2997181 37.7235812,14.4871696 C36.9415563,14.8178783 36.0711391,15.0023081 35.1538462,15.0023081 C31.7551708,15.0023081 29,12.4704783 29,9.3473079 C29,6.22413753 31.7551708,3.69230769 35.1538462,3.69230769 C35.2222575,3.69230769 35.2904082,3.69333351 35.3582809,3.69536933 C36.7535366,1.47546866 39.2244432,0 42.0399639,0 C45.1081829,0 47.7671521,1.7522062 49.0708044,4.3105514 C51.905665,4.4030906 54.175385,6.7303308 54.175385,9.58769252 C54.175385,12.5037561 51.8114484,14.8676927 48.8953848,14.8676927 C48.0651208,14.8676927 47.2796155,14.676058 46.5806876,14.3346072 Z" id="Combined-Shape"></path>
+                    <path d="M13.3759257,34.9062083 C12.3991539,35.595267 11.2074442,36 9.92120404,36 C8.70895836,36 7.58067974,35.6404943 6.63716781,35.0222824 C6.04217928,35.2738957 5.37993924,35.4142156 4.68203467,35.4142156 C2.09621833,35.4142156 0,33.4879219 0,31.1117182 C0,28.7355145 2.09621833,26.8092208 4.68203467,26.8092208 C4.73408414,26.8092208 4.78593524,26.8100013 4.83757486,26.8115502 C5.89912819,25.1225818 7.7790696,24 9.92120404,24 C12.255599,24 14.2786242,25.3331322 15.2704829,27.2795996 C17.4273316,27.3500062 19.1542042,29.1206419 19.1542042,31.2946102 C19.1542042,33.5132407 17.3556488,35.3117961 15.1370183,35.3117961 C14.505328,35.3117961 13.9076915,35.1659945 13.3759257,34.9062083 Z" id="Combined-Shape"></path>
+                    <path d="M63.6052467,43.7239096 C62.4656795,44.5278114 61.0753516,45 59.574738,45 C58.1604514,45 56.8441264,44.5805766 55.7433624,43.8593295 C55.0492092,44.1528783 54.2765958,44.3165849 53.4623738,44.3165849 C50.445588,44.3165849 48,42.0692422 48,39.2970046 C48,36.5247669 50.445588,34.2774243 53.4623738,34.2774243 C53.5230982,34.2774243 53.5835911,34.2783348 53.6438373,34.2801419 C54.8823162,32.3096787 57.0755812,31 59.574738,31 C62.2981988,31 64.6583949,32.5553208 65.8155634,34.8261995 C68.3318869,34.9083406 70.3465715,36.9740822 70.3465715,39.5103785 C70.3465715,42.0987808 68.2482569,44.1970954 65.6598546,44.1970954 C64.9228826,44.1970954 64.2256401,44.0269936 63.6052467,43.7239096 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Sea" transform="translate(1365.000000, 279.000000)">
+                    <rect id="Rectangle-23" fill="url(#linearGradient-5)" x="0" y="8" width="204" height="16"></rect>
+                    <path d="M5.55111512e-17,8 C4.61627197,8 11.6335449,0 17.7076416,0 C23.7817383,0 28.8991699,8 34,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M34,8 C38.616272,8 45.6335449,0 51.7076416,0 C57.7817383,0 62.8991699,8 68,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M68,8 C72.616272,8 79.6335449,0 85.7076416,0 C91.7817383,0 96.8991699,8 102,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M102,8 C106.616272,8 113.633545,0 119.707642,0 C125.781738,0 130.89917,8 136,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M136,8 C140.616272,8 147.633545,0 153.707642,0 C159.781738,0 164.89917,8 170,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M170,8 C174.616272,8 181.633545,0 187.707642,0 C193.781738,0 198.89917,8 204,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                </g>
+                <g id="Beach" transform="translate(1345.000000, 280.000000)" stroke-width="2" stroke="#111111" fill="url(#linearGradient-7)">
+                    <path d="M6.22265625,0.0439453125 C16.9814453,0.0439453125 39.6738281,3.17285156 51.0292969,18 C49.7408854,24.0559896 34.8053385,24.0559896 6.22265625,18 C-0.949869792,6.02929688 -0.949869792,0.0439453125 6.22265625,0.0439453125 Z"></path>
+                </g>
+                <g id="Parasol" transform="translate(1371.965475, 273.941695) rotate(14.000000) translate(-1371.965475, -273.941695) translate(1356.465475, 260.441695)">
+                    <g id="Group-7" transform="translate(0.750000, 0.000000)">
+                        <polygon id="Path-8" fill="url(#linearGradient-8)" points="14.0492676 1.15290527 10.4099365 4.2253418 7.39682617 9.1513916 7.39682617 11.8487549 14.8106201 11.8487549"></polygon>
+                        <polygon id="Path-9" fill="url(#linearGradient-9)" points="15.2852295 0.670385742 19.6641602 4.45539551 22.143335 8.75654297 23.0938721 12.2719482 29.6019531 12.2719482 27.9724609 6.47116699 24.4023437 2.95378418 19.6641602 0.670385742"></polygon>
+                        <polygon id="Path-15" fill="url(#linearGradient-10)" points="15.1058961 0.959061967 15.2046546 12.0180643 22.8867397 11.7487684 21.7891136 7.34643057 18.0566772 2.71987021"></polygon>
+                        <polygon id="Path-16" fill="url(#linearGradient-11)" points="13.217674 1.30932518 8.44505163 6.75533549 6.89957625 11.8433437 0.0508782436 11.6970191 3.0632184 4.10405263 11.7511025 0.261663006"></polygon>
+                    </g>
+                    <g id="Group-6" transform="translate(7.075000, 0.000000)" stroke="#111111" stroke-width="2">
+                        <path d="M8.45529785,0.0922851563 L8.45529785,12.1157545" id="Path-6"></path>
+                        <path d="M8.67810059,0.228076172 C13.6487549,4.09482422 16.2474609,7.96157227 16.4742187,11.8283203" id="Path-7"></path>
+                        <path d="M0.578100586,0.228076172 C5.54875488,4.09482422 8.14746094,7.96157227 8.37421875,11.8283203" id="Path-7" transform="translate(4.476160, 6.028198) scale(-1, 1) translate(-4.476160, -6.028198) "></path>
+                    </g>
+                    <path d="M30.025,12.15 C30.025,5.43974029 23.5275324,1.00974784e-13 15.5125,1.00974784e-13 C7.49746757,1.00974784e-13 0.753855553,5.37338931 0.753855553,12.083649 C7.7846661,12.083649 12.2113281,12.15 30.025,12.15 Z" id="Oval-5" stroke="#111111" stroke-width="2"></path>
+                    <path d="M15.5125,12.15 L15.5125,27" id="Line-6" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <g id="Apartment" transform="translate(1290.000000, 188.000000)">
+                    <g id="Fence" transform="translate(1.000000, 0.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M2,5 L2,0" id="Line-8"></path>
+                        <path d="M56,1 L0,1" id="Line-8"></path>
+                        <path d="M56,4 L0,4" id="Line-8"></path>
+                        <path d="M12,5 L12,0" id="Line-8"></path>
+                        <path d="M22,5 L22,0" id="Line-8"></path>
+                        <path d="M33,5 L33,0" id="Line-8"></path>
+                        <path d="M43,5 L43,0" id="Line-8"></path>
+                        <path d="M54,5 L54,0" id="Line-8"></path>
+                    </g>
+                    <g transform="translate(0.000000, 6.000000)">
+                        <g id="Group-10" transform="translate(49.000000, 13.000000)">
+                            <g id="Rectangle-6">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-12"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,1 L3,11 L12.1528729,11 L13.8195396,1 L3,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-6">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,24 L3,34 L12.1528729,34 L13.8195396,24 L3,24 Z"></path>
+                            </g>
+                            <g id="Rectangle-6">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,47 L3,57 L12.1528729,57 L13.8195396,47 L3,47 Z"></path>
+                            </g>
+                            <g id="Rectangle-6">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1,68 L1,88.142081 L12,89.8343887 L12,68 L1,68 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-2">
+                            <use fill="url(#linearGradient-16)" fill-rule="evenodd" xlink:href="#path-17"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="1" width="56" height="98"></rect>
+                        </g>
+                        <g id="Group-9" transform="translate(10.000000, 80.000000)">
+                            <g id="Rectangle-7">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                                <rect stroke="#111111" stroke-width="2" x="1" y="1" width="11" height="18"></rect>
+                            </g>
+                            <g id="Rectangle-7">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                <rect stroke="#111111" stroke-width="2" x="21" y="1" width="16" height="11"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-8" transform="translate(10.000000, 6.000000)">
+                            <g id="Rectangle-7">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-20"></use>
+                                <rect stroke="#111111" stroke-width="2" x="1" y="7" width="36" height="11"></rect>
+                            </g>
+                            <g id="Rectangle-7">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                <rect stroke="#111111" stroke-width="2" x="4" y="1" width="30" height="6"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-8" transform="translate(10.000000, 29.000000)">
+                            <g id="Rectangle-7">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-22"></use>
+                                <rect stroke="#111111" stroke-width="2" x="1" y="7" width="36" height="11"></rect>
+                            </g>
+                            <rect id="Rectangle-7" stroke="#111111" stroke-width="2" x="4" y="1" width="30" height="6"></rect>
+                        </g>
+                        <g id="Group-8" transform="translate(10.000000, 52.000000)">
+                            <g id="Rectangle-7">
+                                <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-23"></use>
+                                <rect stroke="#111111" stroke-width="2" x="1" y="7" width="36" height="11"></rect>
+                            </g>
+                            <g id="Rectangle-7">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                                <rect stroke="#111111" stroke-width="2" x="4" y="1" width="30" height="6"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Store" transform="translate(1227.000000, 249.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="url(#linearGradient-16)" fill-rule="evenodd" xlink:href="#path-25"></use>
+                        <rect stroke="#111111" stroke-width="2" x="8" y="1" width="56" height="43"></rect>
+                    </g>
+                    <g id="Group-9" transform="translate(15.000000, 26.000000)" stroke="#111111" stroke-width="2">
+                        <rect id="Rectangle-7" x="1" y="1" width="11" height="18"></rect>
+                        <rect id="Rectangle-7" x="21" y="1" width="19.8681641" height="11"></rect>
+                    </g>
+                    <g id="Group-17" transform="translate(1.000000, 9.000000)">
+                        <polygon id="Path-17" fill="url(#linearGradient-26)" points="10.9067383 0.513671875 7.23632812 12.6923828 14.1547852 13.3061523 17.1586914 0.513671875"></polygon>
+                        <polygon id="Path-17" fill="url(#linearGradient-11)" transform="translate(58.197510, 6.909912) scale(-1, 1) translate(-58.197510, -6.909912) " points="56.9067383 0.513671875 53.2363281 12.6923828 60.1547852 13.3061523 63.1586914 0.513671875"></polygon>
+                        <polygon id="Path-19" fill="url(#linearGradient-26)" points="34.9467773 0.581054688 34.9467773 12.5458984 42.3754883 12.5458984 40.9370117 0.581054688"></polygon>
+                        <polygon id="Path-19" fill="url(#linearGradient-11)" transform="translate(31.661133, 6.563477) scale(-1, 1) translate(-31.661133, -6.563477) " points="27.9467773 0.581054688 27.9467773 12.5458984 35.3754883 12.5458984 33.9370117 0.581054688"></polygon>
+                        <polygon id="Path-21" fill="url(#linearGradient-26)" points="58.9511719 0.743652344 63.3564453 12.8779297 69.6523438 12.8779297 63.3564453 0.743652344"></polygon>
+                        <polygon id="Path-18" fill="url(#linearGradient-26)" points="23.1499023 0.672851562 20.9936523 13.0507812 27.925293 13.0507812 29.1801758 0.672851562"></polygon>
+                        <polygon id="Path-18" fill="url(#linearGradient-11)" transform="translate(45.086914, 6.861816) scale(-1, 1) translate(-45.086914, -6.861816) " points="43.1499023 0.672851562 40.9936523 13.0507812 47.925293 13.0507812 49.1801758 0.672851562"></polygon>
+                        <polygon id="Path-20" fill="url(#linearGradient-26)" points="46.625 0.255859375 49.2348633 13.2490234 56.5439453 13.2490234 52.5600586 0.255859375"></polygon>
+                        <polygon id="Path-20" fill="url(#linearGradient-11)" transform="translate(17.584473, 6.752441) scale(-1, 1) translate(-17.584473, -6.752441) " points="12.625 0.255859375 15.2348633 13.2490234 22.5439453 13.2490234 18.5600586 0.255859375"></polygon>
+                        <polygon id="Path-21" fill="url(#linearGradient-11)" transform="translate(5.350586, 6.810791) scale(-1, 1) translate(-5.350586, -6.810791) " points="0 0.743652344 4.40527344 12.8779297 10.7011719 12.8779297 4.40527344 0.743652344"></polygon>
+                    </g>
+                    <g id="Group-12" transform="translate(0.000000, 8.000000)" stroke="#111111" stroke-width="2">
+                        <path d="M7.63686302,1.33483473 L1.57019636,14.3348347 L70.4298036,14.3348347 L64.363137,1.33483473 L7.63686302,1.33483473 Z" id="Rectangle-2"></path>
+                        <path d="M36,2.5 L36,13.5" id="Line-9" stroke-linecap="square"></path>
+                        <g id="Group-11" transform="translate(42.000000, 2.000000)" stroke-linecap="square">
+                            <path d="M0,0.5 L1,11.5" id="Line-9"></path>
+                            <path d="M6,0.5 L8,11.5" id="Line-9"></path>
+                            <path d="M12,0.5 L15,11.5" id="Line-9"></path>
+                            <path d="M18,0.5 L22,11.5" id="Line-9"></path>
+                        </g>
+                        <g id="Group-11" transform="translate(19.000000, 8.000000) scale(-1, 1) translate(-19.000000, -8.000000) translate(8.000000, 2.000000)" stroke-linecap="square">
+                            <path d="M0,0.5 L1,11.5" id="Line-9"></path>
+                            <path d="M6,0.5 L8,11.5" id="Line-9"></path>
+                            <path d="M12,0.5 L15,11.5" id="Line-9"></path>
+                            <path d="M18,0.5 L22,11.5" id="Line-9"></path>
+                        </g>
+                    </g>
+                    <path d="M14.5,5 L18.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M22.5,5 L26.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M30.5,5 L34.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M38.5,5 L42.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M46.5,5 L50.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M54.5,5 L58.5,5" id="Line-10" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <g id="Sun" transform="translate(736.000000, 220.000000)">
+                    <circle id="Oval-7" stroke="#111111" stroke-width="2" fill="url(#linearGradient-27)" cx="64" cy="64" r="37"></circle>
+                    <rect id="Rectangle-15" fill="#111111" x="64" y="0" width="2" height="18"></rect>
+                    <g id="rays" transform="translate(75.000000, 2.000000)" fill="#111111">
+                        <rect id="Rectangle-15" transform="translate(4.000000, 9.000000) rotate(15.000000) translate(-4.000000, -9.000000) " x="3" y="0" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(17.812935, 14.884003) rotate(30.000000) translate(-17.812935, -14.884003) " x="16.8129353" y="5.88400313" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(29.366025, 24.026279) rotate(45.000000) translate(-29.366025, -24.026279) " x="28.3660254" y="15.0262794" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(38.366025, 36.026279) rotate(60.000000) translate(-38.366025, -36.026279) " x="37.3660254" y="27.0262794" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(43.366025, 49.026279) rotate(75.000000) translate(-43.366025, -49.026279) " x="42.3660254" y="40.0262794" width="2" height="18"></rect>
+                    </g>
+                    <g id="rays" transform="translate(26.500000, 28.500000) scale(-1, 1) translate(-26.500000, -28.500000) translate(0.000000, 2.000000)" fill="#111111">
+                        <rect id="Rectangle-15" transform="translate(4.000000, 9.000000) rotate(15.000000) translate(-4.000000, -9.000000) " x="3" y="0" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(17.812935, 14.884003) rotate(30.000000) translate(-17.812935, -14.884003) " x="16.8129353" y="5.88400313" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(29.366025, 24.026279) rotate(45.000000) translate(-29.366025, -24.026279) " x="28.3660254" y="15.0262794" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(38.366025, 36.026279) rotate(60.000000) translate(-38.366025, -36.026279) " x="37.3660254" y="27.0262794" width="2" height="18"></rect>
+                        <rect id="Rectangle-15" transform="translate(43.366025, 49.026279) rotate(75.000000) translate(-43.366025, -49.026279) " x="42.3660254" y="40.0262794" width="2" height="18"></rect>
+                    </g>
+                </g>
+                <g id="Sea" transform="translate(715.000000, 279.000000)">
+                    <rect id="Rectangle-23" fill="url(#linearGradient-5)" x="0" y="8" width="168" height="16"></rect>
+                    <path d="M5.55111512e-17,8 C4.61627197,8 11.6335449,0 17.7076416,0 C23.7817383,0 28.8991699,8 34,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M34,8 C38.616272,8 45.6335449,0 51.7076416,0 C57.7817383,0 62.8991699,8 68,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M68,8 C72.616272,8 79.6335449,0 85.7076416,0 C91.7817383,0 96.8991699,8 102,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M102,8 C106.616272,8 113.633545,0 119.707642,0 C125.781738,0 130.89917,8 136,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                    <path d="M136,8 C140.616272,8 147.633545,0 153.707642,0 C159.781738,0 164.89917,8 170,8" id="Path-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-6)"></path>
+                </g>
+                <g id="Beach" transform="translate(863.000000, 244.000000)" stroke="#111111" stroke-width="2">
+                    <path d="M82,29 C114.681152,29.8286133 128.43457,37.3789063 145,54.9560547 C143.274705,61.0120443 122.186814,61.6513672 81.7363281,56.8740234 L5.1159077e-13,54.9560547 L9.58316759e-13,29 C41.3255208,29.1920573 68.6588542,29.1920573 82,29 Z" fill="url(#linearGradient-28)" transform="translate(72.500000, 44.517066) scale(-1, 1) translate(-72.500000, -44.517066) "></path>
+                    <g id="Palm-Tree" transform="translate(8.727835, 0.026671)" stroke-linejoin="round">
+                        <path d="M17.5547466,43.2737592 C15.3039824,26.1617243 19.1367779,14.4784895 21.4720361,12.0637602 C20.9816801,22.0402725 20.1225835,33.2826834 23.3614722,43.2737592 C19.9120836,43.2737592 21.5628988,43.2737592 17.5547466,43.2737592 Z" id="Path-11" fill="#F9EDE3"></path>
+                        <g id="Group-28" transform="translate(0.710101, 0.301537)" fill="url(#linearGradient-29)" stroke-linecap="round">
+                            <path d="M20.5512058,6.63818359 C18.7449898,7.86848958 16.1927649,9.43212891 12.8945312,11.3291016 L10.5461107,9.48364258 L9.515625,12.3598633 C6.68812274,13.9060872 4.31210371,15.230306 2.38756793,16.3325195 C3.47622283,11.7666016 5.85224185,8.20947266 9.515625,5.66113281 C12.2809952,4.22412109 17.5276834,3.66113281 20.5512058,6.63818359 Z" id="Path-12" transform="translate(11.469387, 10.411614) rotate(27.000000) translate(-11.469387, -10.411614) "></path>
+                            <path d="M21.4207711,10.6381836 C19.614555,11.8684896 17.0623302,13.4321289 13.7640965,15.3291016 L11.415676,13.4836426 L10.3851902,16.3598633 C7.55768795,17.9060872 5.18166893,19.230306 3.25713315,20.3325195 C4.34578804,15.7666016 6.72180707,12.2094727 10.3851902,9.66113281 C13.1505605,8.22412109 18.3972486,7.66113281 21.4207711,10.6381836 Z" id="Path-12"></path>
+                            <path d="M39.6816406,5.63818359 C37.8754246,6.86848958 35.3231997,8.43212891 32.024966,10.3291016 L29.6765455,8.48364258 L28.6460598,11.3598633 C25.8185575,12.9060872 23.4425385,14.230306 21.5180027,15.3325195 C22.6066576,10.7666016 24.9826766,7.20947266 28.6460598,4.66113281 C31.41143,3.22412109 36.6581182,2.66113281 39.6816406,5.63818359 Z" id="Path-12" transform="translate(30.599822, 9.411614) scale(-1, 1) rotate(23.000000) translate(-30.599822, -9.411614) "></path>
+                            <path d="M38.8120754,10.6381836 C37.0058594,11.8684896 34.4536345,13.4321289 31.1554008,15.3291016 L28.8069803,13.4836426 L27.7764946,16.3598633 C24.9489923,17.9060872 22.5729733,19.230306 20.6484375,20.3325195 C21.7370924,15.7666016 24.1131114,12.2094727 27.7764946,9.66113281 C30.5418648,8.22412109 35.788553,7.66113281 38.8120754,10.6381836 Z" id="Path-12" transform="translate(29.730256, 14.411614) scale(-1, 1) rotate(-1.000000) translate(-29.730256, -14.411614) "></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Beach" transform="translate(700.500000, 291.000000) scale(-1, 1) translate(-700.500000, -291.000000) translate(664.000000, 278.000000)" stroke-width="2" stroke="#111111" fill="url(#linearGradient-30)">
+                    <path d="M7.20347849,0 C21.6104355,-2.89408458e-14 56.9975154,5.12890625 72.2034785,19.9560547 C70.4781832,26.0120443 48.8115165,26.7607422 7.20347849,22.2021484 C-2.4011595,7.40071615 -2.4011595,2.11402031e-14 7.20347849,0 Z" transform="translate(36.101739, 12.569392) scale(-1, 1) translate(-36.101739, -12.569392) "></path>
+                </g>
+                <g id="Silo" transform="translate(1069.000000, 224.000000)">
+                    <polyline id="Rectangle-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-31)" stroke-linecap="square" points="1 25.109375 1 17 25 17 25 67 6.82895612 67"></polyline>
+                    <g id="Group" transform="translate(13.500000, 22.500000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M10.2518115,37.5 L0.251811499,37.5" id="Line"></path>
+                        <path d="M10.2518115,31.5 L0.251811499,31.5" id="Line"></path>
+                        <path d="M10.2518115,25.5 L0.251811499,25.5" id="Line"></path>
+                        <path d="M10.2518115,19.5 L0.251811499,19.5" id="Line"></path>
+                        <path d="M10.2518115,13.5 L0.251811499,13.5" id="Line"></path>
+                        <path d="M10.2518115,7.5 L0.251811499,7.5" id="Line"></path>
+                        <path d="M10.2518115,1.5 L0.251811499,1.5" id="Line"></path>
+                    </g>
+                    <path d="M1.00240206,11 C1.1277938,4.90490393 6.45236127,0 13.0024021,0 C19.5524429,0 24.8770103,4.90490393 25.0024021,11 L1.00240206,11 Z" id="Combined-Shape" stroke="#111111" stroke-width="2" fill="url(#linearGradient-32)" stroke-linecap="square"></path>
+                    <rect id="Rectangle-22" fill="url(#linearGradient-33)" x="2" y="12" width="22" height="4"></rect>
+                    <path d="M25,11.5 L25,17.5" id="Line-5" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    <path d="M1,11.5 L1,17.5" id="Line-5" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                </g>
+                <g id="Field" transform="translate(929.000000, 272.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                    <path d="M40,5 L40,15" id="Line-3"></path>
+                    <g id="Group-5" transform="translate(17.500000, 10.000000) scale(-1, 1) translate(-17.500000, -10.000000) translate(0.000000, 5.000000)">
+                        <path d="M0,0 L3,10" id="Line-3"></path>
+                        <path d="M6,0 L10,10" id="Line-3"></path>
+                        <path d="M12,0 L18,10" id="Line-3"></path>
+                        <path d="M18,0 L26,10" id="Line-3"></path>
+                        <path d="M25,0 L35,10" id="Line-3"></path>
+                    </g>
+                    <g id="Group-5" transform="translate(46.000000, 5.000000)">
+                        <path d="M0,0 L3,10" id="Line-3"></path>
+                        <path d="M6,0 L10,10" id="Line-3"></path>
+                        <path d="M12,0 L18,10" id="Line-3"></path>
+                        <path d="M18,0 L26,10" id="Line-3"></path>
+                        <path d="M25,0 L35,10" id="Line-3"></path>
+                    </g>
+                    <path d="M0,1 L78.9736328,1" id="Line-4"></path>
+                </g>
+                <g id="Barn" transform="translate(1005.000000, 246.000000)">
+                    <g id="Group-2">
+                        <g id="extra-shade">
+                            <polygon id="Path-13" fill="#E2E2E2" points="0.947265625 18.609375 7.33129883 5.09448242 14.1066895 0.333740234 15.9077148 2.09570312 9.37841797 7.85620117 3.06298828 19.3354492"></polygon>
+                            <polygon id="Path-14" fill="url(#linearGradient-34)" points="15.434082 0.8046875 23.635498 8.08251953 29.2011719 19.8522949 72.9367676 19.8522949 66.8442383 7.01977539 61.2875977 0.146240234 14.8588867 0.146240234"></polygon>
+                        </g>
+                        <polygon id="Rectangle" stroke="#111111" stroke-width="2" fill="url(#linearGradient-35)" points="29 20 71 20 71 45 29 45"></polygon>
+                        <polygon id="Rectangle" stroke="#111111" stroke-width="2" fill="url(#linearGradient-36)" points="29 19.5 29 45 3 45 3 19.5 9.62745098 7 16.254902 2 22.8823529 7"></polygon>
+                        <polyline id="Path" stroke="#111111" stroke-width="2" points="69.5 20 72.5 20 67 7 61.5 0 14 0"></polyline>
+                        <path d="M24,7 L66.5,7" id="Line" stroke="#111111" stroke-width="2" fill="#D8D8D8" stroke-linecap="square"></path>
+                        <polyline id="Path-2" stroke="#111111" stroke-width="2" points="3.5 19.5 0 19.5 7 5.5 14 0 16.5 2"></polyline>
+                    </g>
+                    <g id="Group-3" transform="translate(34.000000, 20.500000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M1,0.25 L1,24.2552078" id="Line"></path>
+                        <path d="M7,0.25 L7,24.2552078" id="Line"></path>
+                        <path d="M13,0.25 L13,24.2552078" id="Line"></path>
+                        <path d="M19,0.25 L19,24.2552078" id="Line"></path>
+                        <path d="M25,0.25 L25,24.2552078" id="Line"></path>
+                        <path d="M31,0.25 L31,24.2552078" id="Line"></path>
+                    </g>
+                    <g id="Group-4" transform="translate(10.000000, 12.000000)" stroke="#111111" stroke-width="2" fill="url(#linearGradient-26)" stroke-linecap="square">
+                        <rect id="Rectangle-3" x="0" y="18" width="12.5" height="15"></rect>
+                        <rect id="Rectangle-3" x="4" y="0" width="4" height="7"></rect>
+                    </g>
+                </g>
+                <g id="Orchard" transform="translate(1089.000000, 267.000000)" stroke="#111111" stroke-width="2">
+                    <g id="Tree" transform="translate(0.000000, 1.000000)">
+                        <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(27.000000, 13.500000) scale(-1, 1) translate(-27.000000, -13.500000) translate(16.000000, 0.000000)">
+                        <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(31.000000, 2.000000)">
+                        <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Palm-Tree" transform="translate(707.500000, 266.026671) scale(-1, 1) translate(-707.500000, -266.026671) translate(686.000000, 244.026671)" stroke="#111111" stroke-width="2" stroke-linejoin="round">
+                    <path d="M17.5547466,43.2737592 C15.3039824,26.1617243 19.1367779,14.4784895 21.4720361,12.0637602 C20.9816801,22.0402725 20.1225835,33.2826834 23.3614722,43.2737592 C19.9120836,43.2737592 21.5628988,43.2737592 17.5547466,43.2737592 Z" id="Path-11" fill="#F9EDE3"></path>
+                    <g id="Group-28" transform="translate(0.710101, 0.301537)" fill="url(#linearGradient-29)" stroke-linecap="round">
+                        <path d="M20.5512058,6.63818359 C18.7449898,7.86848958 16.1927649,9.43212891 12.8945312,11.3291016 L10.5461107,9.48364258 L9.515625,12.3598633 C6.68812274,13.9060872 4.31210371,15.230306 2.38756793,16.3325195 C3.47622283,11.7666016 5.85224185,8.20947266 9.515625,5.66113281 C12.2809952,4.22412109 17.5276834,3.66113281 20.5512058,6.63818359 Z" id="Path-12" transform="translate(11.469387, 10.411614) rotate(27.000000) translate(-11.469387, -10.411614) "></path>
+                        <path d="M21.4207711,10.6381836 C19.614555,11.8684896 17.0623302,13.4321289 13.7640965,15.3291016 L11.415676,13.4836426 L10.3851902,16.3598633 C7.55768795,17.9060872 5.18166893,19.230306 3.25713315,20.3325195 C4.34578804,15.7666016 6.72180707,12.2094727 10.3851902,9.66113281 C13.1505605,8.22412109 18.3972486,7.66113281 21.4207711,10.6381836 Z" id="Path-12"></path>
+                        <path d="M39.6816406,5.63818359 C37.8754246,6.86848958 35.3231997,8.43212891 32.024966,10.3291016 L29.6765455,8.48364258 L28.6460598,11.3598633 C25.8185575,12.9060872 23.4425385,14.230306 21.5180027,15.3325195 C22.6066576,10.7666016 24.9826766,7.20947266 28.6460598,4.66113281 C31.41143,3.22412109 36.6581182,2.66113281 39.6816406,5.63818359 Z" id="Path-12" transform="translate(30.599822, 9.411614) scale(-1, 1) rotate(23.000000) translate(-30.599822, -9.411614) "></path>
+                        <path d="M38.8120754,10.6381836 C37.0058594,11.8684896 34.4536345,13.4321289 31.1554008,15.3291016 L28.8069803,13.4836426 L27.7764946,16.3598633 C24.9489923,17.9060872 22.5729733,19.230306 20.6484375,20.3325195 C21.7370924,15.7666016 24.1131114,12.2094727 27.7764946,9.66113281 C30.5418648,8.22412109 35.788553,7.66113281 38.8120754,10.6381836 Z" id="Path-12" transform="translate(29.730256, 14.411614) scale(-1, 1) rotate(-1.000000) translate(-29.730256, -14.411614) "></path>
+                    </g>
+                </g>
+                <g id="Park-Slope" transform="translate(406.000000, 202.000000)">
+                    <g id="Brownstone" transform="translate(110.000000, 11.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="url(#linearGradient-38)" fill-rule="evenodd" xlink:href="#path-39"></use>
+                            <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="76.0253906"></rect>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-40"></use>
+                            <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 51.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-41"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-42"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 32.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-43"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-44"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 32.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-45"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-46"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 13.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-47"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-48"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 13.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-49"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Door" transform="translate(26.000000, 51.000000)">
+                            <g id="Rectangle-2">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-51"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-52"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                            </g>
+                            <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-53"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Orchard" transform="translate(150.000000, 64.000000)" stroke="#111111" stroke-width="2">
+                        <g id="Tree" transform="translate(0.000000, 1.000000)">
+                            <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                            <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                        <g id="Tree" transform="translate(27.000000, 13.500000) scale(-1, 1) translate(-27.000000, -13.500000) translate(16.000000, 0.000000)">
+                            <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                            <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                    <g id="Brownstone" transform="translate(68.000000, 5.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="url(#linearGradient-38)" fill-rule="evenodd" xlink:href="#path-54"></use>
+                            <rect stroke="#111111" stroke-width="2" x="3" y="4.97460938" width="42" height="74"></rect>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-56"></use>
+                            <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 52.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-57"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-58"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 33.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-59"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-60"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 33.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-61"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-62"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 14.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-63"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-64"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 14.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-65"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-66"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Door" transform="translate(26.000000, 52.000000)">
+                            <g id="Rectangle-2">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-67"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                                <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-68"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                            </g>
+                            <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-69"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Brownstone" transform="translate(26.000000, 0.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="url(#linearGradient-38)" fill-rule="evenodd" xlink:href="#path-70"></use>
+                            <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="74"></rect>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-71"></use>
+                            <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 51.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-72"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-73"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 32.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-74"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-75"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 32.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-76"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-77"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(26.000000, 13.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-78"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-79"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="window" transform="translate(8.000000, 13.000000)">
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-80"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-81"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Door" transform="translate(26.000000, 51.000000)">
+                            <g id="Rectangle-2">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-82"></use>
+                                <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                            </g>
+                            <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-83"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                            </g>
+                            <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                            <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                                <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-84"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Rectangle-8">
+                        <use fill="url(#linearGradient-85)" fill-rule="evenodd" xlink:href="#path-86"></use>
+                        <path stroke="#111111" stroke-width="2" d="M1,68.1582461 L1,89 L142.361461,89 L1,68.1582461 Z"></path>
+                    </g>
+                    <g id="Dino-BBQ" transform="translate(184.000000, 41.000000)">
+                        <g id="Rectangle-13">
+                            <use fill="url(#linearGradient-38)" fill-rule="evenodd" xlink:href="#path-87"></use>
+                            <rect stroke="#111111" stroke-width="2" x="8" y="1" width="74" height="49"></rect>
+                        </g>
+                        <path d="M45,7 L45,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(45.000000, 4.500000) scale(1, -1) translate(-45.000000, -4.500000) "></path>
+                        <path d="M57,7 L57,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(57.000000, 4.500000) scale(1, -1) translate(-57.000000, -4.500000) "></path>
+                        <path d="M69,7 L69,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(69.000000, 4.500000) scale(1, -1) translate(-69.000000, -4.500000) "></path>
+                        <path d="M21,7 L21,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(21.000000, 4.500000) scale(1, -1) translate(-21.000000, -4.500000) "></path>
+                        <path d="M33,7 L33,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(33.000000, 4.500000) scale(1, -1) translate(-33.000000, -4.500000) "></path>
+                        <g id="Rectangle-13">
+                            <use fill="url(#linearGradient-88)" fill-rule="evenodd" xlink:href="#path-89"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="9" width="88" height="13"></rect>
+                        </g>
+                        <path d="M12.6049316,15.6513672 C12.6049316,16.7236382 12.3097685,17.5498018 11.7194336,18.1298828 C11.1290986,18.7099638 10.2992729,19 9.22993161,19 L7.15131833,19 L7.15131833,12.5751953 L9.37495114,12.5751953 C10.4062063,12.5751953 11.2023409,12.8388646 11.7633789,13.3662109 C12.3244168,13.8935573 12.6049316,14.6552685 12.6049316,15.6513672 Z M10.8031738,15.7128906 C10.8031738,15.1240205 10.6867199,14.6875014 10.4538086,14.4033203 C10.2208972,14.1191392 9.86714101,13.9770508 9.39252926,13.9770508 L8.88715817,13.9770508 L8.88715817,17.5761719 L9.27387692,17.5761719 C9.80122331,17.5761719 10.1879382,17.4230972 10.4340332,17.1169434 C10.6801282,16.8107895 10.8031738,16.3427766 10.8031738,15.7128906 Z M14.1562988,19 L14.1562988,12.5751953 L15.9009277,12.5751953 L15.9009277,19 L14.1562988,19 Z M23.8067871,19 L21.5304199,19 L19.1837402,14.4736328 L19.1441894,14.4736328 C19.1998538,15.1855504 19.2276855,15.729002 19.2276855,16.1040039 L19.2276855,19 L17.6895996,19 L17.6895996,12.5751953 L19.9571777,12.5751953 L22.2950683,17.0400391 L22.3214355,17.0400391 C22.2804197,16.3925749 22.2599121,15.8725606 22.2599121,15.4799805 L22.2599121,12.5751953 L23.8067871,12.5751953 L23.8067871,19 Z M31.6071777,15.7788086 C31.6071777,16.8598687 31.3420437,17.6816378 30.8117676,18.2441406 C30.2814915,18.8066434 29.5051321,19.0878906 28.482666,19.0878906 C27.4748485,19.0878906 26.7021511,18.8051786 26.1645508,18.2397461 C25.6269504,17.6743136 25.3581543,16.8510796 25.3581543,15.7700195 C25.3581543,14.7006782 25.6254856,13.884036 26.1601562,13.3200684 C26.6948269,12.7561007 27.4719187,12.4741211 28.4914551,12.4741211 C29.5139211,12.4741211 30.2888157,12.7539035 30.8161621,13.3134766 C31.3435085,13.8730497 31.6071777,14.6948188 31.6071777,15.7788086 Z M27.1862793,15.7788086 C27.1862793,17.0210023 27.6184039,17.6420898 28.482666,17.6420898 C28.9221213,17.6420898 29.2480458,17.4912124 29.4604492,17.1894531 C29.6728526,16.8876938 29.7790527,16.4174837 29.7790527,15.7788086 C29.7790527,15.1372038 29.6713878,14.6633316 29.4560547,14.3571777 C29.2407216,14.0510239 28.9191916,13.8979492 28.4914551,13.8979492 C27.6213335,13.8979492 27.1862793,14.5248961 27.1862793,15.7788086 Z M37.3685059,17.0488281 C37.3685059,17.4472676 37.2674326,17.8010238 37.0652832,18.1101074 C36.8631337,18.419191 36.5716328,18.659423 36.1907715,18.8308105 C35.8099102,19.0021981 35.3631373,19.0878906 34.8504394,19.0878906 C34.4227029,19.0878906 34.0638198,19.0578616 33.7737793,18.9978027 C33.4837388,18.9377438 33.181984,18.8330086 32.8685059,18.6835938 L32.8685059,17.1367188 C33.1995622,17.3066415 33.543797,17.4392085 33.9012207,17.5344238 C34.2586444,17.6296391 34.5867661,17.6772461 34.8855957,17.6772461 C35.1434095,17.6772461 35.3323724,17.6325688 35.4524902,17.5432129 C35.572608,17.453857 35.632666,17.3388679 35.632666,17.1982422 C35.632666,17.1103511 35.6084963,17.0334476 35.5601562,16.9675293 C35.5118162,16.901611 35.4341802,16.8349613 35.3272461,16.7675781 C35.220312,16.700195 34.9354027,16.562501 34.4725098,16.3544922 C34.0535623,16.1640615 33.7393565,15.9794931 33.5298828,15.8007812 C33.3204091,15.6220694 33.1651372,15.4169933 33.0640625,15.1855469 C32.9629878,14.9541004 32.9124512,14.6801774 32.9124512,14.3637695 C32.9124512,13.7719697 33.127781,13.3105485 33.5584473,12.9794922 C33.9891135,12.6484358 34.5809044,12.4829102 35.3338379,12.4829102 C35.9988803,12.4829102 36.6770961,12.6367172 37.3685059,12.9443359 L36.8367676,14.284668 C36.2361786,14.009276 35.7176291,13.871582 35.2811035,13.871582 C35.0555164,13.871582 34.8914556,13.9111324 34.788916,13.9902344 C34.6863764,14.0693363 34.6351074,14.1674799 34.6351074,14.284668 C34.6351074,14.4106452 34.7002923,14.523437 34.8306641,14.6230469 C34.9610358,14.7226567 35.314792,14.9042956 35.8919434,15.1679688 C36.4456571,15.4169934 36.8301747,15.6843247 37.0455078,15.9699707 C37.2608409,16.2556167 37.3685059,16.6152322 37.3685059,17.0488281 Z M42.7035645,19 L42.3871582,17.7958984 L40.2997559,17.7958984 L39.9745605,19 L38.067334,19 L40.1635254,12.5488281 L42.4794434,12.5488281 L44.602002,19 L42.7035645,19 Z M42.0268066,16.3720703 L41.7499512,15.3173828 C41.6854977,15.0830066 41.6071294,14.779787 41.5148437,14.4077148 C41.4225581,14.0356427 41.3617677,13.7690438 41.3324707,13.6079102 C41.3061034,13.757325 41.2541019,14.0034163 41.1764648,14.3461914 C41.0988277,14.6889666 40.9267103,15.3642528 40.6601074,16.3720703 L42.0268066,16.3720703 Z M51.1587402,12.5751953 L51.1587402,16.4423828 C51.1587402,17.2832073 50.9207055,17.9343239 50.4446289,18.395752 C49.9685523,18.85718 49.2822799,19.0878906 48.385791,19.0878906 C47.5098101,19.0878906 46.8367211,18.8637718 46.3665039,18.4155273 C45.8962867,17.9672829 45.6611816,17.3227581 45.6611816,16.4819336 L45.6611816,12.5751953 L47.4058105,12.5751953 L47.4058105,16.3457031 C47.4058105,16.799807 47.4907706,17.1293935 47.6606934,17.3344727 C47.8306161,17.5395518 48.0811019,17.6420898 48.4121582,17.6420898 C48.7666522,17.6420898 49.0237297,17.5402842 49.1833984,17.3366699 C49.3430672,17.1330556 49.4229004,16.799807 49.4229004,16.3369141 L49.4229004,12.5751953 L51.1587402,12.5751953 Z M54.6437012,16.6621094 L54.6437012,19 L52.9078613,19 L52.9078613,12.5751953 L55.0128418,12.5751953 C56.7589443,12.5751953 57.6319824,13.2080015 57.6319824,14.4736328 C57.6319824,15.2177772 57.2687048,15.793455 56.5421387,16.2006836 L58.414209,19 L56.445459,19 L55.0831543,16.6621094 L54.6437012,16.6621094 Z M54.6437012,15.3569336 L54.9688965,15.3569336 C55.5753448,15.3569336 55.8785645,15.0888699 55.8785645,14.5527344 C55.8785645,14.1103494 55.5812042,13.8891602 54.9864746,13.8891602 L54.6437012,13.8891602 L54.6437012,15.3569336 Z M62.1365723,12.5751953 L64.3777832,12.5751953 C65.2508345,12.5751953 65.8990213,12.7048327 66.3223633,12.9641113 C66.7457053,13.22339 66.9573731,13.6269504 66.9573731,14.1748047 C66.9573731,14.5351581 66.8650888,14.8427722 66.6805176,15.0976562 C66.4959464,15.3525403 66.2527847,15.5166012 65.9510254,15.5898438 L65.9510254,15.6337891 C66.3494649,15.7392583 66.6380362,15.9150378 66.8167481,16.1611328 C66.9954599,16.4072278 67.0848145,16.7265605 67.0848145,17.1191406 C67.0848145,17.7021514 66.8658225,18.1613753 66.4278321,18.4968262 C65.9898416,18.8322771 65.3929237,19 64.6370606,19 L62.1365723,19 L62.1365723,12.5751953 Z M63.8724121,15.0405273 L64.3953613,15.0405273 C64.644386,15.0405273 64.8370111,14.9892583 64.9732422,14.8867188 C65.1094734,14.7841792 65.1775879,14.6318369 65.1775879,14.4296875 C65.1775879,14.0693341 64.9051297,13.8891602 64.3602051,13.8891602 L63.8724121,13.8891602 L63.8724121,15.0405273 Z M63.8724121,16.3105469 L63.8724121,17.659668 L64.483252,17.659668 C65.0252469,17.659668 65.2962403,17.4311546 65.2962403,16.9741211 C65.2962403,16.7602528 65.2237312,16.596192 65.078711,16.4819336 C64.9336907,16.3676752 64.7234877,16.3105469 64.4480957,16.3105469 L63.8724121,16.3105469 Z M68.6010254,12.5751953 L70.8422364,12.5751953 C71.7152876,12.5751953 72.3634745,12.7048327 72.7868164,12.9641113 C73.2101584,13.22339 73.4218262,13.6269504 73.4218262,14.1748047 C73.4218262,14.5351581 73.329542,14.8427722 73.1449707,15.0976562 C72.9603995,15.3525403 72.7172379,15.5166012 72.4154785,15.5898438 L72.4154785,15.6337891 C72.813918,15.7392583 73.1024894,15.9150378 73.2812012,16.1611328 C73.459913,16.4072278 73.5492676,16.7265605 73.5492676,17.1191406 C73.5492676,17.7021514 73.3302757,18.1613753 72.8922852,18.4968262 C72.4542947,18.8322771 71.8573769,19 71.1015137,19 L68.6010254,19 L68.6010254,12.5751953 Z M70.3368653,15.0405273 L70.8598145,15.0405273 C71.1088392,15.0405273 71.3014642,14.9892583 71.4376953,14.8867188 C71.5739265,14.7841792 71.642041,14.6318369 71.642041,14.4296875 C71.642041,14.0693341 71.3695828,13.8891602 70.8246582,13.8891602 L70.3368653,13.8891602 L70.3368653,15.0405273 Z M70.3368653,16.3105469 L70.3368653,17.659668 L70.9477051,17.659668 C71.4897,17.659668 71.7606934,17.4311546 71.7606934,16.9741211 C71.7606934,16.7602528 71.6881843,16.596192 71.5431641,16.4819336 C71.3981438,16.3676752 71.1879409,16.3105469 70.9125489,16.3105469 L70.3368653,16.3105469 Z M81.0771973,15.7788086 C81.0771973,17.2348706 80.6143113,18.2163061 79.6885254,18.7231445 L81.2573731,20.5292969 L79.0952637,20.5292969 L77.9614746,19.1010742 L77.9570801,19.0966797 L77.9570801,19.0922852 L77.9526856,19.0878906 C76.944868,19.0878906 76.1721707,18.8051786 75.6345703,18.2397461 C75.09697,17.6743136 74.8281739,16.8510796 74.8281739,15.7700195 C74.8281739,14.7006782 75.0955052,13.884036 75.6301758,13.3200684 C76.1648465,12.7561007 76.9419383,12.4741211 77.9614746,12.4741211 C78.9839407,12.4741211 79.7588353,12.7539035 80.2861817,13.3134766 C80.8135281,13.8730497 81.0771973,14.6948188 81.0771973,15.7788086 Z M76.6562989,15.7788086 C76.6562989,17.0210023 77.0884234,17.6420898 77.9526856,17.6420898 C78.3921409,17.6420898 78.7180654,17.4912124 78.9304688,17.1894531 C79.1428722,16.8876938 79.2490723,16.4174837 79.2490723,15.7788086 C79.2490723,15.1372038 79.1414074,14.6633316 78.9260743,14.3571777 C78.7107411,14.0510239 78.3892112,13.8979492 77.9614746,13.8979492 C77.0913531,13.8979492 76.6562989,14.5248961 76.6562989,15.7788086 Z" id="DINOSAUR-BBQ" fill="#111111"></path>
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-90"></use>
+                            <path stroke="#111111" stroke-width="2" d="M15,30 L15,50 L33,50 L33,30 L15,30 Z"></path>
+                        </g>
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-91"></use>
+                            <path stroke="#111111" stroke-width="2" d="M40,30 L40,43 L75,43 L75,30 L40,30 Z"></path>
+                        </g>
+                        <path d="M46,30.5 L46,42.5" id="Line-18" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M69,30.5 L69,42.5" id="Line-18" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Group-18" transform="translate(20.000000, 2.000000)"></g>
+                    </g>
+                    <g id="Heart" transform="translate(217.000000, 12.000000)" stroke="#111111" stroke-width="2" fill="url(#linearGradient-92)">
+                        <path d="M21.6548524,13.1263598 C25.8155219,8.96569038 26.0732625,4.65774059 23.4222165,2.00669456 C20.7466237,-0.668898187 16.4386739,-0.668898187 13.7999013,2.00669456 C13.2966934,2.50990237 12.8916725,3.06220363 12.5725651,3.6390516 C12.2534577,3.06220363 11.8484368,2.50990237 11.345229,2.00669456 C8.70645635,-0.632078103 4.39850655,-0.632078103 1.74746053,2.00669456 C-0.928132218,4.65774059 -0.670391632,8.96569038 3.49027782,13.1263598 L12.1920909,21.8527197 C12.2780045,21.9386332 12.4252848,22 12.5725651,22 C12.7198455,22 12.8303057,21.9386332 12.9530393,21.8527197 L21.6548524,13.1263598 Z" id="heart"></path>
+                    </g>
+                </g>
+                <g id="World-Trade" transform="translate(314.000000, 22.000000)">
+                    <g id="Rectangle-10">
+                        <use fill="url(#linearGradient-93)" fill-rule="evenodd" xlink:href="#path-94"></use>
+                        <path stroke="#111111" stroke-width="2" d="M1.0164598,64.46875 L4.41237817,272.46875 L55.5876218,272.46875 L58.9835402,64.46875 L1.0164598,64.46875 Z"></path>
+                    </g>
+                    <g id="Path-5">
+                        <use fill="url(#linearGradient-95)" fill-rule="evenodd" xlink:href="#path-96"></use>
+                        <path stroke="#111111" stroke-width="2" d="M30.1069231,64.6313894 C30.0763982,64.4304557 30.0475247,64.2403925 30.0192922,64.054549 C30.166775,64.240633 30.1376798,64.4305874 30.1069231,64.6313894 Z M30.1069231,64.6313894 C29.9547288,65.6250231 29.7618506,66.8842705 29.4050221,69.2139037 L24.321712,102.401404 C16.4829253,153.578636 16.4149358,154.02252 4.30900728,233.058719 L55.8366114,234 L55.6937639,233.059691 C43.6866233,154.021317 43.6192608,153.577895 35.8445832,102.400192 L30.8028932,69.2126921 C30.44913,66.8840057 30.2578428,65.6248353 30.1069231,64.6313894 Z"></path>
+                    </g>
+                    <g id="Lines" transform="translate(7.000000, 83.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,121 L43.4882812,121" id="Line-16"></path>
+                        <path d="M0,131 L45.4882812,131" id="Line-16"></path>
+                        <path d="M0,141 L46.4900017,141" id="Line-16"></path>
+                        <path d="M1.76513672,111 L42.4350586,111" id="Line-16"></path>
+                        <path d="M3.14990234,101 L40.8530273,101" id="Line-16"></path>
+                        <path d="M4.40722656,91 L39.4594727,91" id="Line-16"></path>
+                        <path d="M8.94628906,81 L37.2734375,81" id="Line-16"></path>
+                        <path d="M11.2783203,71 L34.8037109,71" id="Line-16"></path>
+                        <path d="M11.8852539,61 L33.9619141,61" id="Line-16"></path>
+                        <path d="M13.4111328,51 L32.4033203,51" id="Line-16"></path>
+                        <path d="M14.7504883,41 L31.1254883,41" id="Line-16"></path>
+                        <path d="M16.9072266,31 L29.2651367,31" id="Line-16"></path>
+                        <path d="M18.2670898,21 L27.734375,21" id="Line-16"></path>
+                        <path d="M19.8330078,11 L26.6381836,11" id="Line-16"></path>
+                        <path d="M20.7319336,1 L24.9019337,1" id="Line-16"></path>
+                    </g>
+                    <g id="Lines" transform="translate(11.000000, 240.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M1,0 L1,25" id="Line-15"></path>
+                    </g>
+                    <g id="Group-27" transform="translate(18.000000, 245.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-97"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1,3 L1,26 L23,26 L23,3 L1,3 Z"></path>
+                        </g>
+                        <path d="M12,3.5 L12,25.8606798" id="Line-20" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Rectangle-2">
+                            <use fill="url(#linearGradient-98)" fill-rule="evenodd" xlink:href="#path-99"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1,1 L1,5 L23,5 L23,1 L1,1 Z"></path>
+                        </g>
+                    </g>
+                    <g id="Top" transform="translate(5.000000, 0.000000)">
+                        <g id="Group-26" transform="translate(0.000000, 56.000000)" stroke-linecap="square" stroke-width="2" stroke="#111111">
+                            <g id="Group-25" fill="#9C9C9C">
+                                <polygon id="Rectangle-11" points="3.33333333 0.380371094 46.6666667 0.380371094 50 8.38037109 0 8.38037109"></polygon>
+                            </g>
+                            <path d="M25,1 L25,7" id="Line-15"></path>
+                            <path d="M30,1 L30,7" id="Line-15"></path>
+                            <path d="M35,1 L35,7" id="Line-15"></path>
+                            <path d="M40,1 L40,7" id="Line-15"></path>
+                            <path d="M45,1 L45,7" id="Line-15"></path>
+                            <path d="M5,1 L5,7" id="Line-15"></path>
+                            <path d="M10,1 L10,7" id="Line-15"></path>
+                            <path d="M15,1 L15,7" id="Line-15"></path>
+                            <path d="M20,1 L20,7" id="Line-15"></path>
+                        </g>
+                        <polygon id="Rectangle-11" stroke="#111111" stroke-width="2" fill="#FFFFFF" stroke-linecap="square" points="10.3105691 51 38.6894309 51 40 56 9 56"></polygon>
+                        <g id="Group-16" transform="translate(23.000000, 0.000000)" fill="#111111">
+                            <rect id="Rectangle-12" x="0" y="39" width="4" height="12"></rect>
+                            <rect id="Rectangle-12" x="1" y="0" width="2" height="40"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Clouds" transform="translate(342.500000, 22.500000) scale(-1, 1) translate(-342.500000, -22.500000) translate(307.000000, 0.000000)" stroke="#111111" stroke-width="2" fill="#FFFFFF">
+                    <path d="M46.5806876,14.3346072 C45.2968647,15.2402735 43.7305375,15.7722356 42.0399639,15.7722356 C40.4466452,15.7722356 38.9636889,15.2997181 37.7235812,14.4871696 C36.9415563,14.8178783 36.0711391,15.0023081 35.1538462,15.0023081 C31.7551708,15.0023081 29,12.4704783 29,9.3473079 C29,6.22413753 31.7551708,3.69230769 35.1538462,3.69230769 C35.2222575,3.69230769 35.2904082,3.69333351 35.3582809,3.69536933 C36.7535366,1.47546866 39.2244432,0 42.0399639,0 C45.1081829,0 47.7671521,1.7522062 49.0708044,4.3105514 C51.905665,4.4030906 54.175385,6.7303308 54.175385,9.58769252 C54.175385,12.5037561 51.8114484,14.8676927 48.8953848,14.8676927 C48.0651208,14.8676927 47.2796155,14.676058 46.5806876,14.3346072 Z" id="Combined-Shape"></path>
+                    <path d="M13.3759257,34.9062083 C12.3991539,35.595267 11.2074442,36 9.92120404,36 C8.70895836,36 7.58067974,35.6404943 6.63716781,35.0222824 C6.04217928,35.2738957 5.37993924,35.4142156 4.68203467,35.4142156 C2.09621833,35.4142156 0,33.4879219 0,31.1117182 C0,28.7355145 2.09621833,26.8092208 4.68203467,26.8092208 C4.73408414,26.8092208 4.78593524,26.8100013 4.83757486,26.8115502 C5.89912819,25.1225818 7.7790696,24 9.92120404,24 C12.255599,24 14.2786242,25.3331322 15.2704829,27.2795996 C17.4273316,27.3500062 19.1542042,29.1206419 19.1542042,31.2946102 C19.1542042,33.5132407 17.3556488,35.3117961 15.1370183,35.3117961 C14.505328,35.3117961 13.9076915,35.1659945 13.3759257,34.9062083 Z" id="Combined-Shape"></path>
+                    <path d="M63.6052467,43.7239096 C62.4656795,44.5278114 61.0753516,45 59.574738,45 C58.1604514,45 56.8441264,44.5805766 55.7433624,43.8593295 C55.0492092,44.1528783 54.2765958,44.3165849 53.4623738,44.3165849 C50.445588,44.3165849 48,42.0692422 48,39.2970046 C48,36.5247669 50.445588,34.2774243 53.4623738,34.2774243 C53.5230982,34.2774243 53.5835911,34.2783348 53.6438373,34.2801419 C54.8823162,32.3096787 57.0755812,31 59.574738,31 C62.2981988,31 64.6583949,32.5553208 65.8155634,34.8261995 C68.3318869,34.9083406 70.3465715,36.9740822 70.3465715,39.5103785 C70.3465715,42.0987808 68.2482569,44.1970954 65.6598546,44.1970954 C64.9228826,44.1970954 64.2256401,44.0269936 63.6052467,43.7239096 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Clouds" transform="translate(246.000000, 103.000000) scale(-1, 1) translate(-246.000000, -103.000000) translate(222.000000, 88.000000)" stroke="#111111" stroke-width="2" fill="#FFFFFF">
+                    <path d="M17.5806876,14.3346072 C16.2968647,15.2402735 14.7305375,15.7722356 13.0399639,15.7722356 C11.4466452,15.7722356 9.96368889,15.2997181 8.72358119,14.4871696 C7.94155626,14.8178783 7.07113909,15.0023081 6.15384615,15.0023081 C2.75517077,15.0023081 0,12.4704783 0,9.3473079 C0,6.22413753 2.75517077,3.69230769 6.15384615,3.69230769 C6.22225753,3.69230769 6.29040817,3.69333351 6.35828086,3.69536933 C7.75353662,1.47546866 10.2244432,0 13.0399639,0 C16.1081829,0 18.7671521,1.7522062 20.0708044,4.3105514 C22.905665,4.4030906 25.175385,6.7303308 25.175385,9.58769252 C25.175385,12.5037561 22.8114484,14.8676927 19.8953848,14.8676927 C19.0651208,14.8676927 18.2796155,14.676058 17.5806876,14.3346072 Z" id="Combined-Shape"></path>
+                    <path d="M40.6052467,28.7239096 C39.4656795,29.5278114 38.0753516,30 36.574738,30 C35.1604514,30 33.8441264,29.5805766 32.7433624,28.8593295 C32.0492092,29.1528783 31.2765958,29.3165849 30.4623738,29.3165849 C27.445588,29.3165849 25,27.0692422 25,24.2970046 C25,21.5247669 27.445588,19.2774243 30.4623738,19.2774243 C30.5230982,19.2774243 30.5835911,19.2783348 30.6438373,19.2801419 C31.8823162,17.3096787 34.0755812,16 36.574738,16 C39.2981988,16 41.6583949,17.5553208 42.8155634,19.8261995 C45.3318869,19.9083406 47.3465715,21.9740822 47.3465715,24.5103785 C47.3465715,27.0987808 45.2482569,29.1970954 42.6598546,29.1970954 C41.9228826,29.1970954 41.2256401,29.0269936 40.6052467,28.7239096 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Empire-State" transform="translate(377.000000, 79.000000)">
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="#FFFFFF" x="15" y="56" width="24" height="5"></rect>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="#FFFFFF" x="18" y="52" width="18" height="4"></rect>
+                    <path d="M25,36 L29,36 L29,36 C30.1045695,36 31,36.8954305 31,38 L31,52 L23,52 L23,38 L23,38 C23,36.8954305 23.8954305,36 25,36 Z" id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)"></path>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="#FFFFFF" x="25" y="30" width="4" height="6"></rect>
+                    <rect id="Rectangle-12" fill="#111111" x="25" y="19" width="4" height="12"></rect>
+                    <rect id="Rectangle-12" fill="#111111" x="26" y="0" width="2" height="20"></rect>
+                    <polyline id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-101)" points="10 179 10 61 10 61 44 61 44 179"></polyline>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)" x="7" y="85" width="10" height="24"></rect>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)" x="37" y="85" width="10" height="24"></rect>
+                    <polyline id="Combined-Shape" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)" points="49 213 49 109 35 109 35 178.334835 19 178.334835 19 109 5 109 5 213"></polyline>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)" x="38" y="186" width="16" height="29"></rect>
+                    <rect id="Rectangle-16" stroke="#111111" stroke-width="2" fill="url(#linearGradient-100)" x="0" y="186" width="16" height="29"></rect>
+                    <g id="Windows" transform="translate(3.000000, 40.000000)" fill="#111111">
+                        <g id="Group-20" transform="translate(0.000000, 150.000000)">
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-20" transform="translate(38.000000, 150.000000)">
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-20" transform="translate(5.000000, 74.000000)">
+                            <g id="Group-19" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 40.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 32.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 64.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 56.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 48.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-20" transform="translate(35.000000, 74.000000)">
+                            <g id="Group-19" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 40.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 32.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 64.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 56.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 48.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="3" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="6" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-21" transform="translate(6.000000, 48.000000)">
+                            <g id="Group-19" transform="translate(0.000000, 7.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 14.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-21" transform="translate(36.000000, 48.000000)">
+                            <g id="Group-19" transform="translate(0.000000, 7.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-19" transform="translate(0.000000, 14.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-21" transform="translate(23.000000, 0.000000)">
+                            <g id="Group-19">
+                                <rect id="Rectangle-17" x="0" y="6" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-23" transform="translate(19.000000, 106.000000)">
+                            <g id="Group-22" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-23" transform="translate(19.000000, 74.000000)">
+                            <g id="Group-22" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-23" transform="translate(11.000000, 26.000000)">
+                            <g id="Group-22" transform="translate(8.000000, 32.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(8.000000, 40.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(8.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22">
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="20" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="24" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="16" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="20" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="24" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="16" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(8.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="8" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                        <g id="Group-24" transform="translate(16.000000, 142.000000)">
+                            <g id="Group-22" transform="translate(0.000000, 8.000000)">
+                                <rect id="Rectangle-17" x="10" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="14" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 16.000000)">
+                                <rect id="Rectangle-17" x="10" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="14" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22" transform="translate(0.000000, 24.000000)">
+                                <rect id="Rectangle-17" x="10" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="14" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                            </g>
+                            <g id="Group-22">
+                                <rect id="Rectangle-17" x="10" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="14" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="4" y="0" width="2" height="4"></rect>
+                                <rect id="Rectangle-17" x="0" y="0" width="2" height="4"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Tower-Bridge" transform="translate(110.000000, 172.000000)">
+                    <g id="River-Thames" transform="translate(0.000000, 92.000000)">
+                        <rect id="Rectangle-23" fill="url(#linearGradient-102)" opacity="0.630321558" x="0" y="0.5" width="168" height="29.640625"></rect>
+                        <path d="M80.5,9.5 L86.5,9.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M148,9.5 L154,9.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M12,9.5 L18,9.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M74.5,15.5 L92.5,15.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M67.5,21.5 L99.5,21.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M141.490004,21.5 L154,21.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                        <path d="M12.490004,21.5 L25,21.5" id="Line-30" stroke="#111111" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Road">
+                        <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-103"></use>
+                        <path stroke="#111111" stroke-width="2" d="M4,90 L4,94 L179,94 L179,90 L4,90 Z"></path>
+                    </g>
+                    <g id="Rigth-Tower" transform="translate(103.000000, 0.000000)">
+                        <g id="Tower" transform="translate(12.000000, 2.000000)">
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-104"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1,19.1174325 L1,92 L5,92 L5,19.1189624 L2.99075899,13.8278783 L1,19.1174325 Z"></path>
+                            </g>
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-105"></use>
+                                <path stroke="#111111" stroke-width="2" d="M15,19.1174325 L15,92 L19,92 L19,19.1189624 L16.990759,13.8278783 L15,19.1174325 Z"></path>
+                            </g>
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-106"></use>
+                                <path stroke="#111111" stroke-width="2" d="M5,18.6766714 L5,92 L15,92 L15,18.6780165 L9.97740255,3.24451923 L5,18.6766714 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Decoration" transform="translate(13.000000, 0.000000)" stroke="#111111" stroke-width="2">
+                            <path d="M0.5,25 L16.5,25" id="Line-21" stroke-linecap="square"></path>
+                            <g id="Group-29" transform="translate(1.000000, 38.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="31" width="2" height="2"></rect>
+                            <g id="Group-29" transform="translate(1.000000, 55.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="48" width="2" height="2"></rect>
+                            <g id="Group-29" transform="translate(1.000000, 73.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="66" width="2" height="2"></rect>
+                            <path d="M9,0 L9,4" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M16,11 L16,15" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M2,11 L2,15" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M9,20 L9,24" id="Line-22" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Base">
+                            <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-107"></use>
+                            <rect stroke="#111111" stroke-width="2" x="8" y="90" width="28" height="18"></rect>
+                        </g>
+                        <path d="M9,98 C13.3333333,96 17.6666667,95 22,95 C26.3333333,95 30.6666667,96 35,98" id="Line-25" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M0,108 L44,108" id="Line-23" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Left-Tower" transform="translate(19.000000, 0.000000)">
+                        <g id="Tower" transform="translate(12.000000, 2.000000)">
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-108"></use>
+                                <path stroke="#111111" stroke-width="2" d="M1,19.1174325 L1,92 L5,92 L5,19.1189624 L2.99075899,13.8278783 L1,19.1174325 Z"></path>
+                            </g>
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-109"></use>
+                                <path stroke="#111111" stroke-width="2" d="M15,19.1174325 L15,92 L19,92 L19,19.1189624 L16.990759,13.8278783 L15,19.1174325 Z"></path>
+                            </g>
+                            <g id="Rectangle-18">
+                                <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-110"></use>
+                                <path stroke="#111111" stroke-width="2" d="M5,18.6766714 L5,92 L15,92 L15,18.6780165 L9.97740255,3.24451923 L5,18.6766714 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Decoration" transform="translate(13.000000, 0.000000)" stroke="#111111" stroke-width="2">
+                            <path d="M0.5,25 L16.5,25" id="Line-21" stroke-linecap="square"></path>
+                            <g id="Group-29" transform="translate(1.000000, 38.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="31" width="2" height="2"></rect>
+                            <g id="Group-29" transform="translate(1.000000, 55.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="48" width="2" height="2"></rect>
+                            <g id="Group-29" transform="translate(1.000000, 73.000000)" stroke-linecap="square">
+                                <path d="M0.5,4 L16.5,4" id="Line-21"></path>
+                                <path d="M0.5,1 L16.5,1" id="Line-21"></path>
+                            </g>
+                            <rect id="Rectangle-19" x="8" y="66" width="2" height="2"></rect>
+                            <path d="M9,0 L9,4" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M16,11 L16,15" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M2,11 L2,15" id="Line-22" stroke-linecap="square"></path>
+                            <path d="M9,20 L9,24" id="Line-22" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Base">
+                            <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-111"></use>
+                            <rect stroke="#111111" stroke-width="2" x="8" y="90" width="28" height="18"></rect>
+                        </g>
+                        <path d="M9,98 C13.3333333,96 17.6666667,95 22,95 C26.3333333,95 30.6666667,96 35,98" id="Line-25" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M0,108 L44,108" id="Line-23" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                    <g id="Bar" transform="translate(49.000000, 27.000000)">
+                        <g id="Rectangle-20">
+                            <use fill="#F0F5FD" fill-rule="evenodd" xlink:href="#path-112"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="3" width="66" height="4"></rect>
+                        </g>
+                        <g id="Group-30" transform="translate(29.000000, 0.000000)">
+                            <g id="Rectangle-20">
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-113"></use>
+                                <rect stroke="#111111" stroke-width="2" x="1" y="1" width="8" height="8"></rect>
+                            </g>
+                            <rect id="Rectangle-20" fill="#111111" x="4" y="4" width="2" height="2"></rect>
+                        </g>
+                    </g>
+                    <g id="Supports" transform="translate(134.000000, 29.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,0 C3.29361979,12.3317057 12.6269531,22.9983724 28,32" id="Line-28"></path>
+                        <path d="M0,9 C3.29361979,19.3317057 12.6269531,28.9983724 28,38" id="Line-28"></path>
+                    </g>
+                    <g id="Supports" transform="translate(18.000000, 48.000000) scale(-1, 1) translate(-18.000000, -48.000000) translate(4.000000, 29.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M0,0 C3.29361979,12.3317057 12.6269531,22.9983724 28,32" id="Line-28"></path>
+                        <path d="M0,9 C3.29361979,19.3317057 12.6269531,28.9983724 28,38" id="Line-28"></path>
+                    </g>
+                </g>
+                <g id="Apartment" transform="translate(270.000000, 145.000000)">
+                    <g id="Rectangle-2">
+                        <g>
+                            <use fill="url(#linearGradient-114)" fill-rule="evenodd" xlink:href="#path-115"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="5.00292969" width="56" height="151"></rect>
+                        </g>
+                        <g transform="translate(29.000000, 3.103516) scale(1, -1) translate(-29.000000, -3.103516) ">
+                            <use fill="#919191" fill-rule="evenodd" xlink:href="#path-116"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="1.10351562" width="56" height="4"></rect>
+                        </g>
+                    </g>
+                    <g id="door" transform="translate(3.000000, 124.566406)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-117"></use>
+                            <path stroke="#111111" stroke-width="2" d="M5,7.43359375 L5,23.4335937 L25,23.4335937 L25,7.43359375 L5,7.43359375 Z"></path>
+                        </g>
+                        <path d="M15,2 L15,24" id="Line-13" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Rectangle-2" transform="translate(15.000000, 4.433594) scale(1, -1) translate(-15.000000, -4.433594) ">
+                            <use fill="#848484" fill-rule="evenodd" xlink:href="#path-118"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.6600748,1.43359375 L4.83315173,7.43359375 L25.1668483,7.43359375 L28.3399252,1.43359375 L1.6600748,1.43359375 Z"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 75.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 91.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 107.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 27.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 11.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 43.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                    <g id="Group-15" transform="translate(6.000000, 59.000000)" stroke-width="2" stroke="#111111">
+                        <g id="Group-14">
+                            <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
+                            <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                        <g id="Group-13" transform="translate(28.000000, 0.000000)">
+                            <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
+                            <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
+                            <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Orchard" transform="translate(293.000000, 266.000000)" stroke="#111111" stroke-width="2">
+                    <g id="Tree" transform="translate(0.000000, 2.000000)">
+                        <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(25.000000, 13.500000) scale(-1, 1) translate(-25.000000, -13.500000) translate(14.000000, 0.000000)">
+                        <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
+                        <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-37)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Big-Ben" transform="translate(89.000000, 151.000000)">
+                    <g id="Structure" transform="translate(0.000000, 1.000000)">
+                        <g id="Rectangle-18">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-119"></use>
+                            <rect stroke="#111111" stroke-width="2" x="21" y="65" width="4" height="76"></rect>
+                        </g>
+                        <g id="Rectangle-18">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-120"></use>
+                            <rect stroke="#111111" stroke-width="2" x="5" y="65" width="4" height="76"></rect>
+                        </g>
+                        <g id="Rectangle-18">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-121"></use>
+                            <rect stroke="#111111" stroke-width="2" x="9" y="65" width="12" height="76"></rect>
+                        </g>
+                        <g id="Rectangle-18" transform="translate(15.000000, 51.000000) scale(1, -1) translate(-15.000000, -51.000000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-122"></use>
+                            <rect stroke="#111111" stroke-width="2" x="5" y="41" width="20" height="20"></rect>
+                        </g>
+                        <rect id="Rectangle-14" fill="#FFFFFF" x="6" y="38" width="18" height="2"></rect>
+                        <rect id="Rectangle-14" fill="#FFFFFF" x="6" y="62" width="18" height="2"></rect>
+                        <g id="Rectangle-18" transform="translate(27.000000, 51.000000) scale(1, -1) translate(-27.000000, -51.000000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-123"></use>
+                            <rect stroke="#111111" stroke-width="2" x="25" y="37" width="4" height="28"></rect>
+                        </g>
+                        <g id="Rectangle-18" transform="translate(3.000000, 51.000000) scale(1, -1) translate(-3.000000, -51.000000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-124"></use>
+                            <rect stroke="#111111" stroke-width="2" x="1" y="37" width="4" height="28"></rect>
+                        </g>
+                        <g id="Rectangle-18" transform="translate(15.000000, 12.000000) scale(1, -1) translate(-15.000000, -12.000000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-125"></use>
+                            <path stroke="#111111" stroke-width="2" d="M9,1 L9,7.79082154 L15,21.5051073 L21,7.79082154 L21,1 L9,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-18" transform="translate(15.000000, 30.000000) scale(1, -1) rotate(-270.000000) translate(-15.000000, -30.000000) ">
+                            <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-126"></use>
+                            <path stroke="#111111" stroke-width="2" d="M8,18 L8,42 L14.6666667,42 L22,36.5 L22,23.5 L14.6666667,18 L8,18 Z"></path>
+                        </g>
+                        <path d="M5,31 L26,31" id="Line-27" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M10,17 L20,17" id="Line-27" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Oval-8">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-127"></use>
+                            <circle stroke="#111111" stroke-width="2" cx="15" cy="51" r="8"></circle>
+                        </g>
+                    </g>
+                    <g id="Decorations" transform="translate(6.000000, 0.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M9,0 L9,4" id="Line-26"></path>
+                        <path d="M9,22 L9,24" id="Line-26"></path>
+                        <path d="M6,22 L6,24" id="Line-26"></path>
+                        <path d="M12,22 L12,24" id="Line-26"></path>
+                        <path d="M9,36 L9,38" id="Line-26"></path>
+                        <path d="M13,36 L13,38" id="Line-26"></path>
+                        <path d="M17,36 L17,38" id="Line-26"></path>
+                        <path d="M5,36 L5,38" id="Line-26"></path>
+                        <path d="M1,36 L1,38" id="Line-26"></path>
+                        <path d="M7,70 L7,82" id="Line-26"></path>
+                        <path d="M7,92 L7,102" id="Line-26"></path>
+                        <path d="M11,92 L11,102" id="Line-26"></path>
+                        <path d="M11,112 L11,120" id="Line-26"></path>
+                        <path d="M7,112 L7,120" id="Line-26"></path>
+                        <path d="M7,130 L7,138" id="Line-26"></path>
+                        <path d="M11,130 L11,138" id="Line-26"></path>
+                        <path d="M11,70 L11,82" id="Line-26"></path>
+                        <path d="M0,126 L17,126" id="Line-27"></path>
+                        <path d="M0,122 L17,122" id="Line-27"></path>
+                        <path d="M0,108 L17,108" id="Line-27"></path>
+                        <path d="M0,104 L17,104" id="Line-27"></path>
+                        <path d="M0,88 L17,88" id="Line-27"></path>
+                        <path d="M0,84 L17,84" id="Line-27"></path>
+                    </g>
+                    <g id="Clock-Hands" transform="translate(14.000000, 48.000000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
+                        <path d="M1,0 L1,5" id="Line-24"></path>
+                        <path d="M4,5 L1,5" id="Line-24"></path>
+                    </g>
+                </g>
+                <g id="Trees" transform="translate(67.000000, 268.000000)" stroke="#111111" stroke-width="2">
+                    <g id="Tree" transform="translate(16.000000, 2.000000)">
+                        <path d="M6,10.5 L6,21.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(0.000000, 2.000000)">
+                        <path d="M6,10.5 L6,21.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(8.000000, 0.000000)">
+                        <path d="M6,12.5 L6,23.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Trees" transform="translate(0.000000, 268.000000)" stroke="#111111" stroke-width="2">
+                    <g id="Tree" transform="translate(16.000000, 2.000000)">
+                        <path d="M6,10.5 L6,21.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(0.000000, 2.000000)">
+                        <path d="M6,10.5 L6,21.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Tree" transform="translate(8.000000, 0.000000)">
+                        <path d="M6,12.5 L6,23.5" id="Line-29" stroke-linecap="square"></path>
+                        <path d="M6,17 C9.3137085,17 12,14.3137085 12,11 C12,9.11196422 10.5391543,6.15931692 7.61746286,2.1420581 L7.61746288,2.14205809 C6.96777928,1.24875802 5.71694387,1.05126784 4.82364379,1.70095144 C4.65444129,1.82400986 4.50559556,1.97285558 4.38253714,2.14205809 C1.46084571,6.15931692 0,9.11196422 0,11 C0,14.3137085 2.6862915,17 6,17 Z" id="Oval-9" fill="url(#linearGradient-128)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Boulders" transform="translate(906.000000, 264.000000)" stroke="#111111" stroke-width="2" fill="url(#linearGradient-129)">
+                    <circle id="Oval-10" cx="16.5" cy="7.5" r="7.5"></circle>
+                    <circle id="Oval-10" cx="6" cy="12" r="6"></circle>
+                    <circle id="Oval-10" cx="15.5" cy="14.5" r="4.5"></circle>
+                </g>
+                <g id="Lighthouse" transform="translate(1562.000000, 210.000000)">
+                    <polygon id="Path-22" fill="url(#linearGradient-130)" points="9.32617188 61.2714844 8.24707031 70.5957031 29.8574219 70.5957031 28.8574219 61.2714844"></polygon>
+                    <polygon id="Path-22" fill="url(#linearGradient-130)" points="10.2262854 41.2714844 9.24707031 50.5957031 28.8570709 50.5957031 27.9496354 41.2714844"></polygon>
+                    <polygon id="Path-22" fill="url(#linearGradient-130)" points="11.076482 21.2714844 10.2470703 30.5957031 26.8570709 30.5957031 26.0884578 21.2714844"></polygon>
+                    <g id="Group-31">
+                        <g id="Rectangle-24">
+                            <use fill="#EEEEEE" fill-rule="evenodd" xlink:href="#path-131"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3.78077641,71 L1.28077641,81 L36.7192236,81 L34.2192236,71 L3.78077641,71 Z"></path>
+                        </g>
+                        <path d="M11.9260311,21 L8.07987729,71 L29.9201227,71 L26.0739689,21 L11.9260311,21 Z" id="Rectangle-21" stroke="#111111" stroke-width="2"></path>
+                        <g id="Rectangle-25">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-132"></use>
+                            <rect stroke="#111111" stroke-width="2" x="10" y="17" width="18" height="4"></rect>
+                        </g>
+                        <g id="Rectangle-25">
+                            <use fill="url(#linearGradient-133)" fill-rule="evenodd" xlink:href="#path-134"></use>
+                            <rect stroke="#111111" stroke-width="2" x="12" y="7" width="14" height="10"></rect>
+                        </g>
+                        <path d="M26,7 C26,3.13400675 22.8659932,0 19,0 C15.1340068,0 12,3.13400675 12,7 C17.8143921,7 19,7 26,7 Z" id="Oval-11" stroke="#111111" stroke-width="2" fill="#FFFFFF"></path>
+                        <path d="M10,7 L28,7" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M10,61 L28,61" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M11,51 L27,51" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M11,41 L27,41" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M12,31 L26,31" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <path d="M19,17 L19,7" id="Line-14" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

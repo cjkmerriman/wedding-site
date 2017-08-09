@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="66px" viewBox="0 0 111 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>cloud-2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.7752932%" y1="93.756666%" x2="50%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M363.045827,182.865123 C361.628513,176.950915 356.319741,172.551244 349.971816,172.551244 C346.581626,172.551244 343.491945,173.814516 341.126388,175.883352 C340.104912,168.606124 333.871256,163 326.311827,163 C321.968344,163 318.06931,164.860501 315.333799,167.814448 C312.281997,164.839036 308.11844,163 303.520535,163 C294.170051,163 286.589788,170.580262 286.589788,179.930746 C286.589788,182.16562 287.032975,184.290013 287.818969,186.247106 C279.984285,187.528686 274,194.309065 274,202.503602 C274,211.613553 281.385816,219 290.496398,219 C295.640395,219 300.232619,216.645175 303.257906,212.958265 C305.966269,216.619923 310.302177,219 315.20501,219 C320.648253,219 325.393887,216.070674 327.985457,211.708251 C331.095972,214.864852 335.418622,216.834572 340.204029,216.834572 C345.553837,216.834572 350.328512,214.378736 353.473749,210.540309 C355.433368,211.499915 357.627837,212.055477 359.956777,212.055477 C368.108384,212.055477 374.717045,205.445554 374.717045,197.29521 C374.717045,190.205483 369.7132,184.2837 363.045827,182.865123" id="path-2"></path>
+        <filter x="-7.0%" y="-12.5%" width="113.9%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-269.000000, -158.000000)">
+            <g id="cloud-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
