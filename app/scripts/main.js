@@ -25,8 +25,12 @@ $(document).ready(function() {
 
 
 	});
-
-	$('video').delay( 14000 ).fadeOut( 1600 );
+	//setTimeout(video, 10000);	
+	// $('video').delay( 14000 ).fadeOut( 1600 );
 
 });
 
+function video() {
+	$('video').addClass('fade');
+	$('.hero').addClass('slide');
+}

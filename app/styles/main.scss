@@ -417,44 +417,32 @@ header {
 }
 
 .to-know {
-  /**background: linear-gradient(darken(#23314C, 4%), darken(#23314C, 6%));
-  background-size: auto; **/
-
-  background: url(../images/detail-wood.webp) top center repeat;
-  background-size: 1000px 277px;
-  transform: rotate(-4deg);
-  border-top: 1px solid #222;
-  border-bottom: 2px solid #111;
-  margin-top:-84px;
-  z-index: 12;
   position: relative;
   width: 120%;
   margin-left: -10%;  
-  padding: 0;
+  margin-top:-84px;
+  padding: 42px 0 20px;
+  transform: rotate(-4deg);
+  background: url(../images/detail-wood-2.jpg) top center repeat;
+  background-size: 1000px 277px;
+  border-top: 1px solid #222;
+  border-bottom: 2px solid #111;
+  z-index: 12;
   color:#fff;
   box-shadow: 0 0 8px rgba(0,0,0,.8);
 
-  /*hr {
-    margin:12px 0;
-    height: 12px;
-    border-top: 2px lighten(#E2A767, 4%) solid;
-    border-bottom: 2px lighten(#E2A767, 4%) solid;
-    background: transparent;
-    filter: drop-shadow(0px 0px 2px rgba(0,0,0,.1));
-    display: none;
-  }*/
-
   h2 {
     font-size: 1.2em;
-    padding: 12px 52px 11px;
-    margin-bottom:32px;
+    padding: 12px 40px 11px;
+    margin: 0 0 32px;
     box-shadow: 0px 2px 6px rgba(0,0,0,.4);
-    background: url(../images/detail-title.webp) no-repeat center center;
+    background: url(../images/detail-p.webp) no-repeat center center;
     background-size: 280px 60px;
     border: 1px solid #111;
-    transform: rotate(-1deg);
-    color: rgba(0,0,0,.9);
+    transform: rotate(5deg);
+    color: #111;
     position: relative;
+    left:4px;
     -webkit-background-clip:padding-box;
     
 
@@ -489,101 +477,19 @@ header {
       box-shadow: 1px 1px 2px rgba(0,0,0,.2);
     }
   }
-
   p {
-    font-size: 0.8em !important;
+    transform: rotate(4deg);
     font-family: Finger Paint;
-    transform: rotate(1deg);
-    padding: 10px 40px 9px;
-    margin-bottom:16px;
-    box-shadow: 0px 2px 6px rgba(0,0,0,.4);
-    background: url(../images/detail-p.webp) repeat center center;
-    background-size: 600px 200px;
-    border: 1px solid #111;
-    color: rgba(0,0,0,.9);
-    display: inline-block;
-    line-height: 1.4em;
-    position: relative;
-    -webkit-background-clip:padding-box;
-
-
-    &:before {
-      content: '';
-      height: 8px;
-      width: 8px;
-      border-radius: 4px;
-      background: silver;
-      position: absolute;
-      top: 50%;
-      margin-top:-4px;
-      left: 14px;
-      z-index: 12px;
-      border: 1px solid #111;
-      background-image: linear-gradient(-148deg, #D6D6D6 50%, #999999 100%);
-      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
-    }
-
-    &:after {
-      content: '';
-      height: 8px;
-      width: 8px;
-      border-radius: 4px;
-      background: silver;
-      position: absolute;
-      top: 50%;
-      margin-top:-4px;
-      right: 14px;
-      z-index: 12px;
-      border: 1px solid #111;
-      background-image: linear-gradient(-148deg, #D6D6D6 50%, #999999 100%);
-      box-shadow: 1px 1px 2px rgba(0,0,0,.2);
-    }
-
+    margin-bottom: 20px;
+    font-size: .9em;
+    opacity: .9;
   }
 
-  p.more {
-    transform: rotate(-1deg);
-    background-image: url(../images/detail-p-3.webp);
-    background-size: 600px 200px;
+  .green {
+    color: lighten(#259151, 50%);
   }
-
-
-  .know-container {
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    flex-flow: center;
-    justify-content: center;
-    align-items: stretch;
-
-    .pattern {
-      flex-grow: 0;
-      margin: 6px 0;
-      width: 16px;
-      display: none !important;
-    }
-
-    .pattern-left {
-      border-left:2px lighten(#E2A767, 4%) solid;
-      transform: rotate(4deg);
-
-    }
-
-    .pattern-right {
-      border-right:2px lighten(#E2A767, 4%) solid;
-      transform: rotate(4deg);
-    }
-
-    .content {
-      max-width: 720px;
-      padding: 16px 60px 42px;
-      background-size: 32px 32px;
-      margin: 40px 0 0;
-      transform: rotate(4deg);
-      filter: drop-shadow(0 0 0 rgba(0,0,0,.1));
-    }
-
+  .yellow {
+    color: lighten(#2E3D59, 60%);
   }
 }
 
@@ -884,16 +790,7 @@ footer {
   }
 
   .to-know {
-    .know-container {
-      .pattern {
-         display: block;
-
-      }
-
-      p {
-        font-size: 0.9em;
-      }
-    }
+   
   }
 
   .wedding {
@@ -1162,14 +1059,6 @@ footer {
 
 .no-webp .to-know h2 {
   background-image: url('../images/detail-title.jpg') !important;
-}
-
-.no-webp .to-know p {
-  background-image: url('../images/detail-p.jpg') !important;
-}
-
-.no-webp .to-know p.more {
-  background-image: url('../images/detail-p-3.jpg') !important;
 }
 
 
