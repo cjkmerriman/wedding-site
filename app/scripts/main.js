@@ -7,6 +7,8 @@ $(document).ready(function() {
 
 	console.log('Thanks for stopping by!');
 
+	// fade in name & details on scroll
+
 	var offset = $('.story').offset();
 	offsetTop = offset.top - 160;
 
@@ -23,14 +25,34 @@ $(document).ready(function() {
 			$('.profile h2').css('opacity', 1);
 		}
 
-
 	});
-	//setTimeout(video, 10000);	
-	// $('video').delay( 14000 ).fadeOut( 1600 );
+
+	var outerPosition = $('.outer').offset();
+	var outerTop = outerPosition.top
+	console.log(outerTop);
+	$('.outer').css('top', outerTop + 'px');
+
+	var heroVideo = document.getElementById('video');
+	heroVideo.addEventListener('timeupdate', endVideo,false);
+
 
 });
 
 function video() {
+	$('.hero').addClass('white');
 	$('video').addClass('fade');
-	$('.hero').addClass('slide');
+	$('.outer').addClass('slide');
+	$('.story').addClass('pad');
+
+	setTimeout(function(){
+		$('.hero').remove();
+		offsetTop = 20;	
+	}, 3000);
+}
+
+function endVideo() {
+	var heroVideo = document.getElementById('video');
+	if (heroVideo.currentTime > 11) {
+		video();
+	}
 }
