@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="600px" height="200px" viewBox="0 0 600 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard 2</title>
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>our-story-landscape-small</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="89.6702007%" id="linearGradient-1">
@@ -91,52 +91,86 @@
         <polygon id="path-46" points="2 4 12 4 12 16 2 16"></polygon>
         <polygon id="path-47" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
         <polygon id="path-48" points="2 4 12 4 12 16 2 16"></polygon>
-        <polygon id="path-49" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
-        <polygon id="path-50" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-49" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-50" points="0 18 14 18 12.25 28 1.75 28"></polygon>
         <polygon id="path-51" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
-        <polygon id="path-52" points="2 4 12 4 12 16 2 16"></polygon>
-        <polygon id="path-53" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
-        <polygon id="path-54" points="2 4 12 4 12 16 2 16"></polygon>
-        <polygon id="path-55" points="2 4 12 4 12 20 2 20"></polygon>
-        <polygon id="path-56" points="0 18 14 18 12.25 28 1.75 28"></polygon>
-        <polygon id="path-57" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
-        <linearGradient x1="24.0559891%" y1="22.3335598%" x2="24.0559891%" y2="100%" id="linearGradient-58">
+        <linearGradient x1="24.0559891%" y1="22.3335598%" x2="24.0559891%" y2="100%" id="linearGradient-52">
             <stop stop-color="#E1FAE3" offset="0%"></stop>
             <stop stop-color="#F5FDF5" offset="100%"></stop>
         </linearGradient>
-        <polygon id="path-59" points="0 67 156 90 1.35308431e-16 90"></polygon>
-        <rect id="path-60" x="7" y="0" width="76" height="51"></rect>
-        <linearGradient x1="50%" y1="17.5911458%" x2="43.1814236%" y2="50%" id="linearGradient-61">
+        <polygon id="path-53" points="0 67 156 90 1.35308431e-16 90"></polygon>
+        <rect id="path-54" x="7" y="0" width="76" height="51"></rect>
+        <linearGradient x1="50%" y1="17.5911458%" x2="43.1814236%" y2="50%" id="linearGradient-55">
             <stop stop-color="#FAE2B4" offset="0%"></stop>
             <stop stop-color="#FAD8B2" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-62" x="0" y="8" width="90" height="15"></rect>
-        <polygon id="path-63" points="14 29 34 29 34 51 14 51"></polygon>
-        <polygon id="path-64" points="39 29 76 29 76 44 39 44"></polygon>
-        <linearGradient x1="74.2582142%" y1="-24.3963068%" x2="74.2582124%" y2="100%" id="linearGradient-65">
+        <rect id="path-56" x="0" y="8" width="90" height="15"></rect>
+        <polygon id="path-57" points="14 29 34 29 34 51 14 51"></polygon>
+        <polygon id="path-58" points="39 29 76 29 76 44 39 44"></polygon>
+        <linearGradient x1="74.2582142%" y1="-24.3963068%" x2="74.2582124%" y2="100%" id="linearGradient-59">
             <stop stop-color="#FAF1F3" offset="0%"></stop>
             <stop stop-color="#FFC7D7" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="95.915671%" x2="50%" y2="0%" id="linearGradient-66">
-            <stop stop-color="#EEEEEE" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-67" x="0" y="3.58905874" width="58" height="137.181023"></rect>
-        <rect id="path-68" x="0" y="0.0928129365" width="58" height="6"></rect>
-        <polygon id="path-69" points="4 6.43359375 26 6.43359375 26 24.4335937 4 24.4335937"></polygon>
-        <polygon id="path-70" points="0 0.43359375 30 0.43359375 25.7692308 8.43359375 4.23076923 8.43359375"></polygon>
-        <linearGradient x1="58.5049716%" y1="100%" x2="50%" y2="6.47615132%" id="linearGradient-71">
+        <rect id="path-60" x="2" y="2.97460938" width="44" height="78.0253906"></rect>
+        <polygon id="path-61" points="2 0 46 0 48 7 0 7"></polygon>
+        <polygon id="path-62" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-63" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-64" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-65" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-66" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-67" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-68" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-69" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-70" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-71" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-72" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-73" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-74" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <rect id="path-75" x="2" y="3.97460938" width="44" height="76"></rect>
+        <polygon id="path-76" points="2 0 46 0 48 7 0 7"></polygon>
+        <polygon id="path-77" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-78" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-79" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-80" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-81" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-82" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-83" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-84" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-85" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-86" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-87" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-88" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-89" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <rect id="path-90" x="2" y="2.97460938" width="44" height="76"></rect>
+        <polygon id="path-91" points="2 8.52651283e-14 46 8.52651283e-14 48 7 0 7"></polygon>
+        <polygon id="path-92" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-93" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-94" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-95" points="2 4 12 4 12 16 2 16"></polygon>
+        <polygon id="path-96" points="2 4 12 4 12 20 2 20"></polygon>
+        <polygon id="path-97" points="0 18 14 18 12.25 28 1.75 28"></polygon>
+        <polygon id="path-98" points="0.777777778 0 13.2222222 0 14 6 0 6"></polygon>
+        <polygon id="path-99" points="0 67 156 90 1.35308431e-16 90"></polygon>
+        <linearGradient x1="58.5049716%" y1="100%" x2="50%" y2="6.47615132%" id="linearGradient-100">
             <stop stop-color="#DCF9D5" offset="0%"></stop>
             <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-72">
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-101">
             <stop stop-color="#EEEEEE" offset="0%"></stop>
             <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
+        <linearGradient x1="25.3427433%" y1="80.8472346%" x2="82.8988541%" y2="26.4136511%" id="linearGradient-102">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="85.4314401%" y1="15.9177062%" x2="18.0714077%" y2="83.1947897%" id="linearGradient-103">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-2">
-            <g id="Mountains" transform="translate(352.000000, 101.262500)" stroke="#111111" stroke-width="2">
+        <g id="our-story-landscape-small">
+            <g id="Mountains" transform="translate(179.000000, 101.000000)" stroke="#111111" stroke-width="2">
                 <g id="Medium" transform="translate(35.898929, 0.000000)">
                     <path d="M16.5246698,95.5880378 L82.8927613,1.69551881 C83.6380352,0.64116202 85.0969242,0.390600866 86.151281,1.13587481 C86.3682796,1.28926068 86.5575391,1.47852017 86.710925,1.69551881 L169.166244,118.347021 C169.911518,119.401378 169.660957,120.860267 168.6066,121.605541 C168.211923,121.884519 167.740482,122.034316 167.257162,122.034316 L2.3465242,122.034316 C1.05536135,122.034316 0.00866705917,120.987622 0.00866705917,119.696459 C0.00866705917,119.213139 0.158464347,118.741698 0.437442352,118.347021" id="Triangle" fill="url(#linearGradient-1)"></path>
                     <polyline id="Path-3" points="62.4588947 30.7157671 69.0032966 27.6127983 72.3080312 32.9057959 78.8940989 27.2312413 84.6348624 33.5410583 91.0519835 27.2312413 96.5490299 33.5410583 100.217752 27.3690736 107.651568 30.9814587"></polyline>
@@ -145,8 +179,12 @@
                     <path d="M71.3866383,0.859687263 L138.912698,85.7511919 L138.912698,85.7511919 C139.600311,86.6156355 139.456961,87.8738256 138.592517,88.5614382 C138.238598,88.8429596 137.799716,88.9962247 137.347485,88.9962247 L2.29536491,88.9962247 L2.29536491,88.9962247 C1.19079541,88.9962247 0.295364907,88.1007942 0.295364907,86.9962247 C0.295364907,86.5439933 0.448629934,86.1051112 0.73015136,85.7511919 L68.2562112,0.859687263 L68.2562112,0.859687263 C68.9438238,-0.00475630918 70.2020139,-0.148106134 71.0664575,0.539506467 C71.1849608,0.633768728 71.292376,0.741183901 71.3866383,0.859687263 Z" id="Triangle" fill="url(#linearGradient-2)"></path>
                     <polyline id="Path-3" points="44.8348214 29.9765302 53.2409282 26.3563998 56.7971157 32.5315637 63.8843088 25.91125 70.0618794 33.2727032 76.9672708 25.91125 82.8825803 33.2727032 86.8304501 26.0720544 94.8298962 30.2865036"></polyline>
                 </g>
+                <g id="Small" transform="translate(103.000000, 14.000000)">
+                    <path d="M71.3866383,0.859687263 L138.912698,85.7511919 L138.912698,85.7511919 C139.600311,86.6156355 139.456961,87.8738256 138.592517,88.5614382 C138.238598,88.8429596 137.799716,88.9962247 137.347485,88.9962247 L2.29536491,88.9962247 L2.29536491,88.9962247 C1.19079541,88.9962247 0.295364907,88.1007942 0.295364907,86.9962247 C0.295364907,86.5439933 0.448629934,86.1051112 0.73015136,85.7511919 L68.2562112,0.859687263 L68.2562112,0.859687263 C68.9438238,-0.00475630918 70.2020139,-0.148106134 71.0664575,0.539506467 C71.1849608,0.633768728 71.292376,0.741183901 71.3866383,0.859687263 Z" id="Triangle" fill="url(#linearGradient-2)"></path>
+                    <polyline id="Path-3" points="44.8348214 29.9765302 53.2409282 26.3563998 56.7971157 32.5315637 63.8843088 25.91125 70.0618794 33.2727032 76.9672708 25.91125 82.8825803 33.2727032 86.8304501 26.0720544 94.8298962 30.2865036"></polyline>
+                </g>
             </g>
-            <g id="Silo" transform="translate(569.000000, 132.000000)">
+            <g id="Silo" transform="translate(443.000000, 132.000000)">
                 <polyline id="Rectangle-4" stroke="#111111" stroke-width="2" fill="url(#linearGradient-3)" stroke-linecap="square" points="1 25.109375 1 17 25 17 25 67 6.82895612 67"></polyline>
                 <g id="Group" transform="translate(13.500000, 22.500000)" stroke="#111111" stroke-width="2" stroke-linecap="square">
                     <path d="M10.2518115,37.5 L0.251811499,37.5" id="Line"></path>
@@ -162,7 +200,7 @@
                 <path d="M25,11.5 L25,17.5" id="Line-5" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
                 <path d="M1,11.5 L1,17.5" id="Line-5" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
             </g>
-            <g id="Barn" transform="translate(505.000000, 154.000000)">
+            <g id="Barn" transform="translate(379.000000, 154.000000)">
                 <g id="Group-2">
                     <g id="extra-shade">
                         <polygon id="Path-13" fill="#E2E2E2" points="0.947265625 18.609375 7.33129883 5.09448242 14.1066895 0.333740234 15.9077148 2.09570312 9.37841797 7.85620117 3.06298828 19.3354492"></polygon>
@@ -187,8 +225,8 @@
                     <rect id="Rectangle-3" x="4" y="0" width="4" height="7"></rect>
                 </g>
             </g>
-            <g id="Park-Slope" transform="translate(67.000000, 110.000000)">
-                <g id="Brownstone" transform="translate(110.000000, 11.000000)">
+            <g id="Park-Slope" transform="translate(-49.000000, 110.000000)">
+                <g id="Brownstone" transform="translate(109.000000, 11.000000)">
                     <g id="Rectangle-2">
                         <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-11"></use>
                         <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="76.0253906"></rect>
@@ -263,7 +301,7 @@
                         </g>
                     </g>
                 </g>
-                <g id="Orchard" transform="translate(150.000000, 64.000000)" stroke="#111111" stroke-width="2">
+                <g id="Orchard" transform="translate(149.000000, 64.000000)" stroke="#111111" stroke-width="2">
                     <g id="Tree" transform="translate(0.000000, 1.000000)">
                         <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
                         <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-26)" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -273,7 +311,7 @@
                         <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-26)" stroke-linecap="round" stroke-linejoin="round"></path>
                     </g>
                 </g>
-                <g id="Brownstone" transform="translate(68.000000, 5.000000)">
+                <g id="Brownstone" transform="translate(67.000000, 5.000000)">
                     <g id="Rectangle-2">
                         <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-27"></use>
                         <rect stroke="#111111" stroke-width="2" x="3" y="4.97460938" width="42" height="74"></rect>
@@ -348,7 +386,7 @@
                         </g>
                     </g>
                 </g>
-                <g id="Brownstone" transform="translate(26.000000, 0.000000)">
+                <g id="Brownstone" transform="translate(25.000000, 0.000000)">
                     <g id="Rectangle-2">
                         <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-43"></use>
                         <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="74"></rect>
@@ -357,7 +395,7 @@
                         <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-44"></use>
                         <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
                     </g>
-                    <g id="window" transform="translate(8.000000, 51.000000)">
+                    <g id="window" transform="translate(26.000000, 32.000000)">
                         <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
                             <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-45"></use>
                             <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
@@ -367,7 +405,7 @@
                             <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
                         </g>
                     </g>
-                    <g id="window" transform="translate(8.000000, 32.000000)">
+                    <g id="window" transform="translate(26.000000, 13.000000)">
                         <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
                             <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-47"></use>
                             <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
@@ -377,59 +415,29 @@
                             <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
                         </g>
                     </g>
-                    <g id="window" transform="translate(26.000000, 32.000000)">
-                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
-                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-49"></use>
-                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
-                        </g>
-                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
-                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-50"></use>
-                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
-                        </g>
-                    </g>
-                    <g id="window" transform="translate(26.000000, 13.000000)">
-                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
-                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-51"></use>
-                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
-                        </g>
-                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
-                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-52"></use>
-                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
-                        </g>
-                    </g>
-                    <g id="window" transform="translate(8.000000, 13.000000)">
-                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
-                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-53"></use>
-                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
-                        </g>
-                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
-                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-54"></use>
-                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
-                        </g>
-                    </g>
                     <g id="Door" transform="translate(26.000000, 51.000000)">
                         <g id="Rectangle-2">
-                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-55"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
                             <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
                         </g>
                         <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
-                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-56"></use>
+                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-50"></use>
                             <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
                         </g>
                         <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
                         <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
-                            <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-57"></use>
+                            <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-51"></use>
                             <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
                         </g>
                     </g>
                 </g>
                 <g id="Rectangle-8">
-                    <use fill="url(#linearGradient-58)" fill-rule="evenodd" xlink:href="#path-59"></use>
+                    <use fill="url(#linearGradient-52)" fill-rule="evenodd" xlink:href="#path-53"></use>
                     <path stroke="#111111" stroke-width="2" d="M1,68.1582461 L1,89 L142.361461,89 L1,68.1582461 Z"></path>
                 </g>
-                <g id="Dino-BBQ" transform="translate(188.000000, 41.000000)">
+                <g id="Dino-BBQ" transform="translate(173.000000, 41.000000)">
                     <g id="Rectangle-13">
-                        <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-60"></use>
+                        <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-54"></use>
                         <rect stroke="#111111" stroke-width="2" x="8" y="1" width="74" height="49"></rect>
                     </g>
                     <path d="M45,7 L45,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(45.000000, 4.500000) scale(1, -1) translate(-45.000000, -4.500000) "></path>
@@ -438,152 +446,254 @@
                     <path d="M21,7 L21,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(21.000000, 4.500000) scale(1, -1) translate(-21.000000, -4.500000) "></path>
                     <path d="M33,7 L33,2" id="Line-17" stroke="#111111" stroke-width="2" stroke-linecap="square" transform="translate(33.000000, 4.500000) scale(1, -1) translate(-33.000000, -4.500000) "></path>
                     <g id="Rectangle-13">
-                        <use fill="url(#linearGradient-61)" fill-rule="evenodd" xlink:href="#path-62"></use>
+                        <use fill="url(#linearGradient-55)" fill-rule="evenodd" xlink:href="#path-56"></use>
                         <rect stroke="#111111" stroke-width="2" x="1" y="9" width="88" height="13"></rect>
                     </g>
                     <path d="M12.6049316,15.6513672 C12.6049316,16.7236382 12.3097685,17.5498018 11.7194336,18.1298828 C11.1290986,18.7099638 10.2992729,19 9.22993161,19 L7.15131833,19 L7.15131833,12.5751953 L9.37495114,12.5751953 C10.4062063,12.5751953 11.2023409,12.8388646 11.7633789,13.3662109 C12.3244168,13.8935573 12.6049316,14.6552685 12.6049316,15.6513672 Z M10.8031738,15.7128906 C10.8031738,15.1240205 10.6867199,14.6875014 10.4538086,14.4033203 C10.2208972,14.1191392 9.86714101,13.9770508 9.39252926,13.9770508 L8.88715817,13.9770508 L8.88715817,17.5761719 L9.27387692,17.5761719 C9.80122331,17.5761719 10.1879382,17.4230972 10.4340332,17.1169434 C10.6801282,16.8107895 10.8031738,16.3427766 10.8031738,15.7128906 Z M14.1562988,19 L14.1562988,12.5751953 L15.9009277,12.5751953 L15.9009277,19 L14.1562988,19 Z M23.8067871,19 L21.5304199,19 L19.1837402,14.4736328 L19.1441894,14.4736328 C19.1998538,15.1855504 19.2276855,15.729002 19.2276855,16.1040039 L19.2276855,19 L17.6895996,19 L17.6895996,12.5751953 L19.9571777,12.5751953 L22.2950683,17.0400391 L22.3214355,17.0400391 C22.2804197,16.3925749 22.2599121,15.8725606 22.2599121,15.4799805 L22.2599121,12.5751953 L23.8067871,12.5751953 L23.8067871,19 Z M31.6071777,15.7788086 C31.6071777,16.8598687 31.3420437,17.6816378 30.8117676,18.2441406 C30.2814915,18.8066434 29.5051321,19.0878906 28.482666,19.0878906 C27.4748485,19.0878906 26.7021511,18.8051786 26.1645508,18.2397461 C25.6269504,17.6743136 25.3581543,16.8510796 25.3581543,15.7700195 C25.3581543,14.7006782 25.6254856,13.884036 26.1601562,13.3200684 C26.6948269,12.7561007 27.4719187,12.4741211 28.4914551,12.4741211 C29.5139211,12.4741211 30.2888157,12.7539035 30.8161621,13.3134766 C31.3435085,13.8730497 31.6071777,14.6948188 31.6071777,15.7788086 Z M27.1862793,15.7788086 C27.1862793,17.0210023 27.6184039,17.6420898 28.482666,17.6420898 C28.9221213,17.6420898 29.2480458,17.4912124 29.4604492,17.1894531 C29.6728526,16.8876938 29.7790527,16.4174837 29.7790527,15.7788086 C29.7790527,15.1372038 29.6713878,14.6633316 29.4560547,14.3571777 C29.2407216,14.0510239 28.9191916,13.8979492 28.4914551,13.8979492 C27.6213335,13.8979492 27.1862793,14.5248961 27.1862793,15.7788086 Z M37.3685059,17.0488281 C37.3685059,17.4472676 37.2674326,17.8010238 37.0652832,18.1101074 C36.8631337,18.419191 36.5716328,18.659423 36.1907715,18.8308105 C35.8099102,19.0021981 35.3631373,19.0878906 34.8504394,19.0878906 C34.4227029,19.0878906 34.0638198,19.0578616 33.7737793,18.9978027 C33.4837388,18.9377438 33.181984,18.8330086 32.8685059,18.6835938 L32.8685059,17.1367188 C33.1995622,17.3066415 33.543797,17.4392085 33.9012207,17.5344238 C34.2586444,17.6296391 34.5867661,17.6772461 34.8855957,17.6772461 C35.1434095,17.6772461 35.3323724,17.6325688 35.4524902,17.5432129 C35.572608,17.453857 35.632666,17.3388679 35.632666,17.1982422 C35.632666,17.1103511 35.6084963,17.0334476 35.5601562,16.9675293 C35.5118162,16.901611 35.4341802,16.8349613 35.3272461,16.7675781 C35.220312,16.700195 34.9354027,16.562501 34.4725098,16.3544922 C34.0535623,16.1640615 33.7393565,15.9794931 33.5298828,15.8007812 C33.3204091,15.6220694 33.1651372,15.4169933 33.0640625,15.1855469 C32.9629878,14.9541004 32.9124512,14.6801774 32.9124512,14.3637695 C32.9124512,13.7719697 33.127781,13.3105485 33.5584473,12.9794922 C33.9891135,12.6484358 34.5809044,12.4829102 35.3338379,12.4829102 C35.9988803,12.4829102 36.6770961,12.6367172 37.3685059,12.9443359 L36.8367676,14.284668 C36.2361786,14.009276 35.7176291,13.871582 35.2811035,13.871582 C35.0555164,13.871582 34.8914556,13.9111324 34.788916,13.9902344 C34.6863764,14.0693363 34.6351074,14.1674799 34.6351074,14.284668 C34.6351074,14.4106452 34.7002923,14.523437 34.8306641,14.6230469 C34.9610358,14.7226567 35.314792,14.9042956 35.8919434,15.1679688 C36.4456571,15.4169934 36.8301747,15.6843247 37.0455078,15.9699707 C37.2608409,16.2556167 37.3685059,16.6152322 37.3685059,17.0488281 Z M42.7035645,19 L42.3871582,17.7958984 L40.2997559,17.7958984 L39.9745605,19 L38.067334,19 L40.1635254,12.5488281 L42.4794434,12.5488281 L44.602002,19 L42.7035645,19 Z M42.0268066,16.3720703 L41.7499512,15.3173828 C41.6854977,15.0830066 41.6071294,14.779787 41.5148437,14.4077148 C41.4225581,14.0356427 41.3617677,13.7690438 41.3324707,13.6079102 C41.3061034,13.757325 41.2541019,14.0034163 41.1764648,14.3461914 C41.0988277,14.6889666 40.9267103,15.3642528 40.6601074,16.3720703 L42.0268066,16.3720703 Z M51.1587402,12.5751953 L51.1587402,16.4423828 C51.1587402,17.2832073 50.9207055,17.9343239 50.4446289,18.395752 C49.9685523,18.85718 49.2822799,19.0878906 48.385791,19.0878906 C47.5098101,19.0878906 46.8367211,18.8637718 46.3665039,18.4155273 C45.8962867,17.9672829 45.6611816,17.3227581 45.6611816,16.4819336 L45.6611816,12.5751953 L47.4058105,12.5751953 L47.4058105,16.3457031 C47.4058105,16.799807 47.4907706,17.1293935 47.6606934,17.3344727 C47.8306161,17.5395518 48.0811019,17.6420898 48.4121582,17.6420898 C48.7666522,17.6420898 49.0237297,17.5402842 49.1833984,17.3366699 C49.3430672,17.1330556 49.4229004,16.799807 49.4229004,16.3369141 L49.4229004,12.5751953 L51.1587402,12.5751953 Z M54.6437012,16.6621094 L54.6437012,19 L52.9078613,19 L52.9078613,12.5751953 L55.0128418,12.5751953 C56.7589443,12.5751953 57.6319824,13.2080015 57.6319824,14.4736328 C57.6319824,15.2177772 57.2687048,15.793455 56.5421387,16.2006836 L58.414209,19 L56.445459,19 L55.0831543,16.6621094 L54.6437012,16.6621094 Z M54.6437012,15.3569336 L54.9688965,15.3569336 C55.5753448,15.3569336 55.8785645,15.0888699 55.8785645,14.5527344 C55.8785645,14.1103494 55.5812042,13.8891602 54.9864746,13.8891602 L54.6437012,13.8891602 L54.6437012,15.3569336 Z M62.1365723,12.5751953 L64.3777832,12.5751953 C65.2508345,12.5751953 65.8990213,12.7048327 66.3223633,12.9641113 C66.7457053,13.22339 66.9573731,13.6269504 66.9573731,14.1748047 C66.9573731,14.5351581 66.8650888,14.8427722 66.6805176,15.0976562 C66.4959464,15.3525403 66.2527847,15.5166012 65.9510254,15.5898438 L65.9510254,15.6337891 C66.3494649,15.7392583 66.6380362,15.9150378 66.8167481,16.1611328 C66.9954599,16.4072278 67.0848145,16.7265605 67.0848145,17.1191406 C67.0848145,17.7021514 66.8658225,18.1613753 66.4278321,18.4968262 C65.9898416,18.8322771 65.3929237,19 64.6370606,19 L62.1365723,19 L62.1365723,12.5751953 Z M63.8724121,15.0405273 L64.3953613,15.0405273 C64.644386,15.0405273 64.8370111,14.9892583 64.9732422,14.8867188 C65.1094734,14.7841792 65.1775879,14.6318369 65.1775879,14.4296875 C65.1775879,14.0693341 64.9051297,13.8891602 64.3602051,13.8891602 L63.8724121,13.8891602 L63.8724121,15.0405273 Z M63.8724121,16.3105469 L63.8724121,17.659668 L64.483252,17.659668 C65.0252469,17.659668 65.2962403,17.4311546 65.2962403,16.9741211 C65.2962403,16.7602528 65.2237312,16.596192 65.078711,16.4819336 C64.9336907,16.3676752 64.7234877,16.3105469 64.4480957,16.3105469 L63.8724121,16.3105469 Z M68.6010254,12.5751953 L70.8422364,12.5751953 C71.7152876,12.5751953 72.3634745,12.7048327 72.7868164,12.9641113 C73.2101584,13.22339 73.4218262,13.6269504 73.4218262,14.1748047 C73.4218262,14.5351581 73.329542,14.8427722 73.1449707,15.0976562 C72.9603995,15.3525403 72.7172379,15.5166012 72.4154785,15.5898438 L72.4154785,15.6337891 C72.813918,15.7392583 73.1024894,15.9150378 73.2812012,16.1611328 C73.459913,16.4072278 73.5492676,16.7265605 73.5492676,17.1191406 C73.5492676,17.7021514 73.3302757,18.1613753 72.8922852,18.4968262 C72.4542947,18.8322771 71.8573769,19 71.1015137,19 L68.6010254,19 L68.6010254,12.5751953 Z M70.3368653,15.0405273 L70.8598145,15.0405273 C71.1088392,15.0405273 71.3014642,14.9892583 71.4376953,14.8867188 C71.5739265,14.7841792 71.642041,14.6318369 71.642041,14.4296875 C71.642041,14.0693341 71.3695828,13.8891602 70.8246582,13.8891602 L70.3368653,13.8891602 L70.3368653,15.0405273 Z M70.3368653,16.3105469 L70.3368653,17.659668 L70.9477051,17.659668 C71.4897,17.659668 71.7606934,17.4311546 71.7606934,16.9741211 C71.7606934,16.7602528 71.6881843,16.596192 71.5431641,16.4819336 C71.3981438,16.3676752 71.1879409,16.3105469 70.9125489,16.3105469 L70.3368653,16.3105469 Z M81.0771973,15.7788086 C81.0771973,17.2348706 80.6143113,18.2163061 79.6885254,18.7231445 L81.2573731,20.5292969 L79.0952637,20.5292969 L77.9614746,19.1010742 L77.9570801,19.0966797 L77.9570801,19.0922852 L77.9526856,19.0878906 C76.944868,19.0878906 76.1721707,18.8051786 75.6345703,18.2397461 C75.09697,17.6743136 74.8281739,16.8510796 74.8281739,15.7700195 C74.8281739,14.7006782 75.0955052,13.884036 75.6301758,13.3200684 C76.1648465,12.7561007 76.9419383,12.4741211 77.9614746,12.4741211 C78.9839407,12.4741211 79.7588353,12.7539035 80.2861817,13.3134766 C80.8135281,13.8730497 81.0771973,14.6948188 81.0771973,15.7788086 Z M76.6562989,15.7788086 C76.6562989,17.0210023 77.0884234,17.6420898 77.9526856,17.6420898 C78.3921409,17.6420898 78.7180654,17.4912124 78.9304688,17.1894531 C79.1428722,16.8876938 79.2490723,16.4174837 79.2490723,15.7788086 C79.2490723,15.1372038 79.1414074,14.6633316 78.9260743,14.3571777 C78.7107411,14.0510239 78.3892112,13.8979492 77.9614746,13.8979492 C77.0913531,13.8979492 76.6562989,14.5248961 76.6562989,15.7788086 Z" id="DINOSAUR-BBQ" fill="#111111"></path>
                     <g id="Rectangle-2">
-                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-57"></use>
                         <path stroke="#111111" stroke-width="2" d="M15,30 L15,50 L33,50 L33,30 L15,30 Z"></path>
                     </g>
                     <g id="Rectangle-2">
-                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-64"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-58"></use>
                         <path stroke="#111111" stroke-width="2" d="M40,30 L40,43 L75,43 L75,30 L40,30 Z"></path>
                     </g>
                     <path d="M46,30.5 L46,42.5" id="Line-18" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
                     <path d="M69,30.5 L69,42.5" id="Line-18" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
                     <g id="Group-18" transform="translate(20.000000, 2.000000)"></g>
                 </g>
-                <g id="Heart" transform="translate(220.000000, 12.000000)" stroke="#111111" stroke-width="2" fill="url(#linearGradient-65)">
+                <g id="Heart" transform="translate(205.000000, 12.000000)" stroke="#111111" stroke-width="2" fill="url(#linearGradient-59)">
                     <path d="M21.6548524,13.1263598 C25.8155219,8.96569038 26.0732625,4.65774059 23.4222165,2.00669456 C20.7466237,-0.668898187 16.4386739,-0.668898187 13.7999013,2.00669456 C13.2966934,2.50990237 12.8916725,3.06220363 12.5725651,3.6390516 C12.2534577,3.06220363 11.8484368,2.50990237 11.345229,2.00669456 C8.70645635,-0.632078103 4.39850655,-0.632078103 1.74746053,2.00669456 C-0.928132218,4.65774059 -0.670391632,8.96569038 3.49027782,13.1263598 L12.1920909,21.8527197 C12.2780045,21.9386332 12.4252848,22 12.5725651,22 C12.7198455,22 12.8303057,21.9386332 12.9530393,21.8527197 L21.6548524,13.1263598 Z" id="heart"></path>
                 </g>
             </g>
-            <g id="Apartment" transform="translate(12.000000, 67.000000)">
-                <g transform="translate(0.000000, 0.335938)" id="Rectangle-2">
-                    <g>
-                        <use fill="url(#linearGradient-66)" fill-rule="evenodd" xlink:href="#path-67"></use>
-                        <rect stroke="#111111" stroke-width="2" x="1" y="4.58905874" width="56" height="135.181023"></rect>
-                    </g>
-                    <g transform="translate(29.000000, 3.092813) scale(1, -1) translate(-29.000000, -3.092813) ">
-                        <use fill="#919191" fill-rule="evenodd" xlink:href="#path-68"></use>
-                        <rect stroke="#111111" stroke-width="2" x="1" y="1.09281294" width="56" height="4"></rect>
-                    </g>
-                </g>
-                <g id="door" transform="translate(3.000000, 108.566406)">
+            <g id="Park-Slope" transform="translate(574.000000, 156.000000) scale(-1, 1) translate(-574.000000, -156.000000) translate(495.000000, 110.000000)">
+                <g id="Brownstone" transform="translate(110.000000, 11.000000)">
                     <g id="Rectangle-2">
-                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-69"></use>
-                        <path stroke="#111111" stroke-width="2" d="M5,7.43359375 L5,23.4335937 L25,23.4335937 L25,7.43359375 L5,7.43359375 Z"></path>
+                        <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-60"></use>
+                        <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="76.0253906"></rect>
                     </g>
-                    <path d="M15,2 L15,24" id="Line-13" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
-                    <g id="Rectangle-2" transform="translate(15.000000, 4.433594) scale(1, -1) translate(-15.000000, -4.433594) ">
-                        <use fill="#848484" fill-rule="evenodd" xlink:href="#path-70"></use>
-                        <path stroke="#111111" stroke-width="2" d="M1.6600748,1.43359375 L4.83315173,7.43359375 L25.1668483,7.43359375 L28.3399252,1.43359375 L1.6600748,1.43359375 Z"></path>
+                    <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                        <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-61"></use>
+                        <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 51.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-62"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-63"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 32.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-64"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-65"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(26.000000, 32.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-66"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-67"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(26.000000, 13.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-68"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-69"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 13.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-70"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-71"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="Door" transform="translate(26.000000, 51.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-72"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-73"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                        </g>
+                        <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-74"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
                     </g>
                 </g>
-                <g id="Group-15" transform="translate(6.000000, 59.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                <g id="Brownstone" transform="translate(68.000000, 5.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-75"></use>
+                        <rect stroke="#111111" stroke-width="2" x="3" y="4.97460938" width="42" height="74"></rect>
                     </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                    <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                        <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-76"></use>
+                        <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 52.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-77"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-78"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 33.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-79"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-80"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(26.000000, 33.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-81"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-82"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(26.000000, 14.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-83"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-84"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="window" transform="translate(8.000000, 14.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-85"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-86"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
+                    </g>
+                    <g id="Door" transform="translate(26.000000, 52.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-87"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                            <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-88"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                        </g>
+                        <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-89"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
                     </g>
                 </g>
-                <g id="Group-15" transform="translate(6.000000, 75.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                <g id="Brownstone" transform="translate(26.000000, 0.000000)">
+                    <g id="Rectangle-2">
+                        <use fill="url(#linearGradient-10)" fill-rule="evenodd" xlink:href="#path-90"></use>
+                        <rect stroke="#111111" stroke-width="2" x="3" y="3.97460938" width="42" height="74"></rect>
                     </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                    <g id="Rectangle-2" transform="translate(24.000000, 3.500000) scale(1, -1) translate(-24.000000, -3.500000) ">
+                        <use fill="#F6E5D6" fill-rule="evenodd" xlink:href="#path-91"></use>
+                        <path stroke="#111111" stroke-width="2" d="M2.75430141,1 L1.32572998,6 L46.67427,6 L45.2456986,1 L2.75430141,1 Z"></path>
                     </g>
-                </g>
-                <g id="Group-15" transform="translate(6.000000, 91.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                    <g id="window" transform="translate(26.000000, 32.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-92"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-93"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
                     </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                    <g id="window" transform="translate(26.000000, 13.000000)">
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-94"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 10.000000) scale(1, -1) translate(-7.000000, -10.000000) ">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-95"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,15 L11,15 L11,5 L3,5 Z"></path>
+                        </g>
                     </g>
-                </g>
-                <g id="Group-15" transform="translate(6.000000, 11.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
-                    </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
-                    </g>
-                </g>
-                <g id="Group-15" transform="translate(6.000000, 27.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
-                    </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
+                    <g id="Door" transform="translate(26.000000, 51.000000)">
+                        <g id="Rectangle-2">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-96"></use>
+                            <path stroke="#111111" stroke-width="2" d="M3,5 L3,19 L11,19 L11,5 L3,5 Z"></path>
+                        </g>
+                        <g id="Rectangle-2" transform="translate(7.000000, 23.000000) scale(1, -1) translate(-7.000000, -23.000000) ">
+                            <use fill="url(#linearGradient-28)" fill-rule="evenodd" xlink:href="#path-97"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.19019703,19 L2.59019703,27 L11.409803,27 L12.809803,19 L1.19019703,19 Z"></path>
+                        </g>
+                        <path d="M2.33447266,23 L12,23" id="Line-11" stroke="#111111" stroke-width="2" stroke-linecap="square"></path>
+                        <g id="Rectangle-2" transform="translate(7.000000, 3.000000) scale(1, -1) translate(-7.000000, -3.000000) ">
+                            <use fill="#F9D0AD" fill-rule="evenodd" xlink:href="#path-98"></use>
+                            <path stroke="#111111" stroke-width="2" d="M1.65651507,1 L1.13799655,5 L12.8620035,5 L12.3434849,1 L1.65651507,1 Z"></path>
+                        </g>
                     </g>
                 </g>
-                <g id="Group-15" transform="translate(6.000000, 43.000000)" stroke-width="2" stroke="#111111">
-                    <g id="Group-14">
-                        <rect id="Rectangle-9" x="1" y="1" width="22" height="10"></rect>
-                        <path d="M1.5,6 L22.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M12,2.43359375 L12,10.4335938" id="Line-12" stroke-linecap="square"></path>
-                    </g>
-                    <g id="Group-13" transform="translate(28.000000, 0.000000)">
-                        <rect id="Rectangle-9" x="1" y="1" width="16" height="10"></rect>
-                        <path d="M1.25634766,6 L15.5,6" id="Line-12" stroke-linecap="square"></path>
-                        <path d="M9,1.43359375 L9,10.4335938" id="Line-12" stroke-linecap="square"></path>
-                    </g>
+                <g id="Rectangle-8">
+                    <use fill="url(#linearGradient-52)" fill-rule="evenodd" xlink:href="#path-99"></use>
+                    <path stroke="#111111" stroke-width="2" d="M1,68.1582461 L1,89 L142.361461,89 L1,68.1582461 Z"></path>
                 </g>
             </g>
-            <g id="Orchard" transform="translate(37.000000, 172.000000)" stroke="#111111" stroke-width="2">
-                <g id="Tree" transform="translate(0.000000, 2.000000)">
-                    <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
-                    <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-26)" stroke-linecap="round" stroke-linejoin="round"></path>
-                </g>
-                <g id="Tree" transform="translate(25.000000, 13.500000) scale(-1, 1) translate(-25.000000, -13.500000) translate(14.000000, 0.000000)">
-                    <path d="M11,19 L11,27" id="Line-2" stroke-linecap="square"></path>
-                    <path d="M19.4468002,9.90684429 C20.9909327,10.8114947 22,12.3075472 22,14 C22,16.7614237 19.3137085,19 16,19 C14.0343727,19 12.2895104,18.2123276 11.1951378,16.9950869 C10.0119173,18.2306308 8.34580656,19 6.5,19 C2.91014913,19 0,16.0898509 0,12.5 C0,10.1221639 1.27680991,8.04254281 3.18223055,6.90933581 C3.06333876,6.45954125 3,5.9871674 3,5.5 C3,2.46243388 5.46243388,0 8.5,0 C10.3126472,0 11.9204884,0.87687902 12.9224685,2.22958203 C13.4221751,2.08022693 13.9517186,2 14.5,2 C17.5375661,2 20,4.46243388 20,7.5 C20,8.3631566 19.8011652,9.17987286 19.4468002,9.90684429 Z" id="Combined-Shape" fill="url(#linearGradient-26)" stroke-linecap="round" stroke-linejoin="round"></path>
-                </g>
-            </g>
-            <g id="Trees" transform="translate(349.000000, 171.714844)" stroke="#111111" stroke-width="2">
+            <g id="Trees" transform="translate(465.000000, 172.000000)" stroke="#111111" stroke-width="2">
                 <g id="Tree" transform="translate(20.871679, 2.608960)">
                     <path d="M7.82687957,12.6296901 L7.82687957,26.9789693" id="Line-29" stroke-linecap="square"></path>
-                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.7128441 13.5802604,6.63266729 9.43326291,1.04139956 L9.4332629,1.04139956 C8.77524801,0.154218538 7.52261922,-0.0315573115 6.63543819,0.626457586 C6.47747492,0.743617654 6.33765629,0.883436285 6.22049622,1.04139956 C2.07349874,6.63266729 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-71)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.712844 13.5802602,6.63266693 9.43326237,1.04139883 L9.43326169,1.04139934 C8.77524706,0.154218698 7.5226188,-0.0315570611 6.63543816,0.626457567 C6.47747496,0.743617582 6.33765639,0.883436148 6.22049638,1.04139935 C2.07349879,6.63266719 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-100)" stroke-linecap="round" stroke-linejoin="round"></path>
                 </g>
                 <g id="Tree" transform="translate(0.000000, 2.608960)">
                     <path d="M7.82687957,12.6296901 L7.82687957,26.9789693" id="Line-29" stroke-linecap="square"></path>
-                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.7128441 13.5802604,6.63266729 9.43326291,1.04139956 L9.4332629,1.04139956 C8.77524801,0.154218538 7.52261922,-0.0315573115 6.63543819,0.626457586 C6.47747492,0.743617654 6.33765629,0.883436285 6.22049622,1.04139956 C2.07349874,6.63266729 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-71)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.712844 13.5802602,6.63266693 9.43326237,1.04139883 L9.43326169,1.04139934 C8.77524706,0.154218698 7.5226188,-0.0315570611 6.63543816,0.626457567 C6.47747496,0.743617582 6.33765639,0.883436148 6.22049638,1.04139935 C2.07349879,6.63266719 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-100)" stroke-linecap="round" stroke-linejoin="round"></path>
                 </g>
-                <g id="Tree" transform="translate(10.435839, 0.000000)">
+                <g id="Tree" transform="translate(9.435839, 0.000000)">
                     <path d="M7.82687957,15.23865 L7.82687957,29.5879292" id="Line-29" stroke-linecap="square"></path>
-                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.7128441 13.5802604,6.63266729 9.43326291,1.04139956 L9.4332629,1.04139956 C8.77524801,0.154218538 7.52261922,-0.0315573115 6.63543819,0.626457586 C6.47747492,0.743617654 6.33765629,0.883436285 6.22049622,1.04139956 C2.07349874,6.63266729 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-71)" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.82687957,21.1088096 C12.1495458,21.1088096 15.6537591,17.6045963 15.6537591,13.2819301 C15.6537591,10.712844 13.5802602,6.63266693 9.43326237,1.04139883 L9.43326169,1.04139934 C8.77524706,0.154218698 7.5226188,-0.0315570611 6.63543816,0.626457567 C6.47747496,0.743617582 6.33765639,0.883436148 6.22049638,1.04139935 C2.07349879,6.63266719 0,10.7128441 0,13.2819301 C0,17.6045963 3.50421334,21.1088096 7.82687957,21.1088096 Z" id="Oval-9" fill="url(#linearGradient-100)" stroke-linecap="round" stroke-linejoin="round"></path>
                 </g>
             </g>
-            <g id="Diamond" transform="translate(445.000000, 44.000000)" stroke="#111111">
-                <g transform="translate(10.000000, 21.160999)" id="Polygon" stroke-width="2" fill="url(#linearGradient-72)" stroke-linecap="square">
+            <g id="Diamond" transform="translate(272.000000, 44.000000)" stroke="#111111">
+                <g transform="translate(10.000000, 21.160999)" id="Polygon" stroke-width="2" fill="url(#linearGradient-101)" stroke-linecap="square">
                     <polygon transform="translate(18.418254, 14.422298) rotate(-180.000000) translate(-18.418254, -14.422298) " points="18.6776658 0.932872596 36.8365076 17.5352422 29.0541469 27.9117233 8.82000887 27.9117233 -1.13686838e-13 17.5352422"></polygon>
                 </g>
                 <path d="M11.7307692,32.5 L45.3779114,32.5" id="Line-7" stroke-linecap="square"></path>
                 <polyline id="Path-10" points="26.5247333 22.4329928 20.5230056 32.0496806 26.5247333 47.4329928"></polyline>
                 <polyline id="Path-10" transform="translate(32.806566, 34.932993) scale(-1, 1) translate(-32.806566, -34.932993) " points="35.8074294 22.4329928 29.8057016 32.0496806 35.8074294 47.4329928"></polyline>
+            </g>
+            <g id="Group-5" transform="translate(400.000000, 121.000000)">
+                <polygon id="Path-33" fill="url(#linearGradient-102)" opacity="0.181555707" points="21.1652832 0.11328125 15.8664551 1.09375 19.6901855 4.17944336 24.9746094 5.02416992 27.9077148 8.43652344 27.9077148 12.6340332 26.0888672 16.1296387 22.4238281 18.0302734 17.8312988 17.173584 14.71875 14.5166016 13.8864746 9.81640625 15.2614746 7.02490234 15.8664551 5.88525391 12.052002 4.17944336 10.3552246 7.77807617 10.0895996 11.5925293 10.9165039 15.7729492 14.2851562 19.802002 18.9986572 21.817627 24.9746094 21.817627 29.3549805 18.4453125 31.779541 13.5961914 31.779541 8.43652344 30.3132324 5.02416992 26.8681641 1.74243164 23.4511719 0.11328125"></polygon>
+                <polygon id="Path-33" fill="url(#linearGradient-103)" opacity="0.181555707" transform="translate(10.934570, 10.965454) scale(-1, -1) translate(-10.934570, -10.965454) " points="11.1652832 0.11328125 5.86645508 1.09375 9.69018555 4.17944336 14.9746094 5.02416992 17.9077148 8.43652344 17.9077148 12.6340332 16.0888672 16.1296387 12.4238281 18.0302734 7.83129883 17.173584 4.71875 14.5166016 3.88647461 9.81640625 5.26147461 7.02490234 5.86645508 5.88525391 2.05200195 4.17944336 0.355224609 7.77807617 0.0895996094 11.5925293 0.916503906 15.7729492 4.28515625 19.802002 8.99865723 21.817627 14.9746094 21.817627 19.3549805 18.4453125 21.779541 13.5961914 21.779541 8.43652344 20.3132324 5.02416992 16.8681641 1.74243164 13.4511719 0.11328125"></polygon>
+                <path d="M11,22 C4.92486775,22 0,17.0751322 0,11 C0,8.45964169 0.861138596,6.12041307 2.30742853,4.25830141 M6.14461162,1.12683576 C7.60899401,0.405318516 9.2571634,0 11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 L11,22 M11,18 C14.8659932,18 18,14.8659932 18,11 C18,7.13400675 14.8659932,4 11,4 C10.6291095,4 10.2649561,4.02884491 9.90966074,4.08441377 M6.02434076,6.07629981 C4.77282582,7.34093893 4,9.0802179 4,11 C4,14.8659932 7.13400675,18 11,18 L11,18" id="Oval-5" stroke="#000000" stroke-width="2" transform="translate(11.000000, 11.000000) scale(-1, -1) translate(-11.000000, -11.000000) "></path>
+                <path d="M21,22 C14.9248678,22 10,17.0751322 10,11 C10,8.45964169 10.8611386,6.12041307 12.3074285,4.25830141 M16.1446116,1.12683576 C17.608994,0.405318516 19.2571634,0 21,0 C27.0751322,0 32,4.92486775 32,11 C32,17.0751322 27.0751322,22 21,22 L21,22 M21,18 C24.8659932,18 28,14.8659932 28,11 C28,7.13400675 24.8659932,4 21,4 C20.6291095,4 20.2649561,4.02884491 19.9096607,4.08441377 M16.0243408,6.07629981 C14.7728258,7.34093893 14,9.0802179 14,11 C14,14.8659932 17.1340068,18 21,18 L21,18" id="Oval-5" stroke="#000000" stroke-width="2"></path>
             </g>
         </g>
     </g>

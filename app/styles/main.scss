@@ -24,11 +24,9 @@ body {
   width: 100%;
   overflow-x: hidden;
   position: absolute;
-  transition: all 2s ease-out;
-}
+  transition: all 1.8s ease-out;
+  will-change: all;
 
-.outer.slide {
-  top:0px !important;
 }
 
 section, footer {
@@ -123,7 +121,6 @@ header {
       font-weight: 900;
       filter:none;
       font-size: 1em;
-      filter: drop-shadow(0px 0px 0px rgba(0,0,0,.1));
       background-image: linear-gradient(170deg, darken(#F7DDAB, 10%) 4%, #E2A767 82%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -226,12 +223,11 @@ header {
 .hero {
   height: 100%;
   width: 100%;
-  background: url('../images/hero-open.webp') center center no-repeat #f4f4f4;
+  background: rgba(225, 238, 247, 1);
   background-size: cover;
   overflow:hidden;
   border-bottom: 1px solid #111;
   box-shadow: 0 8px 12px rgba(0,0,0,.15);
-  transition: all 2.2s ease-out, opacity .4s ease-out;
   
   video {
     height: 100%;
@@ -240,19 +236,13 @@ header {
     z-index: -100;
     right: 0;
     bottom: 0;
-    background: url(../images/hero-open.webp) no-repeat center center;
     background-size: cover;
     overflow: hidden;
-    transition: all 2.2s ease-out, opacity 1.2s linear;
   }
 
   video.fade {
     opacity: 0;
   }
-}
-
-.hero.white {
-  background: rgba(225, 238, 247, 1);
 }
 
 /* Story Styles */
@@ -264,9 +254,8 @@ header {
   background-size: 600px 200px, 100%;
   background-color: white;
   z-index: 1;
-  padding-bottom: 120px;
+  padding-bottom: 140px;
   padding-top: 0;
-
 
   .cloud-title {
 
@@ -363,7 +352,7 @@ header {
   margin-top:-2px;
   z-index: 2;
   border-top:2px solid;
-  background: url(../images/meadowland-farm-small.webp) center center no-repeat #F9FAFD;
+  background: url(../images/meadowland-farm-small.webp) center center no-repeat #F1F5F9;
   background-position: center 136px;
   background-size: 160%;
   padding-bottom: 260px;
@@ -396,6 +385,7 @@ header {
     .day {
       font-size: 1em;
       font-weight: 400;
+      margin-bottom: -4px;
     }
 
     .date {
@@ -444,17 +434,18 @@ header {
   margin-top:-84px;
   padding: 72px 0 42px;
   transform: rotate(-4deg);
-  background: url(../images/lights.svg) top center repeat-x, url(../images/test-grass.svg) bottom center repeat-x, url(../images/detail-wood.webp) top center repeat;
-  background-size: auto auto, 300px 42px, 1000px 277px;
-  border-top: 1px solid #222;
+  background: url(../images/lights.svg) top center repeat-x, url(../images/grass.svg) bottom center repeat-x, url(../images/detail-wood.webp) top center repeat;
+  background-size: auto auto, 300px 42px, 1000px 275px;
+  border-top: 1px solid #111;
   border-bottom: 2px solid #111;
-  z-index: 7;
+  z-index: 12;
   color:#fff;
-  box-shadow: 0 0 8px rgba(0,0,0,.8);
+  box-shadow: 0 0 8px rgba(0,0,0,.7);
+  -webkit-backface-visibility: hidden;
 
   h2 {
     font-size: 1.2em;
-    padding: 12px 40px 11px;
+    padding: 10px 40px 9px;
     margin: 0 0 32px;
     box-shadow: 0px 2px 6px rgba(0,0,0,.4);
     background: url(../images/detail-title.webp) no-repeat center center;
@@ -505,16 +496,6 @@ header {
     font-size: .9em;
     opacity: .9;
   }
-
-  .vegetables {
-    position: absolute;
-    bottom:-4px;
-    left:50%;
-    margin-left: -60px;
-    width: 90px;
-    height: 40px;
-    display: none;
-  }
 }
 
 /* Where To Stay Styles */
@@ -550,7 +531,7 @@ header {
 
   h2 {
     padding: 42px 40px;
-    margin-top:-6px;
+    margin-top:-8px;
     background: url(../images/to-stay.svg) center center no-repeat transparent;
     background-size: 260px 112px;
     margin-bottom: 32px;
@@ -664,7 +645,7 @@ footer {
   font-family: Merriweather;
   font-weight: 700;
   font-size: .8em;
-  text-shadow: 0 0 4px white;
+  text-shadow: 1px 1px 20px white;
   overflow: hidden;
 
 
@@ -693,6 +674,7 @@ footer {
       text-align: center;
       margin:0; 
       padding: 0 12px;
+      background: rgba(255,255,255,.6);
     }
 
     .left {
@@ -788,6 +770,9 @@ footer {
     background-size: 1600px 300px, auto;
     padding-bottom: 140px;
 
+    p {
+      padding: 0 4px;
+    }
     .cloud-title {
       width: 224px;
       height: 224px;
@@ -811,23 +796,21 @@ footer {
     }
   }
 
-  .to-know {
-   
-  }
-
   .wedding {
 
     background-position: center 160px;
     background-size: 140%;
-    padding-bottom: 540px;
+    padding-bottom: 440px;
 
     .when {
 
-      padding: 8px 32px;
+      padding: 8px 32px 14px;
       margin-bottom: 4px;
 
       .day {
         font-size: 1em;
+        margin-bottom: 0px;
+
       }
 
       .date {
@@ -986,6 +969,10 @@ footer {
   .story {
     padding-bottom: 120px;
 
+    p {
+      padding: 0;
+    }
+
     .cloud-title {
       margin-bottom: 40px;
     }
@@ -995,7 +982,7 @@ footer {
     background-image: url(../images/meadowland-farm.webp);
     background-position: center 60px;
     background-size: 140%;
-    padding-bottom: 540px;
+    padding-bottom: 486px;
 
       .when {
 
@@ -1061,16 +1048,6 @@ footer {
   }
 }
 
-
-
-.no-webp .hero {
-  background-image: url('../images/hero-open.jpg') !important;
-}
-
-.no-webp video {
-  background-image: url('../images/hero-open.jpg') !important;
-}
-
 .no-webp .wedding {
   background-image: url('../images/meadowland-farm-small.jpg') !important;
 }
@@ -1080,7 +1057,7 @@ footer {
 }
 
 .no-webp .to-know {
-  background-image: url(../images/lights.svg), url(../images/test-grass.svg), url(../images/detail-wood.jpg) !important;
+  background-image: url(../images/lights.svg), url(../images/grass.svg), url(../images/detail-wood.jpg) !important;
 }
 
 .no-webp .to-know h2 {
@@ -1091,13 +1068,6 @@ footer {
 
 @include media-breakpoint-up(md) {
 
-  .no-webp .hero {
-    background-image: url('../images/hero-open.jpg') !important;
-  }
-
-  .no-webp video {
-    background-image: url('../images/hero-open.jpg') !important;
-  }
 
   .no-webp .wedding {
     background-image: url('../images/meadowland-farm.jpg') !important;

@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "callumandliana",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -12,7 +12,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#e6a74e",
-    "background_color": "#e6a74e",
+    "theme_color": "#e1eef7",
+    "background_color": "#e1eef7",
     "display": "standalone"
 }

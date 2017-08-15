@@ -1,7 +1,9 @@
 
 var offsetTop;
+var outerTop;
 var opacity = 0.0;
 var position;
+var run = false;
 
 $(document).ready(function() {
 
@@ -27,32 +29,36 @@ $(document).ready(function() {
 
 	});
 
-	var outerPosition = $('.outer').offset();
-	var outerTop = outerPosition.top
-	console.log(outerTop);
-	$('.outer').css('top', outerTop + 'px');
-
-	var heroVideo = document.getElementById('video');
-	heroVideo.addEventListener('timeupdate', endVideo,false);
-
+	$('#video').on('play', function (e) {
+    	setTimeout(function(){video();}, 8000);
+	});
 
 });
 
 function video() {
-	$('.hero').addClass('white');
-	$('video').addClass('fade');
-	$('.outer').addClass('slide');
+	
+	run = true;
+	
+	var outerPosition = $('.outer').offset();
+	outerTop = outerPosition.top;
+
+	//$('video').addClass('fade');
+	$('.outer').css('transform','translateY(-' + outerTop + 'px)');
 	$('.story').addClass('pad');
+	offsetTop = 20;	
 
 	setTimeout(function(){
-		$('.hero').remove();
-		offsetTop = 20;	
-	}, 3000);
+		$('video').remove();
+	}, 10000);
 }
 
-function endVideo() {
-	var heroVideo = document.getElementById('video');
-	if (heroVideo.currentTime > 11) {
-		video();
-	}
-}
+
+
+// function endVideo() {
+// 	var heroVideo = document.getElementById('video');
+// 	console.log(heroVideo.currentTime);
+// 	if (heroVideo.currentTime > 1 && run == false) {
+// 		console.log('fade');
+// 		video();
+// 	}
+// }
