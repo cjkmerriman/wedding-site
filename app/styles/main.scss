@@ -355,7 +355,7 @@ header {
   background: url(../images/meadowland-farm-small.webp) center center no-repeat #F1F5F9;
   background-position: center 136px;
   background-size: 160%;
-  padding-bottom: 260px;
+  padding-bottom: 246px;
   box-shadow: inset 0 12px 12px rgba(0,0,0,.05);
 
   .hanger {
@@ -434,8 +434,12 @@ header {
   margin-top:-84px;
   padding: 72px 0 42px;
   transform: rotate(-4deg);
-  background: url(../images/lights.svg) top center repeat-x, url(../images/grass.svg) bottom center repeat-x, url(../images/detail-wood.webp) top center repeat;
-  background-size: auto auto, 300px 42px, 1000px 275px;
+  background: url(../images/lights.svg) top center repeat-x, 
+    url(../images/grass.svg) bottom center repeat-x,
+    url(../images/uk-flag.svg)-100% -16px no-repeat,
+    url(../images/us-flag.svg)200% -16px no-repeat,
+    url(../images/detail-wood.webp) top center repeat;
+  background-size: auto auto, 300px 42px, 182px 282px, 182px 282px, 1000px 275px;
   border-top: 1px solid #111;
   border-bottom: 2px solid #111;
   z-index: 12;
@@ -443,14 +447,15 @@ header {
   box-shadow: 0 0 8px rgba(0,0,0,.7);
   -webkit-backface-visibility: hidden;
 
+
   h2 {
     font-size: 1.2em;
     padding: 10px 40px 9px;
     margin: 0 0 32px;
-    box-shadow: 0px 2px 6px rgba(0,0,0,.4);
+    box-shadow: 0px 2px 6px rgba(0,0,0,.6);
     background: url(../images/detail-title.webp) no-repeat center center;
     background-size: 280px 60px;
-    border: 1px solid #111;
+    border: 2px solid #111;
     transform: rotate(5deg);
     color: #111;
     position: relative;
@@ -494,6 +499,15 @@ header {
     font-family: Finger Paint;
     margin-bottom: 20px;
     font-size: .9em;
+    opacity: .9;
+  }
+
+  .peaches {
+    position: absolute;
+    right: 20%;
+    top:0;
+    transform: rotate(4deg);
+    height: 260px;
     opacity: .9;
   }
 }
@@ -835,7 +849,13 @@ footer {
       }
     }
   }
-
+  .to-know {
+    background-position: top center, 
+    bottom center,
+    left -16px,
+    right -16px,
+    top center;
+  }
   footer {
     padding: 40px 0 32px;
     font-size: 1em;
@@ -1016,6 +1036,14 @@ footer {
     }
   }
 
+  .to-know {
+    background-position: top center, 
+    bottom center,
+    6% -16px,
+    94% -16px,
+    top center;
+  }
+
   .stay {
     
     background-image: url('../images/stay-map.webp');
@@ -1046,6 +1074,14 @@ footer {
       }
     }
   }
+
+  .to-know {
+    background-position: top center, 
+    bottom center,
+    16% -16px,
+    84% -16px,
+    top center;
+  }
 }
 
 .no-webp .wedding {
@@ -1057,7 +1093,7 @@ footer {
 }
 
 .no-webp .to-know {
-  background-image: url(../images/lights.svg), url(../images/grass.svg), url(../images/detail-wood.jpg) !important;
+  background-image: url(../images/lights.svg), url(../images/grass.svg), url(../images/uk-flag.svg), url(../images/us-flag.svg), url(../images/detail-wood.jpg) !important;
 }
 
 .no-webp .to-know h2 {
