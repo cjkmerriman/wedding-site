@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
 
-    <meta name="description" content="Celebrate with us on July 14th 2018 at Meadowland Farm, NY.">  
+    <meta name="description" content="Celebrate with us on July 14th 2018 at Meadowland Farm, NY.">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <title>Callum &amp; Liana Are Getting Married.</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -30,6 +30,7 @@
 
     <!-- build:css styles/vendor.css -->
     <!-- bower:css -->
+    <link rel="stylesheet" href="/bower_components/animate.css/animate.css" />
     <!-- endbower -->
     <!-- endbuild -->
     <link href="https://fonts.googleapis.com/css?family=Merriweather:700,900|Montserrat:400,500|Finger+Paint" rel="stylesheet">
@@ -37,17 +38,17 @@
     <!-- build:css styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
-    
+
     <!-- build:js scripts/vendor/modernizr.js -->
     <script src="/bower_components/modernizr/modernizr.custom.js"></script>
     <!-- endbuild -->
-    
+
   </head>
   <body>
     <!--[if IE]>
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    
+
     <header>
 
       <div class="profile">
@@ -56,10 +57,10 @@
             <source srcset="images/profile.jpg" type="image/jpg">
             <img src="images/profile.jpg" alt="Liana &amp; Callum" class="picture">
         </picture>
-        <h2 class="left-fade">callum&liana</h2>
+        <h2 class="left-fade">callum&amp;liana</h2>
         <h2 class="left-fade date">07.14.18</h2>
       </div>
-      
+
       <div class="profile profile-alt">
         <picture>
           <source srcset="images/profile-alt.webp" type="image/webp">
@@ -69,14 +70,124 @@
       </div>
 
       <h1>
-        Callum &amp; Liana <br />
+        <span class="headline">Callum &amp; Liana</span><br />
         <span class="strap">are getting married.</span><br />
         <span class="date">07.14.18</span>
       </h1>
-      
-      <a href="https://www.zola.com/registry/callumandliana" target="_blank" class="registry"><span>Registry</span></a>
+      <div class="navigation">
+        <a href="#rsvp" class="rsvp" id="rsvpAction"><span>RSVP</span></a>
+        <a href="https://www.zola.com/registry/callumandliana" target="_blank" class="registry"><span>Registry</span></a>
+      </div>
 
     </header>
+
+    <div id="rsvp" class="rsvp-hide">
+       <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-animatedModal" -->
+       <div class="close-rsvp close-top">
+           hide
+       </div>
+
+       <div class="rsvp-content">
+
+         <div class="picture">
+           <picture>
+               <source srcset="images/gelder-rose.webp" type="image/webp">
+               <source srcset="images/gelder-rose.png" type="image/png">
+               <img src="images/gelder-rose.png" alt="Gelder Rose" class="rose">
+           </picture>
+         </div>
+
+         <form method="GET" id="form">
+
+           <div class="part1">
+
+              <section class="accept">
+                <label>I would like to</label>
+                <input name="response" type="text" value="Joyfully Accept" class="response" readonly/>
+                <label>Your Invitation</label>
+                <span class="change"><img src="images/switch.svg" /></span>
+              </section>
+
+              <section class="guests">
+                <div class="attendees">
+                  <input type="radio" name="attendees" value="1" id="one"><label for="one" />1</label>
+                  <input type="radio" name="attendees" value="2" id="two" checked><label class="checked" for="two" />2</label>
+                  <input type="radio" name="attendees" value="3" id="three" /><label for="three">3</label>
+                  <input type="radio" name="attendees" value="4" id="four" /><label for="four">4</label>
+                  <input type="radio" name="attendees" value="5" id="five" /><label for="five">5</label>
+                </div>
+                <label>Invited Guests</label>
+
+              </section>
+
+              <section class="names">
+
+                <div class="name-group name-show">
+                  <input name="name1" class="name" type="text" maxlength="24" placeholder="Your Full Name" autocomplete="off" value="" />
+                </div>
+                <div class="name-group name-show">
+                  <div class="add">&amp;</div>
+                  <input name="name2" class="name" type="text" maxlength="24" placeholder="Full Name" autocomplete="off" value="" />
+                </div>
+                <div class="name-group">
+                  <div class="add">&amp;</div>
+                  <input name="name3" class="name" type="text" maxlength="24" placeholder="Full Name" autocomplete="off" value="" />
+                </div>
+                <div class="name-group">
+                  <div class="add">&amp;</div>
+                  <input name="name4" class="name" type="text" maxlength="24" placeholder="Full Name" autocomplete="off" value="" />
+                </div>
+                <div class="name-group">
+                  <div class="add">&amp;</div>
+                  <input name="name5" class="name" type="text" maxlength="24" placeholder="Full Name" autocomplete="off" value="" />
+                </div>
+
+              </section>
+
+              <section class="action" style="display:block;">
+                <input type="button" id="next" class="submit" name="next" value="Next" />
+              </section>
+
+            </div>
+
+
+            <div class="part2">
+              <section class="message">
+                  <label for="message">Write Us!</label>
+                  <textarea name="message" placeholder="Type Your Message Here" maxlength="147"></textarea>
+                  <div class="chars"><span>147</span> characters left</div>
+              </section>
+              <section class="song">
+                  <label for="message">I Will Dance If You Play</label>
+                  <input name="song" class="name" type="text" placeholder="Song Name" maxlength="24" autocomplete="off" value="" />
+                  <input name="artist" class="artist" class="name" type="text" maxlength="24" placeholder="Artist" autocomplete="off" value="" />
+              </section>
+              <section class="action">
+                <input type="submit" id="submit" class="submit" name="sumbit" value="Send RSVP" />
+              </section>
+            </div>
+
+
+            <div class="part3">
+              <section class="end">
+                <h2 class="heading attending">YES!</h2>
+                <p class="attending">We're so excited to celebrate our wedding with you!</p>
+                <p class="attending">Be sure to check out the details for the big day, our recs for the local area &amp; suggestions for accomodation.</p>
+                <h2 class="heading not-attending">NOOO!</h2>
+                <p class="not-attending">We're sorry you can't make it. Whilst we'll still have fun, you will be sorely missed.</p>
+              </section>
+
+              <section class="action">
+                <div class="close-rsvp submit">Close</div>
+              </section>
+
+            </div>
+
+
+          </form>
+
+       </div>
+     </div>
 
     <div class="hero">
       <video playsinline autoplay muted preload id="video">
@@ -89,7 +200,7 @@
 
       <section class="story">
         <div class="container">
-        
+
           <img class="cloud cloud-1" src ="images/cloud-1.svg" />
           <img class="cloud cloud-2" src ="images/cloud-2.svg" />
           <img class="cloud cloud-group-1" src ="images/cloud-group-1.svg" />
@@ -101,7 +212,7 @@
 
           <div class="row">
             <div class="col-md-8 offset-md-2">
-              
+
             <div class="cloud-title">
               <h2>Our Story</h2>
             </div>
@@ -122,17 +233,17 @@
 
       <section class="wedding">
         <div class="container">
-        
+
           <div class="row">
             <div class="col-md-6 offset-md-3">
               <div class="hanger"></div>
               <div class="when block">
                 <div class="day">Saturday</div> <div class="date">July 14th, 2018</div>
               </div>
-              <div class="time">from 5:30pm</div> 
+              <div class="time">from 5:30pm <span>to</span> 2:00am</div>
 
               <address class="block">
-                <div class="location">Meadowland Farm</div> 
+                <div class="location">Meadowland Farm</div>
                 <div class="address">689 Schultzville Rd, <span class="no-wrap">Clinton Corners, NY 12514</span></div>
               </address>
 
@@ -142,34 +253,59 @@
       </section>
 
       <section class="to-know">
-        <div class="row">
-
-          <div class="col-md-6 offset-md-3">
-            <h2>Wedding Details</h2>
-            <p>Dress for a backyard farm wedding.<br /><span class="no-wrap"> No denim or tie dye</span>.</p>
-            <p>More to come...</p>
+        <div class="lights"></div>
+        <div class="flags left"></div>
+        <div class="stuff">
+          <div class="item dress">
+            <h2>Dress Code</h2>
+            <p>Cocktail Attire with a Farmyard Twist.</p>
           </div>
-          
+          <div class="item children">
+            <h2>Children</h2>
+            <p>We love your kids but thought you might like a night off. Adults only please. Contact us if you need help finding a local babysitter.</p>
+          </div>
+          <div class="item transport">
+            <h2>Transportation</h2>
+            <p>Valet parking will be available upon arrival at the farm. We will arrange transportation between 12 &amp; 2am for those who would like to enjoy a drink. Feel free to leave your car overnight.</p>
+          </div>
+          <div class="item local">
+            <h2>Local Area</h2>
+            <p>Here are <a href="https://www.google.com/maps/d/viewer?mid=1jw9eKN0SQ6Oe2U2ryYMTprAmS0JzEGdX&shorturl=1&ll=41.8403025049088%2C-73.89851415000004&z=9" target="_blank">some of our favorite places</a> in the Hudson Valley.</p>
+          </div>
+        </div>
+        <div class="flags"></div>
+      </section>
+
+      <section class="travel">
+        <div class="stuff">
+
+              <div class="hanger"></div>
+              <h2>How To Get Here<span>Clinton Corners, NY</span></h2>
+
+              <p><strong>Meadowland Farm</strong> can be found 80 miles north of <strong class="no-wrap">New York City</strong> in <a href="https://goo.gl/maps/zvgD6rA3rHx" target="_blank">Clinton Corners</a>, accessible by train or car.</p>
+
+              <p>For the <strong>train</strong>, take either <a href="https://as0.mta.info/mnr/schedules/sched_form.cfm" target="_blank" />MTA Metro North</a> from <strong class="no-wrap">Grand Central Terminal</strong> to <strong>Poughkeepsie</strong> ($18) or the <a href="https://www.amtrak.com/home.html" target="_blank" />Amtrack</a> from <strong class="no-wrap">New York Penn Station</strong> to <strong>Rhinecliff</strong> ($30).</p>
+              <p><strong>Uber</strong> &amp; <strong>taxis</strong> are available at both destinations costing around $25 for a ride to the local area.</p>
+              <p>For <strong>rental cars</strong>, you can often get a cheaper deal by renting from the <a href="https://www.hertz.com/rentacar/location/unitedstates/newyork/whiteplains/HPNC10" target="_blank">Hertz</a> in <strong>White Plains</strong> &amp; taking a <a href="https://as0.mta.info/mnr/schedules/sched_form.cfm" target="_blank" />short train</a> there from <strong>Grand Central</strong>.
+
         </div>
       </section>
 
       <section class="stay">
+        <div class="stay-bar"></div>
         <div class="container">
-
           <div class="row">
             <div class="col-md-6 offset-md-3">
               <div class="hanger"></div>
               <h2>Where To Stay</h2>
 
-              <p>Meadowland Farm can be found 80 miles north of <span class="no-wrap">New York City</span>, in Clinton Corners. <a href="https://goo.gl/maps/zvgD6rA3rHx" target="_blank">Google Maps</a>.</p>
+              <p>Here are a few options for places to stay. See also <a href="https://www.airbnb.com/s/Clinton-Corners/homes?ne_lat=41.978528378231196&ne_lng=-73.55694137067741&sw_lat=41.64533793049419&sw_lng=-73.92155013532584&zoom=11&search_by_map=true&allow_override%5B%5D=&s_tag=s2JsjuYI" target="_blank">Airbnb</a>.</p>
 
-              <p>Here are a few options for places to stay. See also <a href="https://www.airbnb.com/s/Clinton-Corners/homes?ne_lat=42.00007652369424&ne_lng=-73.61942611188834&sw_lat=41.67624994367865&sw_lng=-73.90301070661491&zoom=11&search_by_map=true&allow_override%5B%5D=&s_tag=1_1cDP_W" target="_blank">Airbnb</a>.</p>
-            
             </div>
           </div>
 
           <div class="deck">
-            
+
             <div class="card">
               <div class="card-block">
                 <h4 class="card-title">The Beekman Arms</h4>
@@ -191,7 +327,7 @@
                 <a class="links" href="https://www.cottonwoodmotel.com" target="_blank">More Information</a>
               </div>
             </div>
-                          
+
             <div class="card">
               <div class="card-block">
                 <h4 class="card-title">Wing's Castle</h4>
@@ -213,7 +349,7 @@
                 <a class="links" href="http://themillbrookinn.com/" target="_blank">More Information</a>
               </div>
             </div>
-            
+
             <div class="card">
               <div class="card-block">
                 <h4 class="card-title">Upton Lake Cottage</h4>
@@ -235,7 +371,7 @@
                 <a class="links" href="https://www.vrbo.com/378537" target="_blank">More Information</a>
               </div>
             </div>
-            
+
             <div class="card">
               <div class="card-block">
                 <h4 class="card-title">Stilton Cottage</h4>
@@ -279,7 +415,7 @@
                 <a class="links" href="https://www.vrbo.com/969541" target="_blank">More Information</a>
               </div>
             </div>
-            
+
           </div>
 
         </div>
@@ -289,7 +425,7 @@
         </picture>
 
       </section>
-      
+
       <footer>
         <ul>
           <li class="left">We're <span class="no-wrap">Getting Married!</span></li>
@@ -299,7 +435,7 @@
       </footer>
 
     </div>
-    
+
     <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
     <script>
       (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
@@ -315,9 +451,10 @@
     <script src="/bower_components/jquery/dist/jquery.js"></script>
     <script src="/bower_components/tether/dist/js/tether.js"></script>
     <script src="/bower_components/modernizr/modernizr.custom.js"></script>
+    <script src="/bower_components/autosize/dist/autosize.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
-    
+
     <!-- build:js scripts/main.js -->
     <script src="scripts/main.js"></script>
     <!-- endbuild -->

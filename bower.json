@@ -2,8 +2,10 @@
   "name": "callumlianawedding",
   "private": true,
   "dependencies": {
-    "bootstrap": "~4.0.0-alpha.6",
-    "modernizr": "https://modernizr.com/download?webp-setclasses.zip"
+    "bootstrap": "4.0.0-beta.3",
+    "modernizr": "https://modernizr.com/download?webp-setclasses.zip",
+    "animate.css": "^3.5.2",
+    "autosize": "^4.0.0"
   },
   "devDependencies": {
     "chai": "^4.1.0",

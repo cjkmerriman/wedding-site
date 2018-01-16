@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>travel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="50%" x2="76.0264521%" y2="92.9655656%" id="linearGradient-1">
+            <stop stop-color="#F3CA7C" offset="0%"></stop>
+            <stop stop-color="#E2A767" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="11.5" cy="11.5" r="5.5"></circle>
+        <filter x="-100.0%" y="-81.8%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.776470588   0 0 0 0 0.650980392   0 0 0 0 0.407843137  0 0 0 0.8 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="In-Use" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="travel">
+            <g id="Group">
+                <rect id="Rectangle-29" fill="#F8F8F8" x="0" y="0" width="41" height="23"></rect>
+                <g id="Oval-14">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use stroke="#111111" stroke-width="2" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M41,21.952381 L0,21.952381 M0,1 L0,1 L41,1" id="Rectangle" stroke="#111111" stroke-width="2" fill="#F8F8F8"></path>
+            </g>
+        </g>
+    </g>
+</svg>
