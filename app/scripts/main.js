@@ -27,8 +27,10 @@ $(document).ready(function() {
 		beforeOpen: function() {
 		},
 		afterOpen: function() {
+			$('.outer-block').hide();
 		},
 		beforeClose: function() {
+			$('.outer-block').show();
 		},
 		afterClose: function() {
 		}
@@ -88,6 +90,8 @@ function initializeForm() {
 	initializeTextArea();
 
 	$('.accept').on('click touchstart', function (e) {
+		e.preventDefault();
+
 		var $input = $(this).children('input');
 		var val = $input.val();
 		$input.addClass('selected')
