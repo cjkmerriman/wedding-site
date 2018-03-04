@@ -277,6 +277,7 @@ header {
   z-index: 1;
   padding-bottom: 140px;
   padding-top: 0;
+  font-weight: 400;
 
   .cloud-title {
 
@@ -590,7 +591,7 @@ header {
 .travel {
 
   color: darken(#1F2538, 20%);
-  background-image: url('../images/test-track.webp'), url('../images/stay-map-small.webp');
+  background-image: url('../images/track-small.webp'), url('../images/stay-map-small.webp');
   background-position: bottom center, top center;
   background-size: 100%, 400px 605px;
   background-repeat: no-repeat, repeat;
@@ -607,54 +608,46 @@ header {
   }
 
   h2 {
-    background: darken(#1F2538, 1%);
-    color: #fff;
-    border-radius: 8px;
-    padding: 8px 40px;
+    background: darken(#32A15F, 32%);
     border:3px solid #fff;
-    outline: 3px solid darken(#1F2538, 1%);
-    font-size: 1.3em;
+    outline: 4px solid darken(#32A15F, 30%);
+    color: #f8f8f8;
+    border-radius: 3px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,.6);
+    padding:9px 64px 9px 64px;
+    font-size: 1.2em;
     position: relative;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     text-shadow: none;
-    transform: rotate(-1deg);
-
-    span {
-      display: block;
-      font-size: 11px;
-      padding-top: 4px;
-      font-weight: 400;
-      display: none;
-    }
+    -webkit-backface-visibility: hidden;
 
     &:before {
       content: '';
-      height: 8px;
-      width: 8px;
+      height: 6px;
+      width: 6px;
       border-radius: 4px;
       background: #fff;
       position: absolute;
       top:50%;
-      margin-top:-4px;
-      left: 15px;
+      margin-top:-3px;
+      left: 24px;
       z-index: 12px;
-      border: 1px solid #111;
       box-shadow: 1px 1px 2px rgba(0,0,0,.2);
     }
     &:after {
       content: '';
-      height: 8px;
-      width: 8px;
+      height: 6px;
+      width: 6px;
       border-radius: 4px;
       background: #fff;
       position: absolute;
       top:50%;
-      margin-top:-4px;
-      right: 15px;
+      margin-top:-3px;
+      right: 24px;
       z-index: 12px;
-      border: 1px solid #111;
       box-shadow: 1px 1px 2px rgba(0,0,0,.2);
     }
+
   }
 
 }
@@ -662,7 +655,6 @@ header {
 .stay {
   background: linear-gradient(0deg,hsla(0,0%,86%,.6),hsla(0,0%,100%,0) 10%) repeat-x bottom center, url('../images/subtle_white_feathers_@2X.png') repeat top center;
   background-size: 500px 333px;
-  text-shadow: 1px 1px 1px #fff;
   padding-bottom: 140px;
   position: relative;
   border-top:1px solid #666;
@@ -758,9 +750,13 @@ header {
         margin: 0;
         margin: 14px 0 12px;
         font-size: 1.1em;
+        font-weight: 700;
+        cursor: pointer;
 
         a {
           text-decoration: none;
+          font-weight: 700;
+
 
           &:hover {
             color: #222;
@@ -873,7 +869,7 @@ footer {
 
 // rsvp styles
 
-$green: #2A3C19;
+$green: lighten(#2A3C19, 6%);
 $red: #BF3458;
 
 #rsvp {
@@ -1103,10 +1099,10 @@ $red: #BF3458;
           cursor: pointer;
 
           &:hover {
-            border-color: rgba(#2A3C19, .3);
+            border-color: rgba($green, .3);
           }
           &.checked {
-            border-color: rgba(#2A3C19, 1);
+            border-color: rgba($green, 1);
             color: #2A3C19;
           }
 
@@ -1287,6 +1283,7 @@ $red: #BF3458;
     background-image: url('../images/our-story-landscape.svg'), linear-gradient(0deg, rgba(225, 238, 247, .5) 0%, rgba(225, 238, 247, .1) 25%, rgba(225, 238, 247, .2) 40%, rgba(225, 238, 247, .3) 70%, rgba(225, 238, 247, 1) 100%);
     background-size: 1600px 300px, auto;
     padding-bottom: 140px;
+    font-size: .9em;
 
     p {
       padding: 0 4px;
@@ -1510,7 +1507,8 @@ $red: #BF3458;
   }
 
   .story {
-    padding-bottom: 120px;
+    padding-bottom: 140px;
+    font-size: 1em;
 
     p {
       padding: 0;
@@ -1560,7 +1558,7 @@ $red: #BF3458;
   }
 
   .travel {
-    background-image: url('../images/test-track.png'), url('../images/stay-map.webp');
+    background-image: url('../images/track.png'), url('../images/stay-map.webp');
     background-position: bottom center, top center;
     background-size: 100%, 800px 1210px;
     background-repeat: no-repeat, repeat;
@@ -1705,7 +1703,7 @@ $red: #BF3458;
 }
 
 .no-webp .travel {
-  background-image: url('../images/test-track.png'), url('../images/stay-map-small.jpg') !important;
+  background-image: url('../images/track-small.png'), url('../images/stay-map-small.jpg') !important;
 }
 
 .no-webp .to-know {
@@ -1720,6 +1718,6 @@ $red: #BF3458;
   }
 
   .no-webp .travel {
-    background-image: url('../images/test-track.png'), url('../images/stay-map.jpg') !important;
+    background-image: url('../images/track.png'), url('../images/stay-map.jpg') !important;
   }
 }
